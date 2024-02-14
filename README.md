@@ -13,13 +13,16 @@ If you have any suggestions about this repository, please feel free to [start a 
   - [Text-to-Image Generation](#text-to-image-generation)
     - [Year 2023](#text-year-2023)
     - [Year 2022](#text-year-2022)
+    - [Year 2021](#text-year-2021)
   - [Conditional Text-to-Image Generation](#conditional-text-to-image-generation)
     - [Year 2023](#conditional-year-2023)
     - [Year 2022](#conditional-year-2022)
   - [Personalized Text-to-Image Generation](#personalized-text-to-image-generation)
     - [Year 2023](#attribute-year-2023)
     - [Year 2022](#attribute-year-2022)
-
+  - [Text-Guided Image Manipulation](#text-guided-image-manipulation) 
+    - [Year 2023](#manipulation-year-2023)
+    - [Year 2022](#manipulation-year-2022)
 <!-- omit in toc -->
 # References
 
@@ -41,10 +44,16 @@ If you have other demands of reference formats, you may refer to the original re
 <!-- omit in toc -->
 ## Text-to-Image Generation
 - <span id="text-year-2023">**Year 2023**</span>
+  - **CVPR**
+    - GigaGAN: Scaling Up GANs for Text-to-Image Synthesis [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Kang_Scaling_Up_GANs_for_Text-to-Image_Synthesis_CVPR_2023_paper.pdf) [[Reproduced Code]](https://github.com/lucidrains/gigagan-pytorch) [[Project]](https://mingukkang.github.io/GigaGAN/) [[Video]](https://www.youtube.com/watch?v=ZjxtuDQkOPY&feature=youtu.be)
   - **NeurIPS**
     - ***ImageReward:*** Learning and Evaluating Human Preferences for Text-to-Image Generation [[Paper]](https://openreview.net/pdf?id=JVzeOYEx6d) [[Code]](https://github.com/THUDM/ImageReward)
+  - **ICML**
+    - ***StyleGAN-T:*** Unlocking the Power of GANs for Fast Large-Scale Text-to-Image Synthesis [[Paper]](https://proceedings.mlr.press/v202/sauer23a/sauer23a.pdf) [[Code]](https://github.com/autonomousvision/stylegan-t) [[Project]](https://sites.google.com/view/stylegan-t/) [[Video]](https://www.youtube.com/watch?v=MMj8OTOUIok)
   - **arXiv**
     - ***P+:*** Extended Textual Conditioning in Text-to-Image Generation [[Paper]](https://prompt-plus.github.io/files/PromptPlus.pdf)
+    - ***SDXL:*** Improving Latent Diffusion Models for High-Resolution Image Synthesis [[Paper]](https://arxiv.org/pdf/2307.01952.pdf) [[Code]](https://github.com/Stability-AI/generative-models)
+    - ***SDXL-Turbo:*** Adversarial Diffusion Distillation [[Paper]](https://arxiv.org/pdf/2311.17042.pdf) [[Code]](https://github.com/Stability-AI/generative-models)
   - **Others**
     - **DALLE-3:** Improving Image Generation with Better Captions [[Paper]](https://cdn.openai.com/papers/dall-e-3.pdf)
 - <span id="text-year-2022">**Year 2022**</span>
