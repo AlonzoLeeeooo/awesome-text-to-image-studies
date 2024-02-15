@@ -7,10 +7,11 @@ If you have any suggestions about this repository, please feel free to [start a 
 
 
 <!-- omit in toc -->
-# Contents
+# <span id="contents">Contents</span>
 - [References](#references)
 - [Papers](#papers)
   - [Text-to-Image Generation](#text-to-image-generation)
+    - [Year 2024](#text-year-2024)
     - [Year 2023](#text-year-2023)
     - [Year 2022](#text-year-2022)
     - [Year 2021](#text-year-2021)
@@ -23,6 +24,10 @@ If you have any suggestions about this repository, please feel free to [start a 
   - [Text-Guided Image Manipulation](#text-guided-image-manipulation) 
     - [Year 2023](#manipulation-year-2023)
     - [Year 2022](#manipulation-year-2022)
+- [Datasets](#datasets)
+- [To-Do Lists](#to-do-lists)
+
+
 <!-- omit in toc -->
 # References
 
@@ -36,7 +41,7 @@ Based on the original references, I have made the following modifications to mak
 
 If you have other demands of reference formats, you may refer to the original references of papers by searching their names in [DBLP](https://dblp.org/) or [Google Scholar](https://scholar.google.com/).
 
-
+ [<u><small><🎯Back to Top></small></u>](#contents)
 
 <!-- omit in toc -->
 # Papers
@@ -46,9 +51,12 @@ If you have other demands of reference formats, you may refer to the original re
 - <span id="text-year-2024">**Year 2024**</span>
   - **Others**
     - **Stable Cascade** [[Code]](https://github.com/Stability-AI/StableCascade) [[Project]](https://stability.ai/news/introducing-stable-cascade)
+
+[<u><small><🎯Back to Top></small></u>](#contents)
+
 - <span id="text-year-2023">**Year 2023**</span>
   - **CVPR**
-    - GigaGAN: Scaling Up GANs for Text-to-Image Synthesis [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Kang_Scaling_Up_GANs_for_Text-to-Image_Synthesis_CVPR_2023_paper.pdf) [[Reproduced Code]](https://github.com/lucidrains/gigagan-pytorch) [[Project]](https://mingukkang.github.io/GigaGAN/) [[Video]](https://www.youtube.com/watch?v=ZjxtuDQkOPY&feature=youtu.be)
+    - ***GigaGAN:*** Scaling Up GANs for Text-to-Image Synthesis [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Kang_Scaling_Up_GANs_for_Text-to-Image_Synthesis_CVPR_2023_paper.pdf) [[Reproduced Code]](https://github.com/lucidrains/gigagan-pytorch) [[Project]](https://mingukkang.github.io/GigaGAN/) [[Video]](https://www.youtube.com/watch?v=ZjxtuDQkOPY&feature=youtu.be)
     - ***ERNIE-ViLG 2.0:*** Improving Text-to-Image Diffusion Model With Knowledge-Enhanced Mixture-of-Denoising-Experts [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Feng_ERNIE-ViLG_2.0_Improving_Text-to-Image_Diffusion_Model_With_Knowledge-Enhanced_Mixture-of-Denoising-Experts_CVPR_2023_paper.pdf)
   - **NeurIPS**
     - ***ImageReward:*** Learning and Evaluating Human Preferences for Text-to-Image Generation [[Paper]](https://openreview.net/pdf?id=JVzeOYEx6d) [[Code]](https://github.com/THUDM/ImageReward)
@@ -66,6 +74,9 @@ If you have other demands of reference formats, you may refer to the original re
     - ***Wuerstchen:*** An Efficient Architecture for Large-Scale Text-to-Image Diffusion Models [[Paper]](https://arxiv.org/pdf/2306.00637.pdf) [[Code]](https://github.com/dome272/Wuerstchen)
   - **Others**
     - **DALLE-3:** Improving Image Generation with Better Captions [[Paper]](https://cdn.openai.com/papers/dall-e-3.pdf)
+
+[<u><small><🎯Back to Top></small></u>](#contents)
+
 - <span id="text-year-2022">**Year 2022**</span>
   - **CVPR**
     - 🔥 ***Stable Diffusion:*** High-Resolution Image Synthesis With Latent Diffusion Models [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.pdf) [[Code]](https://github.com/CompVis/latent-diffusion) [[Project]](https://ommer-lab.com/research/latent-diffusion-models/)
@@ -80,6 +91,9 @@ If you have other demands of reference formats, you may refer to the original re
   - **arXiv**
     - ***DALLE-2:*** Hierarchical Text-Conditional Image Generation with CLIP Latents [[Paper]](https://cdn.openai.com/papers/dall-e-2.pdf)
     - ***PITI:*** Pretraining is All You Need for Image-to-Image Translation [[Paper]](https://arxiv.org/pdf/2205.12952.pdf) [[Code]](https://github.com/PITI-Synthesis/PITI)
+
+[<u><small><🎯Back to Top></small></u>](#contents)
+
 - <span id="text-year-2021">**Year 2021**</span>
   - **NeurIPS**
     - ***CogView:*** Mastering Text-to-Image Generation via Transformers [[Paper]](https://proceedings.neurips.cc/paper/2021/file/a4d92e2cd541fca87e4620aba658316d-Paper.pdf) [[Code]](https://github.com/THUDM/CogView) [[Demo]](https://thudm.github.io/CogView/index.html)
@@ -90,6 +104,9 @@ If you have other demands of reference formats, you may refer to the original re
 - <span id="text-year-2024">**Year 2024**</span>
   - **WACV**
     - Training-Free Layout Control with Cross-Attention Guidance [[Paper]](https://openaccess.thecvf.com/content/WACV2024/papers/Chen_Training-Free_Layout_Control_With_Cross-Attention_Guidance_WACV_2024_paper.pdf) [[Code]](https://github.com/silent-chen/layout-guidance) [[Project]](https://silent-chen.github.io/layout-guidance/) [[Demo]](https://huggingface.co/spaces/silentchen/layout-guidance)
+
+[<u><small><🎯Back to Top></small></u>](#contents)
+
 - <span id="conditional-year-2023">**Year 2023**</span>
   - **CVPR**
     - ***GLIGEN:*** Open-Set Grounded Text-to-Image Generation [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_GLIGEN_Open-Set_Grounded_Text-to-Image_Generation_CVPR_2023_paper.pdf) [[Code]](https://github.com/gligen/GLIGEN) [[Project]](https://gligen.github.io/) [[Demo]](https://huggingface.co/spaces/gligen/demo) [[Video]](https://www.youtube.com/watch?v=-MCkU7IAGKs&feature=youtu.be)
@@ -103,7 +120,12 @@ If you have other demands of reference formats, you may refer to the original re
     - Sketch-Guided Text-to-Image Diffusion Models [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3588432.3591560) [[Reproduced Code]](https://github.com/ogkalu2/Sketch-Guided-Stable-Diffusion) [[Project]](https://sketch-guided-diffusion.github.io/)
   - **arXiv**
     - ***T2I-Adapter:*** Learning Adapters to Dig out More Controllable Ability for Text-to-Image Diffusion Models [[Paper]]()
+
+[<u><small><🎯Back to Top></small></u>](#contents)
+
 - <span id="conditional-year-2022">**Year 2022**</span>
+
+[<u><small><🎯Back to Top></small></u>](#contents)
 
 <!-- omit in toc -->
 ## Personalized Text-to-Image Generation
@@ -121,7 +143,12 @@ If you have other demands of reference formats, you may refer to the original re
     - Encoder-based Domain Tuning for Fast Personalization of Text-to-Image Models [[Paper]](https://arxiv.org/pdf/2302.12228.pdf) [[Project]](https://tuning-encoder.github.io/)
   - **arXiv**
     - ***InstantBooth:*** Personalized Text-to-Image Generation without Test-Time Finetuning [[Paper]](https://arxiv.org/pdf/2304.03411.pdf) [[Project]](https://jshi31.github.io/InstantBooth/)
+
+[<u><small><🎯Back to Top></small></u>](#contents)
+
 - <span id="attribute-year-2022">**Year 2022**</span>
+
+[<u><small><🎯Back to Top></small></u>](#contents)
 
 <!-- omit in toc -->
 ## Text-Guided Image Manipulation
@@ -129,9 +156,21 @@ If you have other demands of reference formats, you may refer to the original re
   - **ICCV**
     - ***MasaCtrl:*** Tuning-Free Mutual Self-Attention Control for Consistent Image Synthesis and Editing [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Cao_MasaCtrl_Tuning-Free_Mutual_Self-Attention_Control_for_Consistent_Image_Synthesis_and_ICCV_2023_paper.pdf) [[Code]](https://github.com/TencentARC/MasaCtrl) [[Project]](https://ljzycmd.github.io/projects/MasaCtrl/) [[Demo]](https://colab.research.google.com/drive/1DZeQn2WvRBsNg4feS1bJrwWnIzw1zLJq?usp=sharing)
     - Localizing Object-level Shape Variations with Text-to-Image Diffusion Models [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Patashnik_Localizing_Object-Level_Shape_Variations_with_Text-to-Image_Diffusion_Models_ICCV_2023_paper.pdf) [[Code]](https://github.com/orpatashnik/local-prompt-mixing) [[Project]](https://orpatashnik.github.io/local-prompt-mixing/) [[Demo]](https://huggingface.co/spaces/orpatashnik/local-prompt-mixing)
+
+[<u><small><🎯Back to Top></small></u>](#contents)
+
 - <span id="manipulation-year-2022">**Year 2022**</span>
   - **CVPR**
     - ***DiffusionCLIP:*** Text-Guided Diffusion Models for Robust Image Manipulation [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Kim_DiffusionCLIP_Text-Guided_Diffusion_Models_for_Robust_Image_Manipulation_CVPR_2022_paper.pdf) [[Code]](https://github.com/gwang-kim/DiffusionCLIP)
+
+[<u><small><🎯Back to Top></small></u>](#contents)
+
+
+<!-- omit in toc -->
+# Datasets
+
+
+[<u><small><🎯Back to Top></small></u>](#contents)
 
 
 <!-- omit in toc -->
@@ -144,3 +183,5 @@ If you have other demands of reference formats, you may refer to the original re
   - [ ] Update NeurIPS papers
   - [ ] Update ICLR papers
 - Regular Maintenance of Preprint arXiv Papers and Missed Papers
+
+[<u><small><🎯Back to Top></small></u>](#contents)
