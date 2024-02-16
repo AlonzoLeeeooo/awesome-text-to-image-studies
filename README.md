@@ -49,6 +49,8 @@ If you have other demands of reference formats, you may refer to the original re
 <!-- omit in toc -->
 ## Text-to-Image Generation
 - <span id="text-year-2024">**Year 2024**</span>
+  - **arXiv**
+    - Self-Play Fine-Tuning of Diffusion Models for Text-to-Image Generation [[Paper]](https://arxiv.org/pdf/2402.10210.pdf)
   - **Others**
     - **Stable Cascade** [[Code]](https://github.com/Stability-AI/StableCascade) [[Project]](https://stability.ai/news/introducing-stable-cascade)
 
