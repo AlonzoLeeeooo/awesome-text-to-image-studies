@@ -16,6 +16,7 @@ If you have any suggestions about this repository, please feel free to [start a 
     - [Year 2022](#text-year-2022)
     - [Year 2021](#text-year-2021)
   - [Conditional Text-to-Image Generation](#conditional-text-to-image-generation)
+    - [Year 2024](#conditional-year-2024)
     - [Year 2023](#conditional-year-2023)
     - [Year 2022](#conditional-year-2022)
   - [Personalized Text-to-Image Generation](#personalized-text-to-image-generation)
@@ -94,6 +95,13 @@ If you have other demands of reference formats, you may refer to the original re
     - ***LAFITE:*** Towards Language-Free Training for Text-to-Image Generation [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhou_Towards_Language-Free_Training_for_Text-to-Image_Generation_CVPR_2022_paper.pdf) [[Code]](https://github.com/drboog/Lafite)
     - Text-to-Image Synthesis based on Object-Guided Joint-Decoding Transformer [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Wu_Text-to-Image_Synthesis_Based_on_Object-Guided_Joint-Decoding_Transformer_CVPR_2022_paper.pdf)
     - ***StyleT2I:*** Toward Compositional and High-Fidelity Text-to-Image Synthesis [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_StyleT2I_Toward_Compositional_and_High-Fidelity_Text-to-Image_Synthesis_CVPR_2022_paper.pdf) [[Code]](https://github.com/zhihengli-UR/StyleT2I)
+  - **ECCV**
+    - ***Make-A-Scene:*** Scene-Based Text-to-Image Generation with Human Priors [[Paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136750087.pdf) [[Code]](https://github.com/CasualGANPapers/Make-A-Scene) [[Demo]](https://colab.research.google.com/drive/1SPyQ-epTsAOAu8BEohUokN4-b5RM_TnE?usp=sharing)
+    - Trace Controlled Text to Image Generation [[Paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136960058.pdf)
+    - Improved Masked Image Generation with Token-Critic [[Paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136830070.pdf)
+    - ***VQGAN-CLIP:*** Open Domain Image Generation and Manipulation Using Natural Language [[Paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136970088.pdf) [[Code]](https://github.com/EleutherAI/vqgan-clip)
+    - ***TISE:*** Bag of Metrics for Text-to-Image Synthesis Evaluation [[Paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136960585.pdf) [[Code]](https://github.com/VinAIResearch/tise-toolbox)
+    - ***StoryDALL-E:*** Adapting Pretrained Text-to-image Transformers for Story Continuation [[Paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136970070.pdf) [[Code]](https://github.com/adymaharana/storydalle) [[Demo]](https://huggingface.co/spaces/ECCV2022/storydalle)
   - **NeurIPS**
     - ***CogView2:*** Faster and Better Text-to-Image Generation via Hierarchical Transformers [[Paper]](https://openreview.net/pdf?id=GkDbQb6qu_r) [[Code]](https://openreview.net/pdf?id=GkDbQb6qu_r)
     - ***Imagen:*** Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding [[Paper]](https://papers.nips.cc/paper_files/paper/2022/file/ec795aeadae0b7d230fa35cbaf04c041-Paper-Conference.pdf) [[Reproduced Code]](https://github.com/lucidrains/imagen-pytorch) [[Project]](https://imagen.research.google/) [[***Imagen 2***]](https://deepmind.google/technologies/imagen-2/)
@@ -108,9 +116,14 @@ If you have other demands of reference formats, you may refer to the original re
     - ***CogView:*** Mastering Text-to-Image Generation via Transformers [[Paper]](https://proceedings.neurips.cc/paper/2021/file/a4d92e2cd541fca87e4620aba658316d-Paper.pdf) [[Code]](https://github.com/THUDM/CogView) [[Demo]](https://thudm.github.io/CogView/index.html)
   - **ICML**
     - ***DALLE-1:*** Zero-Shot Text-to-Image Generation [[Paper]](https://proceedings.mlr.press/v139/ramesh21a/ramesh21a.pdf) [[Reproduced Code]](https://github.com/lucidrains/DALLE-pytorch)
+  - **ICCV**
+    -  ***DAE-GAN:*** Dynamic Aspect-aware GAN for Text-to-Image Synthesis [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Ruan_DAE-GAN_Dynamic_Aspect-Aware_GAN_for_Text-to-Image_Synthesis_ICCV_2021_paper.pdf) [[Code]](https://github.com/hiarsal/DAE-GAN)
+
+
+
 <!-- omit in toc -->
 ## Conditional Text-to-Image Generation
-- <span id="text-year-2024">**Year 2024**</span>
+- <span id="conditional-year-2024">**Year 2024**</span>
   - **WACV**
     - Training-Free Layout Control with Cross-Attention Guidance [[Paper]](https://openaccess.thecvf.com/content/WACV2024/papers/Chen_Training-Free_Layout_Control_With_Cross-Attention_Guidance_WACV_2024_paper.pdf) [[Code]](https://github.com/silent-chen/layout-guidance) [[Project]](https://silent-chen.github.io/layout-guidance/) [[Demo]](https://huggingface.co/spaces/silentchen/layout-guidance)
 
@@ -125,6 +138,7 @@ If you have other demands of reference formats, you may refer to the original re
     - ***ReCo:*** Region-Controlled Text-to-Image Generation [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_ReCo_Region-Controlled_Text-to-Image_Generation_CVPR_2023_paper.pdf) [[Code]](https://github.com/microsoft/ReCo)
   - **ICCV**
     - ***ControlNet:*** Adding Conditional Control to Text-to-Image Diffusion Models [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_Adding_Conditional_Control_to_Text-to-Image_Diffusion_Models_ICCV_2023_paper.pdf) [[Code]](https://github.com/lllyasviel/ControlNet)
+    - ***SceneGenie:*** Scene Graph Guided Diffusion Models for Image Synthesis [[Paper]](https://openaccess.thecvf.com/content/ICCV2023W/SG2RL/papers/Farshad_SceneGenie_Scene_Graph_Guided_Diffusion_Models_for_Image_Synthesis_ICCVW_2023_paper.pdf) [[Code]](https://openaccess.thecvf.com/content/ICCV2023W/SG2RL/papers/Farshad_SceneGenie_Scene_Graph_Guided_Diffusion_Models_for_Image_Synthesis_ICCVW_2023_paper.pdf)
   - **ICML**
     - ***Composer:*** Creative and Controllable Image Synthesis with Composable Conditions [[Paper]](https://proceedings.mlr.press/v202/huang23b/huang23b.pdf) [[Code]](https://github.com/ali-vilab/composer) [[Project]](https://ali-vilab.github.io/composer-page/)
     - ***MultiDiffusion:*** Fusing Diffusion Paths for Controlled Image Generation [[Paper]](https://proceedings.mlr.press/v202/bar-tal23a/bar-tal23a.pdf) [[Code]](https://github.com/omerbt/MultiDiffusion) [[Video]](https://www.youtube.com/watch?v=D2Q0D1gIeqg) [[Project]](https://multidiffusion.github.io/) [[Demo]](https://huggingface.co/spaces/weizmannscience/MultiDiffusion)
@@ -200,8 +214,8 @@ If you have other demands of reference formats, you may refer to the original re
 # To-Do Lists
 - Published Papers on Conferences
   - [x] Update CVPR papers
-  - [ ] Update ICCV papers
-  - [ ] Update ECCV papers
+  - [x] Update ICCV papers
+  - [x] Update ECCV papers
   - [ ] Update ACM MM papers
   - [ ] Update NeurIPS papers
   - [ ] Update ICLR papers
