@@ -160,6 +160,7 @@ If you have other demands of reference formats, you may refer to the original re
   - **arXiv**
     - ***InstantBooth:*** Personalized Text-to-Image Generation without Test-Time Finetuning [[Paper]](https://arxiv.org/pdf/2304.03411.pdf) [[Project]](https://jshi31.github.io/InstantBooth/)
     - ***DreamTuner:*** Single Image is Enough for Subject-Driven Generation [[Paper]](https://arxiv.org/pdf/2312.13691.pdf) [[Project]](https://dreamtuner-diffusion.github.io/)
+    - ***PhotoMaker:*** Customizing Realistic Human Photos via Stacked ID Embedding [[Paper]](https://arxiv.org/pdf/2312.04461.pdf) [[Code]](https://github.com/TencentARC/PhotoMaker)
 
 [<u><small><🎯Back to Top></small></u>](#contents)
 
