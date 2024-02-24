@@ -54,7 +54,8 @@ If you have other demands of reference formats, you may refer to the original re
     - Self-Play Fine-Tuning of Diffusion Models for Text-to-Image Generation [[Paper]](https://arxiv.org/pdf/2402.10210.pdf)
     - ***RPG:*** Mastering Text-to-Image Diffusion: Recaptioning, Planning, and Generating with Multimodal LLMs [[Paper]](https://arxiv.org/pdf/2401.11708.pdf) [[Code]](https://github.com/YangLing0818/RPG-DiffusionMaster)
   - **Others**
-    - **Stable Cascade** [[Code]](https://github.com/Stability-AI/StableCascade) [[Project]](https://stability.ai/news/introducing-stable-cascade)
+    - ***Stable Cascade*** [[Blog]](https://stability.ai/news/introducing-stable-cascade) [[Code]](https://github.com/Stability-AI/StableCascade) 
+    - ***Stable Diffusion 3.0*** [[Blog]](https://stability.ai/news/stable-diffusion-3)
 
 [<u><small><🎯Back to Top></small></u>](#contents)
 
@@ -74,6 +75,7 @@ If you have other demands of reference formats, you may refer to the original re
     - ***Muse:*** Text-To-Image Generation via Masked Generative Transformers [[Paper]](https://proceedings.mlr.press/v202/chang23b/chang23b.pdf) [[Reproduced Code]](https://github.com/lucidrains/muse-maskgit-pytorch) [[Project]](https://muse-icml.github.io/)
   - **ACM MM**
     - ***SUR-adapter:*** Enhancing Text-to-Image Pre-trained Diffusion Models with Large Language Models [[Paper]](https://arxiv.org/pdf/2305.05189.pdf) [[Code]](https://github.com/Qrange-group/SUR-adapter)
+    - ***ControlStyle:*** Text-Driven Stylized Image Generation Using Diffusion Priors [[Paper]](https://arxiv.org/pdf/2311.05463.pdf)
   - **SIGGRAPH**
     - ***Attend-and-Excite:*** Attention-Based Semantic Guidance for Text-to-Image Diffusion Models [[Paper]](https://arxiv.org/pdf/2301.13826.pdf) [[Code]](https://github.com/yuval-alaluf/Attend-and-Excite) [[Project]](https://yuval-alaluf.github.io/Attend-and-Excite/) [[Demo]](https://huggingface.co/spaces/AttendAndExcite/Attend-and-Excite)
   - **arXiv**
@@ -105,6 +107,8 @@ If you have other demands of reference formats, you may refer to the original re
   - **NeurIPS**
     - ***CogView2:*** Faster and Better Text-to-Image Generation via Hierarchical Transformers [[Paper]](https://openreview.net/pdf?id=GkDbQb6qu_r) [[Code]](https://openreview.net/pdf?id=GkDbQb6qu_r)
     - ***Imagen:*** Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding [[Paper]](https://papers.nips.cc/paper_files/paper/2022/file/ec795aeadae0b7d230fa35cbaf04c041-Paper-Conference.pdf) [[Reproduced Code]](https://github.com/lucidrains/imagen-pytorch) [[Project]](https://imagen.research.google/) [[***Imagen 2***]](https://deepmind.google/technologies/imagen-2/)
+  - **ACM MM**
+    - ***Adma-GAN:*** Attribute-Driven Memory Augmented GANs for Text-to-Image Generation [[Paper]](https://arxiv.org/pdf/2209.14046.pdf) [[Code]](https://github.com/Hsintien-Ng/Adma-GAN)
   - **arXiv**
     - ***DALLE-2:*** Hierarchical Text-Conditional Image Generation with CLIP Latents [[Paper]](https://cdn.openai.com/papers/dall-e-2.pdf)
     - ***PITI:*** Pretraining is All You Need for Image-to-Image Translation [[Paper]](https://arxiv.org/pdf/2205.12952.pdf) [[Code]](https://github.com/PITI-Synthesis/PITI)
@@ -149,8 +153,11 @@ If you have other demands of reference formats, you may refer to the original re
     - ***Prompt Diffusion:*** In-Context Learning Unlocked for Diffusion Models [[Paper]](https://openreview.net/pdf?id=6BZS2EAkns) [[Code]](https://github.com/Zhendong-Wang/Prompt-Diffusion) [[Project]](https://zhendong-wang.github.io/prompt-diffusion.github.io/)
   - **WACV**
     - More Control for Free! Image Synthesis with Semantic Diffusion Guidance [[Paper]](https://openaccess.thecvf.com/content/WACV2023/papers/Liu_More_Control_for_Free_Image_Synthesis_With_Semantic_Diffusion_Guidance_WACV_2023_paper.pdf)
+  - **ACM MM**
+  -  ***LayoutLLM-T2I:*** Eliciting Layout Guidance from LLM for Text-to-Image Generation [[Paper]](https://arxiv.org/pdf/2308.05095.pdf)
   - **arXiv**
     - ***T2I-Adapter:*** Learning Adapters to Dig out More Controllable Ability for Text-to-Image Diffusion Models [[Paper]](https://arxiv.org/pdf/2302.08453.pdf) [[Code]](https://github.com/TencentARC/T2I-Adapter) [[Demo]](https://huggingface.co/spaces/TencentARC/T2I-Adapter-SDXL)
+    - ***BLIP-Diffusion:*** Pre-trained Subject Representation for Controllable Text-to-Image Generation and Editing [[Paper]](https://arxiv.org/pdf/2305.14720.pdf) [[Code]](https://github.com/salesforce/LAVIS/tree/main/projects/blip-diffusion)
 
 [<u><small><🎯Back to Top></small></u>](#contents)
 
