@@ -15,6 +15,7 @@ If you have any suggestions about this repository, please feel free to [start a 
     - [Year 2023](#text-year-2023)
     - [Year 2022](#text-year-2022)
     - [Year 2021](#text-year-2021)
+    - [Year 2020](#text-year-2020)
   - [Conditional Text-to-Image Generation](#conditional-text-to-image-generation)
     - [Year 2024](#conditional-year-2024)
     - [Year 2023](#conditional-year-2023)
@@ -27,6 +28,7 @@ If you have any suggestions about this repository, please feel free to [start a 
     - [Year 2022](#manipulation-year-2022)
 - [Datasets](#datasets)
 - [To-Do Lists](#to-do-lists)
+- [Q&A](#qa)
 
 
 <!-- omit in toc -->
@@ -70,6 +72,8 @@ If you have other demands of reference formats, you may refer to the original re
     - ***RIATIG:*** Reliable and Imperceptible Adversarial Text-to-Image Generation with Natural Prompts [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_RIATIG_Reliable_and_Imperceptible_Adversarial_Text-to-Image_Generation_With_Natural_Prompts_CVPR_2023_paper.pdf) [[Code]](https://github.com/WUSTL-CSPL/RIATIG)
   - **NeurIPS**
     - ***ImageReward:*** Learning and Evaluating Human Preferences for Text-to-Image Generation [[Paper]](https://openreview.net/pdf?id=JVzeOYEx6d) [[Code]](https://github.com/THUDM/ImageReward)
+  - **ICLR**
+    - Training-Free Structured Diffusion Guidance for Compositional Text-to-Image Synthesis [[Paper]](https://openreview.net/pdf?id=PUIqjT4rzq7) [[Code]](https://github.com/weixi-feng/Structured-Diffusion-Guidance)
   - **ICML**
     - ***StyleGAN-T:*** Unlocking the Power of GANs for Fast Large-Scale Text-to-Image Synthesis [[Paper]](https://proceedings.mlr.press/v202/sauer23a/sauer23a.pdf) [[Code]](https://github.com/autonomousvision/stylegan-t) [[Project]](https://sites.google.com/view/stylegan-t/) [[Video]](https://www.youtube.com/watch?v=MMj8OTOUIok)
     - ***Muse:*** Text-To-Image Generation via Masked Generative Transformers [[Paper]](https://proceedings.mlr.press/v202/chang23b/chang23b.pdf) [[Reproduced Code]](https://github.com/lucidrains/muse-maskgit-pytorch) [[Project]](https://muse-icml.github.io/)
@@ -109,6 +113,9 @@ If you have other demands of reference formats, you may refer to the original re
     - ***Imagen:*** Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding [[Paper]](https://papers.nips.cc/paper_files/paper/2022/file/ec795aeadae0b7d230fa35cbaf04c041-Paper-Conference.pdf) [[Reproduced Code]](https://github.com/lucidrains/imagen-pytorch) [[Project]](https://imagen.research.google/) [[***Imagen 2***]](https://deepmind.google/technologies/imagen-2/)
   - **ACM MM**
     - ***Adma-GAN:*** Attribute-Driven Memory Augmented GANs for Text-to-Image Generation [[Paper]](https://arxiv.org/pdf/2209.14046.pdf) [[Code]](https://github.com/Hsintien-Ng/Adma-GAN)
+    - Background Layout Generation and Object Knowledge Transfer for Text-to-Image Generation [[Paper]](https://dl.acm.org/doi/abs/10.1145/3503161.3548154)
+    - ***DSE-GAN:*** Dynamic Semantic Evolution Generative Adversarial Network for Text-to-Image Generation [[Paper]](https://arxiv.org/pdf/2209.01339.pdf)
+    - ***AtHom:*** Two Divergent Attentions Stimulated By Homomorphic Training in Text-to-Image Synthesis [[Paper]](https://dl.acm.org/doi/abs/10.1145/3503161.3548159)
   - **arXiv**
     - ***DALLE-2:*** Hierarchical Text-Conditional Image Generation with CLIP Latents [[Paper]](https://cdn.openai.com/papers/dall-e-2.pdf)
     - ***PITI:*** Pretraining is All You Need for Image-to-Image Translation [[Paper]](https://arxiv.org/pdf/2205.12952.pdf) [[Code]](https://github.com/PITI-Synthesis/PITI)
@@ -116,14 +123,24 @@ If you have other demands of reference formats, you may refer to the original re
 [<u><small><🎯Back to Top></small></u>](#contents)
 
 - <span id="text-year-2021">**Year 2021**</span>
-  - **NeurIPS**
-    - ***CogView:*** Mastering Text-to-Image Generation via Transformers [[Paper]](https://proceedings.neurips.cc/paper/2021/file/a4d92e2cd541fca87e4620aba658316d-Paper.pdf) [[Code]](https://github.com/THUDM/CogView) [[Demo]](https://thudm.github.io/CogView/index.html)
-  - **ICML**
-    - ***DALLE-1:*** Zero-Shot Text-to-Image Generation [[Paper]](https://proceedings.mlr.press/v139/ramesh21a/ramesh21a.pdf) [[Reproduced Code]](https://github.com/lucidrains/DALLE-pytorch)
   - **ICCV**
     -  ***DAE-GAN:*** Dynamic Aspect-aware GAN for Text-to-Image Synthesis [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Ruan_DAE-GAN_Dynamic_Aspect-Aware_GAN_for_Text-to-Image_Synthesis_ICCV_2021_paper.pdf) [[Code]](https://github.com/hiarsal/DAE-GAN)
+  - **NeurIPS**
+    - ***CogView:*** Mastering Text-to-Image Generation via Transformers [[Paper]](https://proceedings.neurips.cc/paper/2021/file/a4d92e2cd541fca87e4620aba658316d-Paper.pdf) [[Code]](https://github.com/THUDM/CogView) [[Demo]](https://thudm.github.io/CogView/index.html)
+    - ***UFC-BERT:*** Unifying Multi-Modal Controls for Conditional Image Synthesis [[Paper]](https://proceedings.neurips.cc/paper/2021/file/e46bc064f8e92ac2c404b9871b2a4ef2-Paper.pdf)
+  - **ICML**
+    - ***DALLE-1:*** Zero-Shot Text-to-Image Generation [[Paper]](https://proceedings.mlr.press/v139/ramesh21a/ramesh21a.pdf) [[Reproduced Code]](https://github.com/lucidrains/DALLE-pytorch)
+   -  **ACM MM**
+      -  Cycle-Consistent Inverse GAN for Text-to-Image Synthesis [[Paper]](https://arxiv.org/pdf/2108.01361.pdf)
+      -  ***R-GAN:*** Exploring Human-like Way for Reasonable Text-to-Image Synthesis via Generative Adversarial Networks [[Paper]](https://dl.acm.org/doi/10.1145/3474085.3475363)
 
+[<u><small><🎯Back to Top></small></u>](#contents)
 
+- <span id="text-year-2020">**Year 2020**</span>
+  - **ACM MM**
+    - Text-to-Image Synthesis via Aesthetic Layout [[Paper]](https://dl.acm.org/doi/10.1145/3394171.3414357)
+
+[<u><small><🎯Back to Top></small></u>](#contents)
 
 <!-- omit in toc -->
 ## Conditional Text-to-Image Generation
@@ -223,9 +240,30 @@ If you have other demands of reference formats, you may refer to the original re
   - [x] Update CVPR papers
   - [x] Update ICCV papers
   - [x] Update ECCV papers
-  - [ ] Update ACM MM papers
-  - [ ] Update NeurIPS papers
+  - [x] Update ACM MM papers
+  - [x] Update NeurIPS papers
   - [ ] Update ICLR papers
+- [ ] Create A List with only Diffusion Model-based Papers
 - Regular Maintenance of Preprint arXiv Papers and Missed Papers
+
+[<u><small><🎯Back to Top></small></u>](#contents)
+
+<!-- omit in toc -->
+# Q&A
+- **Q: The conference sequence of this paper list?**
+  - This paper list is organized according to the following sequence:
+    - CVPR
+    - ICCV
+    - ECCV
+    - WACV
+    - NeurIPS
+    - ICLR
+    - ICML
+    - ACM MM
+    - SIGGRAPH
+    - arXiv
+    - Others
+- **Q: What does `Others` refers to?**
+  - Some of the following studies (e.g., `Stable Casacade`) does not publish their technical report on arXiv. Instead, they tend to write a blog in their official websites. The `Others` category refers to such kind of studies.
 
 [<u><small><🎯Back to Top></small></u>](#contents)
