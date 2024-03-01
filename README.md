@@ -262,7 +262,6 @@ If you have any suggestions about this repository, please feel free to [start a 
 |Stable Diffusion WebUI|[link](https://github.com/AUTOMATIC1111/stable-diffusion-webui)|Built based on Gradio, deployed locally to run Stable Diffusion checkpoints, LoRA weights, ControlNet weights, etc.|
 |ComfyUI|[link](https://github.com/comfyanonymous/ComfyUI)|Deployed locally to enable customized workflows with Stable Diffusion
 |Civitai|[link](https://civitai.com/)|Websites for community Stable Diffusion and LoRA checkpoints|
-||||
 
 [<u><small><🎯Back to Top></small></u>](#contents)
 
