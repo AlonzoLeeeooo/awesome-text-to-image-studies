@@ -58,7 +58,6 @@ If you have any suggestions about this repository, please feel free to [start a 
 |Ideogram|[link](https://ideogram.ai/login)|Text images|
 |Playground|[link](https://playground.com/)|Athestic images|
 |HiDream.ai|[link](https://hidreamai.com/#/)|-|
-|||
 
 [<u><small><🎯Back to Top></small></u>](#contents)
 
