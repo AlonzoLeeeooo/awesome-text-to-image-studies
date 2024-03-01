@@ -9,7 +9,7 @@ If you have any suggestions about this repository, please feel free to [start a 
 <!-- omit in toc -->
 # <span id="contents">Contents</span>
 - [🔥 News](#🔥-news)
-- [Available Products](#available-products)
+- [Products](#available-products)
 - [To-Do Lists](#to-do-lists)
 - [Papers](#papers)
   - [Text-to-Image Generation](#text-to-image-generation)
@@ -49,7 +49,7 @@ If you have any suggestions about this repository, please feel free to [start a 
 [<u><small><🎯Back to Top></small></u>](#contents)
 
 <!-- omit in toc -->
-# Available Products
+# Products
 |Name|Website|Specialties|
 |-|-|-|
 |Midjourney|[link](https://www.midjourney.com/home)|Powerful close-sourced generation tool|
