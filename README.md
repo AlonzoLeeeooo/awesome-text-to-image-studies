@@ -8,7 +8,9 @@ If you have any suggestions about this repository, please feel free to [start a 
 
 <!-- omit in toc -->
 # <span id="contents">Contents</span>
-- [References](#references)
+- [🔥 News](#🔥-news)
+- [Available Products](#available-products)
+- [To-Do Lists](#to-do-lists)
 - [Papers](#papers)
   - [Text-to-Image Generation](#text-to-image-generation)
     - [Year 2024](#text-year-2024)
@@ -27,24 +29,39 @@ If you have any suggestions about this repository, please feel free to [start a 
     - [Year 2023](#manipulation-year-2023)
     - [Year 2022](#manipulation-year-2022)
 - [Datasets](#datasets)
-- [To-Do Lists](#to-do-lists)
+- [Toolkits](#toolkits)
 - [Q&A](#qa)
-
+- [References](#references)
 
 <!-- omit in toc -->
-# References
+# 🔥 News
+- [Mar. 1st] Websites of [**the off-the-shelf text-to-image generation products**](#available-products) and [**toolkits**](#toolkits) are summarized.
 
-The `reference.bib` file summarizes bibtex references of up-to-date image inpainting papers, widely used datasets, and toolkits.
-Based on the original references, I have made the following modifications to make their results look nice in the `LaTeX` manuscripts:
-- Refereces are normally constructed in the form of `author-etal-year-nickname`. Particularly, references of datasets and toolkits are directly constructed as `nickname`, e.g., `imagenet`.
-- In each reference, all names of conferences/journals are converted into abbreviations, e.g., `Computer Vision and Pattern Recognition -> CVPR`.
-- The `url`, `doi`, `publisher`, `organization`, `editor`, `series` in all references are removed.
-- The `pages` of all references are added if they are missing.
-- All paper names are in title case. Besides, I have added an additional `{}` to make sure that the title case would also work well in some particular templates. 
+<!-- omit in toc -->
+# To-Do Lists
+- Published Papers on Conferences
+  - [ ] Update AAAI 2024 Papers
+  - [ ] Update ICLR 2024 Papers
+  - [ ] Update CVPR 2024 Papers
+- [ ] Create A List with only Diffusion Model-based Papers
+- Regular Maintenance of Preprint arXiv Papers and Missed Papers
 
-If you have other demands of reference formats, you may refer to the original references of papers by searching their names in [DBLP](https://dblp.org/) or [Google Scholar](https://scholar.google.com/).
+[<u><small><🎯Back to Top></small></u>](#contents)
 
- [<u><small><🎯Back to Top></small></u>](#contents)
+<!-- omit in toc -->
+# Available Products
+|Name|Website|Specialties|
+|-|-|-|
+|Midjourney|[link](https://www.midjourney.com/home)|Powerful close-sourced generation tool|
+|Stable Video|[link](https://www.stablevideo.com/)|High-quality high-resolution images|
+|DALL-E 3|[link](https://openai.com/dall-e-3)|Collaborate with [ChatGPT](https://chat.openai.com/)|
+|Ideogram|[link](https://ideogram.ai/login)|Text images|
+|Playground|[link](https://playground.com/)|Athestic images|
+|HiDream.ai|[link](https://hidreamai.com/#/)|-|
+|||
+
+[<u><small><🎯Back to Top></small></u>](#contents)
+
 
 <!-- omit in toc -->
 # Papers
@@ -52,9 +69,12 @@ If you have other demands of reference formats, you may refer to the original re
 <!-- omit in toc -->
 ## Text-to-Image Generation
 - <span id="text-year-2024">**Year 2024**</span>
+  - **CVPR**
+    - ***DistriFusion:*** Distributed Parallel Inference for High-Resolution Diffusion Models [[Paper]](https://arxiv.org/pdf/2402.19481.pdf) [[Code]](https://github.com/mit-han-lab/distrifuser)
   - **arXiv**
     - Self-Play Fine-Tuning of Diffusion Models for Text-to-Image Generation [[Paper]](https://arxiv.org/pdf/2402.10210.pdf)
     - ***RPG:*** Mastering Text-to-Image Diffusion: Recaptioning, Planning, and Generating with Multimodal LLMs [[Paper]](https://arxiv.org/pdf/2401.11708.pdf) [[Code]](https://github.com/YangLing0818/RPG-DiffusionMaster)
+    - ***Playground v2.5:*** Three Insights towards Enhancing Aesthetic Quality in Text-to-Image Generation [[Paper]](https://arxiv.org/pdf/2402.17245.pdf) [[Code]](https://huggingface.co/playgroundai/playground-v2.5-1024px-aesthetic)
   - **Others**
     - ***Stable Cascade*** [[Blog]](https://stability.ai/news/introducing-stable-cascade) [[Code]](https://github.com/Stability-AI/StableCascade) 
     - ***Stable Diffusion 3.0*** [[Blog]](https://stability.ai/news/stable-diffusion-3)
@@ -217,6 +237,8 @@ If you have other demands of reference formats, you may refer to the original re
   - **ICCV**
     - ***MasaCtrl:*** Tuning-Free Mutual Self-Attention Control for Consistent Image Synthesis and Editing [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Cao_MasaCtrl_Tuning-Free_Mutual_Self-Attention_Control_for_Consistent_Image_Synthesis_and_ICCV_2023_paper.pdf) [[Code]](https://github.com/TencentARC/MasaCtrl) [[Project]](https://ljzycmd.github.io/projects/MasaCtrl/) [[Demo]](https://colab.research.google.com/drive/1DZeQn2WvRBsNg4feS1bJrwWnIzw1zLJq?usp=sharing)
     - Localizing Object-level Shape Variations with Text-to-Image Diffusion Models [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Patashnik_Localizing_Object-Level_Shape_Variations_with_Text-to-Image_Diffusion_Models_ICCV_2023_paper.pdf) [[Code]](https://github.com/orpatashnik/local-prompt-mixing) [[Project]](https://orpatashnik.github.io/local-prompt-mixing/) [[Demo]](https://huggingface.co/spaces/orpatashnik/local-prompt-mixing)
+  - **ICLR**
+    - SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations [[Paper]](https://arxiv.org/pdf/2108.01073.pdf) [[Code]](https://github.com/ermongroup/SDEdit) [[Project]](https://sde-image-editing.github.io/)
 - <span id="manipulation-year-2022">**Year 2022**</span>
   - **CVPR**
     - ***DiffusionCLIP:*** Text-Guided Diffusion Models for Robust Image Manipulation [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Kim_DiffusionCLIP_Text-Guided_Diffusion_Models_for_Robust_Image_Manipulation_CVPR_2022_paper.pdf) [[Code]](https://github.com/gwang-kim/DiffusionCLIP)
@@ -235,16 +257,13 @@ If you have other demands of reference formats, you may refer to the original re
 
 
 <!-- omit in toc -->
-# To-Do Lists
-- Published Papers on Conferences
-  - [x] Update CVPR papers
-  - [x] Update ICCV papers
-  - [x] Update ECCV papers
-  - [x] Update ACM MM papers
-  - [x] Update NeurIPS papers
-  - [ ] Update ICLR papers
-- [ ] Create A List with only Diffusion Model-based Papers
-- Regular Maintenance of Preprint arXiv Papers and Missed Papers
+# Toolkits
+|Name|Website|Description|
+|-|-|-|
+|Stable Diffusion WebUI|[link](https://github.com/AUTOMATIC1111/stable-diffusion-webui)|Built based on Gradio, deployed locally to run Stable Diffusion checkpoints, LoRA weights, ControlNet weights, etc.|
+|ComfyUI|[link](https://github.com/comfyanonymous/ComfyUI)|Deployed locally to enable customized workflows with Stable Diffusion
+|Civitai|[link](https://civitai.com/)|Websites for community Stable Diffusion and LoRA checkpoints|
+||||
 
 [<u><small><🎯Back to Top></small></u>](#contents)
 
@@ -267,3 +286,18 @@ If you have other demands of reference formats, you may refer to the original re
   - Some of the following studies (e.g., `Stable Casacade`) does not publish their technical report on arXiv. Instead, they tend to write a blog in their official websites. The `Others` category refers to such kind of studies.
 
 [<u><small><🎯Back to Top></small></u>](#contents)
+
+<!-- omit in toc -->
+# References
+
+The `reference.bib` file summarizes bibtex references of up-to-date image inpainting papers, widely used datasets, and toolkits.
+Based on the original references, I have made the following modifications to make their results look nice in the `LaTeX` manuscripts:
+- Refereces are normally constructed in the form of `author-etal-year-nickname`. Particularly, references of datasets and toolkits are directly constructed as `nickname`, e.g., `imagenet`.
+- In each reference, all names of conferences/journals are converted into abbreviations, e.g., `Computer Vision and Pattern Recognition -> CVPR`.
+- The `url`, `doi`, `publisher`, `organization`, `editor`, `series` in all references are removed.
+- The `pages` of all references are added if they are missing.
+- All paper names are in title case. Besides, I have added an additional `{}` to make sure that the title case would also work well in some particular templates. 
+
+If you have other demands of reference formats, you may refer to the original references of papers by searching their names in [DBLP](https://dblp.org/) or [Google Scholar](https://scholar.google.com/).
+
+ [<u><small><🎯Back to Top></small></u>](#contents)
