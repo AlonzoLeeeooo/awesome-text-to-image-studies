@@ -43,6 +43,7 @@ If you have any suggestions about this repository, please feel free to [start a 
   - [ ] Update AAAI 2024 Papers
   - [ ] Update ICLR 2024 Papers
   - [ ] Update CVPR 2024 Papers
+    - [ ] Update CVPR version References
 - [ ] Create A List with only Diffusion Model-based Papers
 - Regular Maintenance of Preprint arXiv Papers and Missed Papers
 
@@ -50,15 +51,16 @@ If you have any suggestions about this repository, please feel free to [start a 
 
 <!-- omit in toc -->
 # Products
-|Name|Website|Specialties|
-|-|-|-|
-|Midjourney|[link](https://www.midjourney.com/home)|Powerful close-sourced generation tool|
-|Stable Video|[link](https://www.stablevideo.com/)|High-quality high-resolution images|
-|DALL-E 3|[link](https://openai.com/dall-e-3)|Collaborate with [ChatGPT](https://chat.openai.com/)|
-|Ideogram|[link](https://ideogram.ai/login)|Text images|
-|Playground|[link](https://playground.com/)|Athestic images|
-|HiDream.ai|[link](https://hidreamai.com/#/)|-|
-|Dashtoon|[link](https://dashtoon.com/)|Text-to-Comic Generation|
+|Name|Year|Website|Specialties|
+|-|-|-|-|
+|Stable Diffusion 3|2024|[link](https://stability.ai/news/stable-diffusion-3)|Diffusion Transformer-based Stable Diffusion|
+|Stable Video|2024|[link](https://www.stablevideo.com/)|High-quality high-resolution images|
+|DALL-E 3|2023|[link](https://openai.com/dall-e-3)|Collaborate with [ChatGPT](https://chat.openai.com/)|
+|Ideogram|2023|[link](https://ideogram.ai/login)|Text images|
+|Playground|2023|[link](https://playground.com/)|Athestic images|
+|HiDream.ai|2023|[link](https://hidreamai.com/#/)|-|
+|Dashtoon|2023|[link](https://dashtoon.com/)|Text-to-Comic Generation|
+|Midjourney|2022|[link](https://www.midjourney.com/home)|Powerful close-sourced generation tool|
 
 [<u><small><🎯Back to Top></small></u>](#contents)
 
@@ -71,13 +73,15 @@ If you have any suggestions about this repository, please feel free to [start a 
 - <span id="text-year-2024">**Year 2024**</span>
   - **CVPR**
     - ***DistriFusion:*** Distributed Parallel Inference for High-Resolution Diffusion Models [[Paper]](https://arxiv.org/pdf/2402.19481.pdf) [[Code]](https://github.com/mit-han-lab/distrifuser)
+    - ***InstanceDiffusion:*** Instance-level Control for Image Generation [[Paper]](https://arxiv.org/pdf/2402.03290.pdf) [[Code]](https://github.com/frank-xwang/InstanceDiffusion) [[Project]](https://people.eecs.berkeley.edu/~xdwang/projects/InstDiff/)
+    - ***ECLIPSE:*** A Resource-Efficient Text-to-Image Prior for Image Generations [[Paper]](https://arxiv.org/pdf/2312.04655.pdf) [[Code]](https://eclipse-t2i.vercel.app/) [[Project]](https://github.com/eclipse-t2i/eclipse-inference) [[Demo]](https://huggingface.co/spaces/ECLIPSE-Community/ECLIPSE-Kandinsky-v2.2)
+    - ***Instruct-Imagen:*** Image Generation with Multi-modal Instruction [[Paper]](https://arxiv.org/pdf/2401.01952.pdf)
   - **arXiv**
     - Self-Play Fine-Tuning of Diffusion Models for Text-to-Image Generation [[Paper]](https://arxiv.org/pdf/2402.10210.pdf)
     - ***RPG:*** Mastering Text-to-Image Diffusion: Recaptioning, Planning, and Generating with Multimodal LLMs [[Paper]](https://arxiv.org/pdf/2401.11708.pdf) [[Code]](https://github.com/YangLing0818/RPG-DiffusionMaster)
     - ***Playground v2.5:*** Three Insights towards Enhancing Aesthetic Quality in Text-to-Image Generation [[Paper]](https://arxiv.org/pdf/2402.17245.pdf) [[Code]](https://huggingface.co/playgroundai/playground-v2.5-1024px-aesthetic)
   - **Others**
-    - ***Stable Cascade*** [[Blog]](https://stability.ai/news/introducing-stable-cascade) [[Code]](https://github.com/Stability-AI/StableCascade) 
-    - ***Stable Diffusion 3.0*** [[Blog]](https://stability.ai/news/stable-diffusion-3)
+    - ***Stable Cascade*** [[Blog]](https://stability.ai/news/introducing-stable-cascade) [[Code]](https://github.com/Stability-AI/StableCascade)
 
 [<u><small><🎯Back to Top></small></u>](#contents)
 
