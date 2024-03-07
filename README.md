@@ -5,10 +5,13 @@ This GitHub repository summarizes papers and resources related to the text-to-im
 
 If you have any suggestions about this repository, please feel free to [start a new issue](https://github.com/AlonzoLeeeooo/awesome-text-to-image-generation-studies/issues/new) or [pull requests](https://github.com/AlonzoLeeeooo/awesome-text-to-image-generation-studies/pulls).
 
+<!-- omit in toc -->
+# 🔥 News
+- [Mar. 7th] All **CVPR 2024 papers and references** are updated.
+- [Mar. 1st] Websites of [**the off-the-shelf text-to-image generation products**](#available-products) and [**toolkits**](#toolkits) are summarized.
 
 <!-- omit in toc -->
 # <span id="contents">Contents</span>
-- [🔥 News](#🔥-news)
 - [Products](#available-products)
 - [To-Do Lists](#to-do-lists)
 - [Papers](#papers)
@@ -25,23 +28,22 @@ If you have any suggestions about this repository, please feel free to [start a 
   - [Personalized Text-to-Image Generation](#personalized-text-to-image-generation)
     - [Year 2024](#personalized-year-2024)
     - [Year 2023](#personalized-year-2023)
-    - [Year 2022](#personalized-year-2022)
-  - [Text-Guided Image Manipulation](#text-guided-image-manipulation) 
-    - [Year 2023](#manipulation-year-2023)
-    - [Year 2022](#manipulation-year-2022)
+  - [Text-Guided Image Editing](#text-guided-image-editing) 
+    - [Year 2023](#editing-year-2023)
+    - [Year 2022](#editing-year-2022)
+  - [Text Image Generation](#text-image-generation)
+    - [Year 2024](#gentext-year-2024)
+    - [Year 2023](#gentext-year-2023)
 - [Datasets](#datasets)
 - [Toolkits](#toolkits)
 - [Q&A](#qa)
 - [References](#references)
 
-<!-- omit in toc -->
-# 🔥 News
-- [Mar. 1st] Websites of [**the off-the-shelf text-to-image generation products**](#available-products) and [**toolkits**](#toolkits) are summarized.
 
 <!-- omit in toc -->
 # To-Do Lists
 - Published Papers on Conferences
-  - [ ] Update CVPR 2024 Papers
+  - [x] Update CVPR 2024 Papers
   - [ ] Update AAAI 2024 Papers
     - [ ] Update ⚠️ Papers and References
   - [ ] Update ICLR 2024 Papers
@@ -88,15 +90,15 @@ If you have any suggestions about this repository, please feel free to [start a 
     - Self-Discovering Interpretable Diffusion Latent Directions for Responsible Text-to-Image Generation [[Paper]](https://arxiv.org/pdf/2311.17216.pdf)
     - ***Tailored Visions:*** Enhancing Text-to-Image Generation with Personalized Prompt Rewriting [[Paper]](https://arxiv.org/pdf/2310.08129.pdf) [[Code]](https://github.com/zzjchen/Tailored-Visions)
     - ***CoDi:*** Conditional Diffusion Distillation for Higher-Fidelity and Faster Image Generation [[Paper]](https://arxiv.org/pdf/2310.01407.pdf) [[Code]](https://github.com/fast-codi/CoDi) [[Project]](https://fast-codi.github.io/) [[Demo]](https://huggingface.co/spaces/MKFMIKU/CoDi)
-    - ⚠️ Arbitrary-Scale Image Generation and Upsampling using Latent Diffusion Model and Implicit Neural Decoder [[Paper]]()
-    - ⚠️ On the Scalability of Diffusion-based Text-to-Image Generation [[Paper]]()
-    - ⚠️ ***MULAN:*** A Multi Layer Annotated Dataset for Controllable Text-to-Image Generation [[Paper]]()
-    - ⚠️ Discriminative Probing and Tuning for Text-to-Image Generation [[Paper]]()
-    - ⚠️ Learning Multi-dimensional Human Preference for Text-to-Image Generation [[Paper]]()
-    - ⚠️ Towards Effective Usage of Human-Centric Priors in Diffusion Models for Text-based Human Image Generation [[Paper]]()
-    - ⚠️ Training Diffusion Models Towards Diverse Image Generation with Reinforcement Learning [[Paper]]()
-    - ⚠️ Adversarial Text to Continuous Image Generation [[Paper]]()
-    - ⚠️ Dynamic Prompt Optimizing for Text-to-Image Generation [[Paper]]()
+    - ⚠️ Arbitrary-Scale Image Generation and Upsampling using Latent Diffusion Model and Implicit Neural Decoder [Paper]
+    - ⚠️ On the Scalability of Diffusion-based Text-to-Image Generation [Paper]
+    - ⚠️ ***MULAN:*** A Multi Layer Annotated Dataset for Controllable Text-to-Image Generation [Paper]
+    - ⚠️ Discriminative Probing and Tuning for Text-to-Image Generation [Paper]
+    - ⚠️ Learning Multi-dimensional Human Preference for Text-to-Image Generation [Paper]
+    - ⚠️ Towards Effective Usage of Human-Centric Priors in Diffusion Models for Text-based Human Image Generation [Paper]
+    - ⚠️ Training Diffusion Models Towards Diverse Image Generation with Reinforcement Learning [Paper]
+    - ⚠️ Adversarial Text to Continuous Image Generation [Paper]
+    - ⚠️ Dynamic Prompt Optimizing for Text-to-Image Generation [Paper]
   - **arXiv**
     - Self-Play Fine-Tuning of Diffusion Models for Text-to-Image Generation [[Paper]](https://arxiv.org/pdf/2402.10210.pdf)
     - ***RPG:*** Mastering Text-to-Image Diffusion: Recaptioning, Planning, and Generating with Multimodal LLMs [[Paper]](https://arxiv.org/pdf/2401.11708.pdf) [[Code]](https://github.com/YangLing0818/RPG-DiffusionMaster)
@@ -190,6 +192,12 @@ If you have any suggestions about this repository, please feel free to [start a 
 <!-- omit in toc -->
 ## Conditional Text-to-Image Generation
 - <span id="conditional-year-2024">**Year 2024**</span>
+  - **CVPR**
+    - ***PLACE:*** Adaptive Layout-Semantic Fusion for Semantic Image Synthesis [[Paper]](https://arxiv.org/pdf/2403.01852.pdf)
+    - One-Shot Structure-Aware Stylized Image Synthesis [[Paper]](https://arxiv.org/pdf/2402.17275.pdf)
+    - Grounded Text-to-Image Synthesis with Attention Refocusing [Paper] [[Project]]
+    - Coarse-to-Fine Latent Diffusion for Pose-Guided Person Image Synthesis [[Paper]](https://arxiv.org/pdf/2402.18078.pdf) [[Code]](https://github.com/YanzuoLu/CFLD)
+    - ⚠️ ***Zero-Painter:*** Training-Free Layout Control for Text-to-Image Synthesis [Paper]
   - **WACV**
     - Training-Free Layout Control with Cross-Attention Guidance [[Paper]](https://openaccess.thecvf.com/content/WACV2024/papers/Chen_Training-Free_Layout_Control_With_Cross-Attention_Guidance_WACV_2024_paper.pdf) [[Code]](https://github.com/silent-chen/layout-guidance) [[Project]](https://silent-chen.github.io/layout-guidance/) [[Demo]](https://huggingface.co/spaces/silentchen/layout-guidance)
 
@@ -223,9 +231,6 @@ If you have any suggestions about this repository, please feel free to [start a 
 
 [<u><small><🎯Back to Top></small></u>](#contents)
 
-- <span id="conditional-year-2022">**Year 2022**</span>
-
-[<u><small><🎯Back to Top></small></u>](#contents)
 
 <!-- omit in toc -->
 ## Personalized Text-to-Image Generation
@@ -233,11 +238,13 @@ If you have any suggestions about this repository, please feel free to [start a 
     - Cross Initialization for Personalized Text-to-Image Generation [[Paper]](https://arxiv.org/pdf/2312.15905.pdf)
     - When StyleGAN Meets Stable Diffusion: a W+ Adapter for Personalized Image Generation [[Paper]](https://arxiv.org/pdf/2311.17461.pdf) [[Code]](https://github.com/csxmli2016/w-plus-adapter) [[Project]](https://csxmli2016.github.io/projects/w-plus-adapter/)
     - Style Aligned Image Generation via Shared Attention [[Paper]](https://arxiv.org/pdf/2312.02133.pdf) [[Code]](https://github.com/google/style-aligned) [[Project]](https://style-aligned-gen.github.io/)
-    - InstantBooth: Personalized Text-to-Image Generation without Test-Time Finetuning [[Paper]](https://arxiv.org/pdf/2304.03411.pdf) [[Project]](https://jshi31.github.io/InstantBooth/)
-    - ⚠️ FreeCustom: Tuning-Free Customized Image Generation for Multi-Concept Composition [[Paper]]()
-    - ⚠️ JeDi: Joint-Image Diffusion Models for Finetuning-Free Personalized Text-to-Image Generation [[Paper]]()
-    - ⚠️ Countering Personalized Text-to-Image Generation with Influence Watermarks [[Paper]]()
-    - ⚠️ Personalized Residuals for Concept-Driven Text-to-Image Generation [[Paper]]()
+    - ***InstantBooth:*** Personalized Text-to-Image Generation without Test-Time Finetuning [[Paper]](https://arxiv.org/pdf/2304.03411.pdf) [[Project]](https://jshi31.github.io/InstantBooth/)
+    - High Fidelity Person-centric Subject-to-Image Synthesis [[Paper]](https://arxiv.org/pdf/2311.10329.pdf)
+    - ⚠️ FreeCustom: Tuning-Free Customized Image Generation for Multi-Concept Composition [Paper]
+    - ⚠️ JeDi: Joint-Image Diffusion Models for Finetuning-Free Personalized Text-to-Image Generation [Paper]
+    - ⚠️ Countering Personalized Text-to-Image Generation with Influence Watermarks [Paper]
+    - ⚠️ Personalized Residuals for Concept-Driven Text-to-Image Generation [Paper]
+    - ⚠️ Improving Subject-Driven Image Synthesis with Context-Agnostic Guidance [Paper]
 - <span id="personalized-year-2023">**Year 2023**</span>
   - **CVPR**
     - ***Custom Diffusion:*** Multi-Concept Customization of Text-to-Image Diffusion [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Kumari_Multi-Concept_Customization_of_Text-to-Image_Diffusion_CVPR_2023_paper.pdf) [[Code]](https://github.com/adobe-research/custom-diffusion) [[Project]](https://www.cs.cmu.edu/~custom-diffusion/)
@@ -260,8 +267,27 @@ If you have any suggestions about this repository, please feel free to [start a 
 [<u><small><🎯Back to Top></small></u>](#contents)
 
 <!-- omit in toc -->
-## Text-Guided Image Manipulation
-- <span id="manipulation-year-2023">**Year 2023**</span>
+## Text-Guided Image Editing
+- <span id="editing-year-2023">**Year 2023**</span>
+  - **CVPR**
+    - ***InfEdit:*** Inversion-Free Image Editing with Natural Language [[Paper]](https://arxiv.org/pdf/2312.04965.pdf) [[Code]](https://github.com/sled-group/InfEdit) [[Project]](https://sled-group.github.io/InfEdit/)
+    - Towards Understanding Cross and Self-Attention in Stable Diffusion for Text-Guided Image Editing [[Paper]](https://arxiv.org/pdf/2403.03431.pdf)
+    - Doubly Abductive Counterfactual Inference for Text-based Image Editing [[Paper]](https://arxiv.org/pdf/2403.02981.pdf) [[Code]](https://github.com/xuesong39/DAC)
+    - Focus on Your Instruction: Fine-grained and Multi-instruction Image Editing by Attention Modulation [[Paper]](https://arxiv.org/pdf/2312.10113.pdf) [[Code]](https://github.com/guoqincode/Focus-on-Your-Instruction)
+    - Contrastive Denoising Score for Text-guided Latent Diffusion Image Editing [[Paper]](https://arxiv.org/pdf/2311.18608.pdf)
+    - ***DragDiffusion:*** Harnessing Diffusion Models for Interactive Point-based Image Editing [[Paper]](https://arxiv.org/pdf/2306.14435.pdf) [[Code]](https://github.com/Yujun-Shi/DragDiffusion)
+    - ***DiffEditor:*** Boosting Accuracy and Flexibility on Diffusion-based Image Editing [[Paper]](https://arxiv.org/pdf/2402.02583.pdf)
+    - ***FreeDrag:*** Feature Dragging for Reliable Point-based Image Editing [[Paper]](https://arxiv.org/pdf/2307.04684.pdf) [[Code]](https://github.com/LPengYang/FreeDrag)
+    - Text-Driven Image Editing via Learnable Regions [[Paper]](https://arxiv.org/pdf/2311.16432.pdf) [[Code]](https://github.com/yuanze-lin/Learnable_Regions) [[Project]](https://yuanze-lin.me/LearnableRegions_page/) [[Video]](https://www.youtube.com/watch?v=FpMWRXFraK8&feature=youtu.be)
+    - ***LEDITS++:*** Limitless Image Editing using Text-to-Image Models [[Paper]](https://arxiv.org/pdf/2311.16711.pdf) [[Code]](https://huggingface.co/spaces/editing-images/ledtisplusplus/tree/main) [[Project]](https://leditsplusplus-project.static.hf.space/index.html) [[Demo]](https://huggingface.co/spaces/editing-images/leditsplusplus)
+    - ***SmartEdit:*** Exploring Complex Instruction-based Image Editing with Large Language Models [[Paper]](https://arxiv.org/pdf/2312.06739.pdf) [[Code]](https://github.com/TencentARC/SmartEdit) [[Project]](https://yuzhou914.github.io/SmartEdit/)
+    - Edit One for All: Interactive Batch Image Editing [[Paper]](https://arxiv.org/pdf/2401.10219.pdf) [[Code]](https://github.com/thaoshibe/edit-one-for-all) [[Project]](https://thaoshibe.github.io/edit-one-for-all/)
+    - ⚠️ ***TiNO-Edit:*** Timestep and Noise Optimization for Robust Diffusion-Based Image Editing [Paper]
+    - ⚠️ Person in Place: Generating Associative Skeleton-Guidance Maps for Human-Object Interaction Image Editing [Paper]
+    - ⚠️ Referring Image Editing: Object-level Image Editing via Referring Expressions [Paper]
+    - ⚠️ The Devil is in the Details: StyleFeatureEditor for Detail-Rich StyleGAN Inversion and High Quality Image Editing [Paper]
+    - ⚠️ Prompt Augmentation for Self-supervised Text-guided Image Manipulation [Paper]
+- <span id="editing-year-2023">**Year 2023**</span>
   - **CVPR**
     - Uncovering the Disentanglement Capability in Text-to-Image Diffusion Models [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Wu_Uncovering_the_Disentanglement_Capability_in_Text-to-Image_Diffusion_Models_CVPR_2023_paper.pdf) [[Code]](https://github.com/UCSB-NLP-Chang/DiffusionDisentanglement)
     - ***SINE:*** SINgle Image Editing with Text-to-Image Diffusion Models [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_SINE_SINgle_Image_Editing_With_Text-to-Image_Diffusion_Models_CVPR_2023_paper.pdf) [[Code]](https://github.com/zhang-zx/SINE)
@@ -272,9 +298,22 @@ If you have any suggestions about this repository, please feel free to [start a 
     - Localizing Object-level Shape Variations with Text-to-Image Diffusion Models [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Patashnik_Localizing_Object-Level_Shape_Variations_with_Text-to-Image_Diffusion_Models_ICCV_2023_paper.pdf) [[Code]](https://github.com/orpatashnik/local-prompt-mixing) [[Project]](https://orpatashnik.github.io/local-prompt-mixing/) [[Demo]](https://huggingface.co/spaces/orpatashnik/local-prompt-mixing)
   - **ICLR**
     - SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations [[Paper]](https://arxiv.org/pdf/2108.01073.pdf) [[Code]](https://github.com/ermongroup/SDEdit) [[Project]](https://sde-image-editing.github.io/)
-- <span id="manipulation-year-2022">**Year 2022**</span>
+- <span id="editing-year-2022">**Year 2022**</span>
   - **CVPR**
     - ***DiffusionCLIP:*** Text-Guided Diffusion Models for Robust Image Manipulation [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Kim_DiffusionCLIP_Text-Guided_Diffusion_Models_for_Robust_Image_Manipulation_CVPR_2022_paper.pdf) [[Code]](https://github.com/gwang-kim/DiffusionCLIP)
+
+[<u><small><🎯Back to Top></small></u>](#contents)
+
+<!-- omit in toc -->
+## Text Image Generation
+- <span id="gentext-year-2024">**Year 2024**</span>
+  - **arXiv**
+    - ***AnyText:*** Multilingual Visual Text Generation And Editing [[Paper]](https://arxiv.org/pdf/2311.03054.pdf) [[Code]](https://github.com/tyxsspa/AnyText) [[Project]](https://anytext.pics/)
+  - **CVPR**
+    - ⚠️ ***SceneTextGen:*** Layout-Agnostic Scene Text Image Synthesis with Integrated Character-Level Diffusion and Contextual Consistency [Paper]
+
+- <span id="gentext-year-2023">**Year 2023**</span>
+
 
 [<u><small><🎯Back to Top></small></u>](#contents)
 
