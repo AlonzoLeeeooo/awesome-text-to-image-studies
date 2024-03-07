@@ -23,8 +23,9 @@ If you have any suggestions about this repository, please feel free to [start a 
     - [Year 2023](#conditional-year-2023)
     - [Year 2022](#conditional-year-2022)
   - [Personalized Text-to-Image Generation](#personalized-text-to-image-generation)
-    - [Year 2023](#attribute-year-2023)
-    - [Year 2022](#attribute-year-2022)
+    - [Year 2024](#personalized-year-2024)
+    - [Year 2023](#personalized-year-2023)
+    - [Year 2022](#personalized-year-2022)
   - [Text-Guided Image Manipulation](#text-guided-image-manipulation) 
     - [Year 2023](#manipulation-year-2023)
     - [Year 2022](#manipulation-year-2022)
@@ -40,10 +41,11 @@ If you have any suggestions about this repository, please feel free to [start a 
 <!-- omit in toc -->
 # To-Do Lists
 - Published Papers on Conferences
-  - [ ] Update AAAI 2024 Papers
-  - [ ] Update ICLR 2024 Papers
   - [ ] Update CVPR 2024 Papers
-    - [ ] Update CVPR version References
+  - [ ] Update AAAI 2024 Papers
+    - [ ] Update ⚠️ Papers and References
+  - [ ] Update ICLR 2024 Papers
+    - [ ] Update arXiv References into CVPR version
 - [ ] Create A List with only Diffusion Model-based Papers
 - Regular Maintenance of Preprint arXiv Papers and Missed Papers
 
@@ -76,6 +78,25 @@ If you have any suggestions about this repository, please feel free to [start a 
     - ***InstanceDiffusion:*** Instance-level Control for Image Generation [[Paper]](https://arxiv.org/pdf/2402.03290.pdf) [[Code]](https://github.com/frank-xwang/InstanceDiffusion) [[Project]](https://people.eecs.berkeley.edu/~xdwang/projects/InstDiff/)
     - ***ECLIPSE:*** A Resource-Efficient Text-to-Image Prior for Image Generations [[Paper]](https://arxiv.org/pdf/2312.04655.pdf) [[Code]](https://eclipse-t2i.vercel.app/) [[Project]](https://github.com/eclipse-t2i/eclipse-inference) [[Demo]](https://huggingface.co/spaces/ECLIPSE-Community/ECLIPSE-Kandinsky-v2.2)
     - ***Instruct-Imagen:*** Image Generation with Multi-modal Instruction [[Paper]](https://arxiv.org/pdf/2401.01952.pdf)
+    - Learning Continuous 3D Words for Text-to-Image Generation [[Paper]](https://arxiv.org/pdf/2402.08654.pdf) [[Code]](https://github.com/ttchengab/continuous_3d_words_code/)
+    - ***HanDiffuser:*** Text-to-Image Generation With Realistic Hand Appearances [[Paper]](https://arxiv.org/pdf/2403.01693.pdf)
+    - Rich Human Feedback for Text-to-Image Generation [[Paper]](https://arxiv.org/pdf/2312.10240.pdf)
+    - ***MarkovGen:*** Structured Prediction for Efficient Text-to-Image Generation [[Paper]](https://arxiv.org/pdf/2308.10997.pdf)
+    - Customization Assistant for Text-to-image Generation [[Paper]](https://arxiv.org/pdf/2312.03045.pdf)
+    - ***ADI:*** Learning Disentangled Identifiers for Action-Customized Text-to-Image Generation [[Paper]](https://arxiv.org/pdf/2311.15841.pdf) [[Project]](https://adi-t2i.github.io/ADI/)
+    - ***UFOGen:*** You Forward Once Large Scale Text-to-Image Generation via Diffusion GANs [[Paper]](https://arxiv.org/pdf/2311.09257.pdf)
+    - Self-Discovering Interpretable Diffusion Latent Directions for Responsible Text-to-Image Generation [[Paper]](https://arxiv.org/pdf/2311.17216.pdf)
+    - ***Tailored Visions:*** Enhancing Text-to-Image Generation with Personalized Prompt Rewriting [[Paper]](https://arxiv.org/pdf/2310.08129.pdf) [[Code]](https://github.com/zzjchen/Tailored-Visions)
+    - ***CoDi:*** Conditional Diffusion Distillation for Higher-Fidelity and Faster Image Generation [[Paper]](https://arxiv.org/pdf/2310.01407.pdf) [[Code]](https://github.com/fast-codi/CoDi) [[Project]](https://fast-codi.github.io/) [[Demo]](https://huggingface.co/spaces/MKFMIKU/CoDi)
+    - ⚠️ Arbitrary-Scale Image Generation and Upsampling using Latent Diffusion Model and Implicit Neural Decoder [[Paper]]()
+    - ⚠️ On the Scalability of Diffusion-based Text-to-Image Generation [[Paper]]()
+    - ⚠️ ***MULAN:*** A Multi Layer Annotated Dataset for Controllable Text-to-Image Generation [[Paper]]()
+    - ⚠️ Discriminative Probing and Tuning for Text-to-Image Generation [[Paper]]()
+    - ⚠️ Learning Multi-dimensional Human Preference for Text-to-Image Generation [[Paper]]()
+    - ⚠️ Towards Effective Usage of Human-Centric Priors in Diffusion Models for Text-based Human Image Generation [[Paper]]()
+    - ⚠️ Training Diffusion Models Towards Diverse Image Generation with Reinforcement Learning [[Paper]]()
+    - ⚠️ Adversarial Text to Continuous Image Generation [[Paper]]()
+    - ⚠️ Dynamic Prompt Optimizing for Text-to-Image Generation [[Paper]]()
   - **arXiv**
     - Self-Play Fine-Tuning of Diffusion Models for Text-to-Image Generation [[Paper]](https://arxiv.org/pdf/2402.10210.pdf)
     - ***RPG:*** Mastering Text-to-Image Diffusion: Recaptioning, Planning, and Generating with Multimodal LLMs [[Paper]](https://arxiv.org/pdf/2401.11708.pdf) [[Code]](https://github.com/YangLing0818/RPG-DiffusionMaster)
@@ -208,7 +229,16 @@ If you have any suggestions about this repository, please feel free to [start a 
 
 <!-- omit in toc -->
 ## Personalized Text-to-Image Generation
-- <span id="attribute-year-2023">**Year 2023**</span>
+- <span id="personalized-year-2024">**Year 2024**</span>
+    - Cross Initialization for Personalized Text-to-Image Generation [[Paper]](https://arxiv.org/pdf/2312.15905.pdf)
+    - When StyleGAN Meets Stable Diffusion: a W+ Adapter for Personalized Image Generation [[Paper]](https://arxiv.org/pdf/2311.17461.pdf) [[Code]](https://github.com/csxmli2016/w-plus-adapter) [[Project]](https://csxmli2016.github.io/projects/w-plus-adapter/)
+    - Style Aligned Image Generation via Shared Attention [[Paper]](https://arxiv.org/pdf/2312.02133.pdf) [[Code]](https://github.com/google/style-aligned) [[Project]](https://style-aligned-gen.github.io/)
+    - InstantBooth: Personalized Text-to-Image Generation without Test-Time Finetuning [[Paper]](https://arxiv.org/pdf/2304.03411.pdf) [[Project]](https://jshi31.github.io/InstantBooth/)
+    - ⚠️ FreeCustom: Tuning-Free Customized Image Generation for Multi-Concept Composition [[Paper]]()
+    - ⚠️ JeDi: Joint-Image Diffusion Models for Finetuning-Free Personalized Text-to-Image Generation [[Paper]]()
+    - ⚠️ Countering Personalized Text-to-Image Generation with Influence Watermarks [[Paper]]()
+    - ⚠️ Personalized Residuals for Concept-Driven Text-to-Image Generation [[Paper]]()
+- <span id="personalized-year-2023">**Year 2023**</span>
   - **CVPR**
     - ***Custom Diffusion:*** Multi-Concept Customization of Text-to-Image Diffusion [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Kumari_Multi-Concept_Customization_of_Text-to-Image_Diffusion_CVPR_2023_paper.pdf) [[Code]](https://github.com/adobe-research/custom-diffusion) [[Project]](https://www.cs.cmu.edu/~custom-diffusion/)
     - ***DreamBooth:*** Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Ruiz_DreamBooth_Fine_Tuning_Text-to-Image_Diffusion_Models_for_Subject-Driven_Generation_CVPR_2023_paper.pdf) [[Code]](https://github.com/google/dreambooth) [[Project]](https://dreambooth.github.io/)
@@ -220,13 +250,12 @@ If you have any suggestions about this repository, please feel free to [start a 
     - ***Break-A-Scene:*** Extracting Multiple Concepts from a Single Image [[Paper]](https://arxiv.org/pdf/2305.16311.pdf) [[Code]](https://github.com/google/break-a-scene)
     - Encoder-based Domain Tuning for Fast Personalization of Text-to-Image Models [[Paper]](https://arxiv.org/pdf/2302.12228.pdf) [[Project]](https://tuning-encoder.github.io/)
   - **arXiv**
-    - ***InstantBooth:*** Personalized Text-to-Image Generation without Test-Time Finetuning [[Paper]](https://arxiv.org/pdf/2304.03411.pdf) [[Project]](https://jshi31.github.io/InstantBooth/)
     - ***DreamTuner:*** Single Image is Enough for Subject-Driven Generation [[Paper]](https://arxiv.org/pdf/2312.13691.pdf) [[Project]](https://dreamtuner-diffusion.github.io/)
     - ***PhotoMaker:*** Customizing Realistic Human Photos via Stacked ID Embedding [[Paper]](https://arxiv.org/pdf/2312.04461.pdf) [[Code]](https://github.com/TencentARC/PhotoMaker)
 
 [<u><small><🎯Back to Top></small></u>](#contents)
 
-- <span id="attribute-year-2022">**Year 2022**</span>
+- <span id="personalized-year-2022">**Year 2022**</span>
 
 [<u><small><🎯Back to Top></small></u>](#contents)
 
