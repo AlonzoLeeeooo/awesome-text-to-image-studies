@@ -44,10 +44,10 @@ If you have any suggestions about this repository, please feel free to [start a 
 # To-Do Lists
 - Published Papers on Conferences
   - [x] Update CVPR 2024 Papers
-  - [ ] Update AAAI 2024 Papers
+  - [x] Update AAAI 2024 Papers
     - [ ] Update ⚠️ Papers and References
-  - [ ] Update ICLR 2024 Papers
-    - [ ] Update arXiv References into CVPR version
+    - [ ] Update arXiv References into CVPR and AAAI Versions
+  - [x] Update ICLR 2024 Papers
 - [ ] Create A List with only Diffusion Model-based Papers
 - Regular Maintenance of Preprint arXiv Papers and Missed Papers
 
