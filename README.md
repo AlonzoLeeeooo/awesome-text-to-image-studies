@@ -306,7 +306,12 @@ If you have any suggestions about this repository, please feel free to [start a 
     - Object-Aware Inversion and Reassembly for Image Editing [[Paper]](https://arxiv.org/pdf/2310.12149.pdf) [[Code]](https://github.com/aim-uofa/OIR) [[Project]](https://aim-uofa.github.io/OIR-Diffusion/)
     - ***Noise Map Guidance:*** Inversion with Spatial Context for Real Image Editing [[Paper]](https://arxiv.org/pdf/2402.04625.pdf)
   - **AAAI**
-    - Tuning-Free Inversion-Enhanced Control for Consistent Image Editing [[Paper]]()
+    - Tuning-Free Inversion-Enhanced Control for Consistent Image Editing [[Paper]](https://arxiv.org/pdf/2312.14611)
+    - ***BARET:*** Balanced Attention based Real image Editing driven by Target-text Inversion [[Paper]](https://arxiv.org/pdf/2312.05482)
+    - Accelerating Text-to-Image Editing via Cache-Enabled Sparse Diffusion Inference [[Paper]](https://arxiv.org/pdf/2305.17423)
+    - High-Fidelity Diffusion-based Image Editing [[Paper]](https://arxiv.org/pdf/2312.15707)
+    - ***AdapEdit:*** Spatio-Temporal Guided Adaptive Editing Algorithm for Text-Based Continuity-Sensitive Image Editing [[Paper]](https://arxiv.org/pdf/2312.08019)
+    - ⚠️ TexFit: Text-Driven Fashion Image Editing with Diffusion Models [Paper]
 - <span id="editing-year-2023">**Year 2023**</span>
   - **CVPR**
     - Uncovering the Disentanglement Capability in Text-to-Image Diffusion Models [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Wu_Uncovering_the_Disentanglement_Capability_in_Text-to-Image_Diffusion_Models_CVPR_2023_paper.pdf) [[Code]](https://github.com/UCSB-NLP-Chang/DiffusionDisentanglement)
