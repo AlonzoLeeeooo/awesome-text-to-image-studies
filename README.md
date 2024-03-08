@@ -29,11 +29,11 @@ If you have any suggestions about this repository, please feel free to [start a 
     - [Year 2024](#personalized-year-2024)
     - [Year 2023](#personalized-year-2023)
   - [Text-Guided Image Editing](#text-guided-image-editing) 
+    - [Year 2024](#editing-year-2024)
     - [Year 2023](#editing-year-2023)
     - [Year 2022](#editing-year-2022)
   - [Text Image Generation](#text-image-generation)
     - [Year 2024](#gentext-year-2024)
-    - [Year 2023](#gentext-year-2023)
 - [Datasets](#datasets)
 - [Toolkits](#toolkits)
 - [Q&A](#qa)
@@ -268,7 +268,7 @@ If you have any suggestions about this repository, please feel free to [start a 
 
 <!-- omit in toc -->
 ## Text-Guided Image Editing
-- <span id="editing-year-2023">**Year 2023**</span>
+- <span id="editing-year-2024">**Year 2024**</span>
   - **CVPR**
     - ***InfEdit:*** Inversion-Free Image Editing with Natural Language [[Paper]](https://arxiv.org/pdf/2312.04965.pdf) [[Code]](https://github.com/sled-group/InfEdit) [[Project]](https://sled-group.github.io/InfEdit/)
     - Towards Understanding Cross and Self-Attention in Stable Diffusion for Text-Guided Image Editing [[Paper]](https://arxiv.org/pdf/2403.03431.pdf)
@@ -311,9 +311,6 @@ If you have any suggestions about this repository, please feel free to [start a 
     - ***AnyText:*** Multilingual Visual Text Generation And Editing [[Paper]](https://arxiv.org/pdf/2311.03054.pdf) [[Code]](https://github.com/tyxsspa/AnyText) [[Project]](https://anytext.pics/)
   - **CVPR**
     - ⚠️ ***SceneTextGen:*** Layout-Agnostic Scene Text Image Synthesis with Integrated Character-Level Diffusion and Contextual Consistency [Paper]
-
-- <span id="gentext-year-2023">**Year 2023**</span>
-
 
 [<u><small><🎯Back to Top></small></u>](#contents)
 
