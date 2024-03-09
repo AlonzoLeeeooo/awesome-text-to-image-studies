@@ -39,6 +39,7 @@ If you have any suggestions about this repository, please feel free to [start a 
 - [Toolkits](#toolkits)
 - [Q&A](#qa)
 - [References](#references)
+- [Star History](#star-history)
 
 
 <!-- omit in toc -->
@@ -417,3 +418,14 @@ Based on the original references, I have made the following modifications to mak
 If you have other demands of reference formats, you may refer to the original references of papers by searching their names in [DBLP](https://dblp.org/) or [Google Scholar](https://scholar.google.com/).
 
  [<u><small><🎯Back to Top></small></u>](#contents)
+
+<!-- omit in toc -->
+# Star History
+
+<p align="center">
+    <a href="https://api.star-history.com/svg?repos=AlonzoLeeeooo/awesome-text-to-image-studies&type=Date" target="_blank">
+        <img width="500" src="https://api.star-history.com/svg?repos=AlonzoLeeeooo/awesome-text-to-image-studies&type=Date" alt="Star History Chart">
+    </a>
+<p>
+
+[<u><small><🎯Back to Top></small></u>](#contents)
