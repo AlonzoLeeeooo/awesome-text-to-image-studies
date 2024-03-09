@@ -76,19 +76,19 @@ If you have any suggestions about this repository, please feel free to [start a 
 <!-- omit in toc -->
 ## Survey Papers
 - **Text-to-Image Generation**
-  - **Year 2024**
+  - Year 2024
     - **ACM Computing Surveys** 
-      - Diffusion Models: A Comprehensive Survey of Methods and Applications [[Paper]]()
-  - **Year 2023**
+      - Diffusion Models: A Comprehensive Survey of Methods and Applications [[Paper]](https://arxiv.org/pdf/2209.00796.pdf)
+  - Year 2023
     - **TPAMI**
       - Diffusion Models in Vision: A Survey [[Paper]](https://arxiv.org/pdf/2209.04747v2) [[Code]](https://github.com/CroitoruAlin/Diffusion-Models-in-Vision-A-Survey)
     - **arXiv**
       - Text-to-image Diffusion Models in Generative AI: A Survey [[Paper]](https://arxiv.org/pdf/2303.07909)
-    - **Year 2022**
+  - Year 2022
     - **arXiv**
       - Efficient Diffusion Models for Vision: A Survey [[Paper]](https://arxiv.org/pdf/2210.09292)
 - **Conditional Text-to-Image Generation**
-  - **Year 2024**
+  - Year 2024
     - **arXiv**
       - Controllable Generation with Text-to-Image Diffusion Models: A Survey [[Paper]](https://arxiv.org/pdf/2403.04279)
 
