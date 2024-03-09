@@ -50,6 +50,7 @@ If you have any suggestions about this repository, please feel free to [start a 
     - [ ] Update ⚠️ Papers and References
     - [ ] Update arXiv References into CVPR and AAAI Versions
   - [x] Update ICLR 2024 Papers
+  - [ ] Update NeurIPS 2024 Papers
 - [ ] Create A List with only Diffusion Model-based Papers
 - Regular Maintenance of Preprint arXiv Papers and Missed Papers
 
