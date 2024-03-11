@@ -7,7 +7,7 @@ If you have any suggestions about this repository, please feel free to [start a 
 
 <!-- omit in toc -->
 # 🔥 News
-- [Mar. 7th] All **CVPR 2024 papers and references** are updated.
+- [Mar. 7th] All available **CVPR, ICLR, and AAAI 2024 papers and references** are updated. Papers highlighted with ⚠️ will be updated as soon as their metadata is avaiable.
 - [Mar. 1st] Websites of [**the off-the-shelf text-to-image generation products**](#available-products) and [**toolkits**](#toolkits) are summarized.
 
 <!-- omit in toc -->
