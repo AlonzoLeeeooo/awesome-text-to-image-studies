@@ -137,6 +137,7 @@ If you have any suggestions about this repository, please feel free to [start a 
     - ***Playground v2.5:*** Three Insights towards Enhancing Aesthetic Quality in Text-to-Image Generation [[Paper]](https://arxiv.org/pdf/2402.17245.pdf) [[Code]](https://huggingface.co/playgroundai/playground-v2.5-1024px-aesthetic)
     - ***ResAdapter:*** Domain Consistent Resolution Adapter for Diffusion Models [[Paper]](https://arxiv.org/pdf/2403.02084.pdf) [[Code]](https://github.com/bytedance/res-adapter) [[Project]](https://res-adapter.github.io/)
     - ***DiS:*** Scalable Diffusion Models with State Space Backbone [[Paper]](https://arxiv.org/pdf/2402.05608.pdf) [[Code]](https://github.com/feizc/dis)
+    - ***InstantID:*** Zero-shot Identity-Preserving Generation in Seconds [[Paper]](https://arxiv.org/pdf/2401.07519.pdf) [[Code]](https://github.com/InstantID/InstantID) [[Project]](https://instantid.github.io/) [[Demo]](https://huggingface.co/spaces/InstantX/InstantID)
   - **Others**
     - ***Stable Cascade*** [[Blog]](https://stability.ai/news/introducing-stable-cascade) [[Code]](https://github.com/Stability-AI/StableCascade)
 
