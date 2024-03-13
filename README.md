@@ -158,6 +158,7 @@ If you have any suggestions about this repository, please feel free to [start a 
     - ***RIATIG:*** Reliable and Imperceptible Adversarial Text-to-Image Generation with Natural Prompts [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_RIATIG_Reliable_and_Imperceptible_Adversarial_Text-to-Image_Generation_With_Natural_Prompts_CVPR_2023_paper.pdf) [[Code]](https://github.com/WUSTL-CSPL/RIATIG)
   - **NeurIPS**
     - ***ImageReward:*** Learning and Evaluating Human Preferences for Text-to-Image Generation [[Paper]](https://openreview.net/pdf?id=JVzeOYEx6d) [[Code]](https://github.com/THUDM/ImageReward)
+    - ***RAPHAEL***: Text-to-Image Generation via Large Mixture of Diffusion Paths [[Paper]](https://arxiv.org/pdf/2305.18295) [[Project]](https://raphael-painter.github.io/)
   - **ICLR**
     - Training-Free Structured Diffusion Guidance for Compositional Text-to-Image Synthesis [[Paper]](https://openreview.net/pdf?id=PUIqjT4rzq7) [[Code]](https://github.com/weixi-feng/Structured-Diffusion-Guidance)
   - **ICML**
