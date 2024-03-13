@@ -141,6 +141,7 @@ If you have any suggestions about this repository, please feel free to [start a 
     - ***InstantID:*** Zero-shot Identity-Preserving Generation in Seconds [[Paper]](https://arxiv.org/pdf/2401.07519.pdf) [[Code]](https://github.com/InstantID/InstantID) [[Project]](https://instantid.github.io/) [[Demo]](https://huggingface.co/spaces/InstantX/InstantID)
     - ***PIXART-δ:*** Fast and Controllable Image Generation with Latent Consistency Models [[Paper]](https://arxiv.org/pdf/2401.05252) [[Code]](b.com/PixArt-alpha/PixArt-alpha?tab=readme-ov-file)
     - ***PixArt-Σ:*** Weak-to-Strong Training of Diffusion Transformer for 4K Text-to-Image Generation [[Paper]](https://arxiv.org/pdf/2403.04692) [[Code]](https://github.com/PixArt-alpha/PixArt-sigma) [[Project]](https://pixart-alpha.github.io/PixArt-sigma-project/)
+    - ***CogView3:*** Finer and Faster Text-to-Image Generation via Relay Diffusion [[Paper]](https://arxiv.org/pdf/2403.05121) [[Code]](https://github.com/THUDM/CogView)
   - **Others**
     - ***Stable Cascade*** [[Blog]](https://stability.ai/news/introducing-stable-cascade) [[Code]](https://github.com/Stability-AI/StableCascade)
 
