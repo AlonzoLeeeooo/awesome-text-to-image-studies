@@ -86,6 +86,7 @@ If you have any suggestions about this repository, please feel free to [start a 
       - Diffusion Models in Vision: A Survey [[Paper]](https://arxiv.org/pdf/2209.04747v2) [[Code]](https://github.com/CroitoruAlin/Diffusion-Models-in-Vision-A-Survey)
     - **arXiv**
       - Text-to-image Diffusion Models in Generative AI: A Survey [[Paper]](https://arxiv.org/pdf/2303.07909)
+      - State of the Art on Diffusion Models for Visual Computing [[Paper]](https://arxiv.org/pdf/2310.07204.pdf) 
   - Year 2022
     - **arXiv**
       - Efficient Diffusion Models for Vision: A Survey [[Paper]](https://arxiv.org/pdf/2210.09292)
@@ -142,7 +143,8 @@ If you have any suggestions about this repository, please feel free to [start a 
     - ***PIXART-δ:*** Fast and Controllable Image Generation with Latent Consistency Models [[Paper]](https://arxiv.org/pdf/2401.05252) [[Code]](b.com/PixArt-alpha/PixArt-alpha?tab=readme-ov-file)
     - ***PixArt-Σ:*** Weak-to-Strong Training of Diffusion Transformer for 4K Text-to-Image Generation [[Paper]](https://arxiv.org/pdf/2403.04692) [[Code]](https://github.com/PixArt-alpha/PixArt-sigma) [[Project]](https://pixart-alpha.github.io/PixArt-sigma-project/)
     - ***CogView3:*** Finer and Faster Text-to-Image Generation via Relay Diffusion [[Paper]](https://arxiv.org/pdf/2403.05121) [[Code]](https://github.com/THUDM/CogView)
-    - ELLA: Equip Diffusion Models with LLM for Enhanced Semantic Alignment [[Paper]](https://arxiv.org/pdf/2403.05135) [[Code]](https://github.com/ELLA-Diffusion/ELLA) [[Project]](https://ella-diffusion.github.io/) 
+    - ***ELLA:*** Equip Diffusion Models with LLM for Enhanced Semantic Alignment [[Paper]](https://arxiv.org/pdf/2403.05135) [[Code]](https://github.com/ELLA-Diffusion/ELLA) [[Project]](https://ella-diffusion.github.io/) 
+    - ***Text2Street:*** Controllable Text-to-image Generation for Street Views [[Paper]](https://arxiv.org/pdf/2402.04504.pdf)
   - **Others**
     - ***Stable Cascade*** [[Blog]](https://stability.ai/news/introducing-stable-cascade) [[Code]](https://github.com/Stability-AI/StableCascade)
 
@@ -286,6 +288,7 @@ If you have any suggestions about this repository, please feel free to [start a 
     - Style Aligned Image Generation via Shared Attention [[Paper]](https://arxiv.org/pdf/2312.02133.pdf) [[Code]](https://github.com/google/style-aligned) [[Project]](https://style-aligned-gen.github.io/)
     - ***InstantBooth:*** Personalized Text-to-Image Generation without Test-Time Finetuning [[Paper]](https://arxiv.org/pdf/2304.03411.pdf) [[Project]](https://jshi31.github.io/InstantBooth/)
     - High Fidelity Person-centric Subject-to-Image Synthesis [[Paper]](https://arxiv.org/pdf/2311.10329.pdf)
+    - ***RealCustom:*** Narrowing Real Text Word for Real-Time Open-Domain Text-to-Image Customization [[Paper]](https://arxiv.org/pdf/2403.00483.pdf) [[Project]](https://corleone-huang.github.io/realcustom/)
     - ⚠️ FreeCustom: Tuning-Free Customized Image Generation for Multi-Concept Composition [Paper]
     - ⚠️ ***JeDi:*** Joint-Image Diffusion Models for Finetuning-Free Personalized Text-to-Image Generation [Paper]
     - ⚠️ Countering Personalized Text-to-Image Generation with Influence Watermarks [Paper]
@@ -348,6 +351,7 @@ If you have any suggestions about this repository, please feel free to [start a 
   - **arXiv**
     - ***An Item is Worth a Prompt:*** Versatile Image Editing with Disentangled Control [[Paper]](https://arxiv.org/pdf/2403.04880.pdf) [[Code]](https://github.com/asFeng/d-edit)
     - ***StableDrag:*** Stable Dragging for Point-based Image Editing [[Paper]](https://arxiv.org/pdf/2403.04437)
+    - One-Dimensional Adapter to Rule Them All: Concepts, Diffusion Models and Erasing Applications [[Paper]](https://arxiv.org/pdf/2312.16145) [[Code]](https://github.com/Con6924/SPM) [[Project]](https://lyumengyao.github.io/projects/spm)
 - <span id="editing-year-2023">**Year 2023**</span>
   - **CVPR**
     - Uncovering the Disentanglement Capability in Text-to-Image Diffusion Models [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Wu_Uncovering_the_Disentanglement_Capability_in_Text-to-Image_Diffusion_Models_CVPR_2023_paper.pdf) [[Code]](https://github.com/UCSB-NLP-Chang/DiffusionDisentanglement)
