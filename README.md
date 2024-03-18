@@ -94,6 +94,10 @@ If you have any suggestions about this repository, please feel free to [start a 
   - Year 2024
     - **arXiv**
       - Controllable Generation with Text-to-Image Diffusion Models: A Survey [[Paper]](https://arxiv.org/pdf/2403.04279)
+- **Text-Guided Image Editing**
+  - Year 2024
+    - **arXiv**
+      - Diffusion Model-Based Image Editing: A Survey [[Paper]](https://arxiv.org/pdf/2402.17525.pdf) [[Code]](https://github.com/SiatMMLab/Awesome-Diffusion-Model-Based-Image-Editing-Methods)
 
 [<u><small><🎯Back to Top></small></u>](#contents)
 
