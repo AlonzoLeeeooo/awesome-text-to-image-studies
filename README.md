@@ -149,6 +149,7 @@ If you have any suggestions about this repository, please feel free to [start a 
     - ***CogView3:*** Finer and Faster Text-to-Image Generation via Relay Diffusion [[Paper]](https://arxiv.org/pdf/2403.05121) [[Code]](https://github.com/THUDM/CogView)
     - ***ELLA:*** Equip Diffusion Models with LLM for Enhanced Semantic Alignment [[Paper]](https://arxiv.org/pdf/2403.05135) [[Code]](https://github.com/ELLA-Diffusion/ELLA) [[Project]](https://ella-diffusion.github.io/) 
     - ***Text2Street:*** Controllable Text-to-image Generation for Street Views [[Paper]](https://arxiv.org/pdf/2402.04504.pdf)
+    - ***LayerDiffuse:*** Transparent Image Layer Diffusion using Latent Transparency [[Paper]](https://arxiv.org/pdf/2402.17113) [[Code]](https://github.com/layerdiffusion/LayerDiffuse)
   - **Others**
     - ***Stable Cascade*** [[Blog]](https://stability.ai/news/introducing-stable-cascade) [[Code]](https://github.com/Stability-AI/StableCascade)
 
@@ -315,6 +316,7 @@ Layout-to-image Generation [[Paper]](https://openaccess.thecvf.com/content/CVPR2
   - **SIGGRAPH**
     - ***Break-A-Scene:*** Extracting Multiple Concepts from a Single Image [[Paper]](https://arxiv.org/pdf/2305.16311.pdf) [[Code]](https://github.com/google/break-a-scene)
     - Encoder-based Domain Tuning for Fast Personalization of Text-to-Image Models [[Paper]](https://arxiv.org/pdf/2302.12228.pdf) [[Project]](https://tuning-encoder.github.io/)
+    - ***LayerDiffusion:*** Layered Controlled Image Editing with Diffusion Models [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3610543.3626172)
   - **arXiv**
     - ***DreamTuner:*** Single Image is Enough for Subject-Driven Generation [[Paper]](https://arxiv.org/pdf/2312.13691.pdf) [[Project]](https://dreamtuner-diffusion.github.io/)
     - ***PhotoMaker:*** Customizing Realistic Human Photos via Stacked ID Embedding [[Paper]](https://arxiv.org/pdf/2312.04461.pdf) [[Code]](https://github.com/TencentARC/PhotoMaker)
