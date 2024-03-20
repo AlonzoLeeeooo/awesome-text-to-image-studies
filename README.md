@@ -265,7 +265,7 @@ If you have any suggestions about this repository, please feel free to [start a 
     - Text to Image Generation with Semantic-Spatial Aware GAN [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Liao_Text_to_Image_Generation_With_Semantic-Spatial_Aware_GAN_CVPR_2022_paper.pdf)
     - ***ReCo:*** Region-Controlled Text-to-Image Generation [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_ReCo_Region-Controlled_Text-to-Image_Generation_CVPR_2023_paper.pdf) [[Code]](https://github.com/microsoft/ReCo)
     - ***LayoutDiffusion:*** Controllable Diffusion Model for
-Layout-to-image Generation [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Zheng_LayoutDiffusion_Controllable_Diffusion_Model_for_Layout-to-Image_Generation_CVPR_2023_paper.pdf) [[Code]](https://github.com/ZGCTroy/LayoutDiffusion)
+    Layout-to-image Generation [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Zheng_LayoutDiffusion_Controllable_Diffusion_Model_for_Layout-to-Image_Generation_CVPR_2023_paper.pdf) [[Code]](https://github.com/ZGCTroy/LayoutDiffusion)
   - **ICCV**
     - ***ControlNet:*** Adding Conditional Control to Text-to-Image Diffusion Models [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_Adding_Conditional_Control_to_Text-to-Image_Diffusion_Models_ICCV_2023_paper.pdf) [[Code]](https://github.com/lllyasviel/ControlNet)
     - ***SceneGenie:*** Scene Graph Guided Diffusion Models for Image Synthesis [[Paper]](https://openaccess.thecvf.com/content/ICCV2023W/SG2RL/papers/Farshad_SceneGenie_Scene_Graph_Guided_Diffusion_Models_for_Image_Synthesis_ICCVW_2023_paper.pdf) [[Code]](https://openaccess.thecvf.com/content/ICCV2023W/SG2RL/papers/Farshad_SceneGenie_Scene_Graph_Guided_Diffusion_Models_for_Image_Synthesis_ICCVW_2023_paper.pdf)
@@ -368,6 +368,7 @@ Layout-to-image Generation [[Paper]](https://openaccess.thecvf.com/content/CVPR2
     - ***SINE:*** SINgle Image Editing with Text-to-Image Diffusion Models [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_SINE_SINgle_Image_Editing_With_Text-to-Image_Diffusion_Models_CVPR_2023_paper.pdf) [[Code]](https://github.com/zhang-zx/SINE)
     - ***Imagic:*** Text-Based Real Image Editing with Diffusion Models [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Kawar_Imagic_Text-Based_Real_Image_Editing_With_Diffusion_Models_CVPR_2023_paper.pdf)
     - ***InstructPix2Pix:*** Learning to Follow Image Editing Instructions [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Brooks_InstructPix2Pix_Learning_To_Follow_Image_Editing_Instructions_CVPR_2023_paper.pdf) [[Code]](https://github.com/timothybrooks/instruct-pix2pix) [[Dataset]](https://instruct-pix2pix.eecs.berkeley.edu/) [[Project]](https://www.timothybrooks.com/instruct-pix2pix/) [[Demo]](https://huggingface.co/spaces/timbrooks/instruct-pix2pix)
+    - ***Null-text Inversion*** for Editing Real Images using Guided Diffusion Models [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Mokady_NULL-Text_Inversion_for_Editing_Real_Images_Using_Guided_Diffusion_Models_CVPR_2023_paper.pdf) [[Code]](https://github.com/google/prompt-to-prompt/#null-text-inversion-for-editing-real-images)
   - **ICCV**
     - ***MasaCtrl:*** Tuning-Free Mutual Self-Attention Control for Consistent Image Synthesis and Editing [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Cao_MasaCtrl_Tuning-Free_Mutual_Self-Attention_Control_for_Consistent_Image_Synthesis_and_ICCV_2023_paper.pdf) [[Code]](https://github.com/TencentARC/MasaCtrl) [[Project]](https://ljzycmd.github.io/projects/MasaCtrl/) [[Demo]](https://colab.research.google.com/drive/1DZeQn2WvRBsNg4feS1bJrwWnIzw1zLJq?usp=sharing)
     - Localizing Object-level Shape Variations with Text-to-Image Diffusion Models [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Patashnik_Localizing_Object-Level_Shape_Variations_with_Text-to-Image_Diffusion_Models_ICCV_2023_paper.pdf) [[Code]](https://github.com/orpatashnik/local-prompt-mixing) [[Project]](https://orpatashnik.github.io/local-prompt-mixing/) [[Demo]](https://huggingface.co/spaces/orpatashnik/local-prompt-mixing)
@@ -405,7 +406,9 @@ Layout-to-image Generation [[Paper]](https://openaccess.thecvf.com/content/CVPR2
 |Name|Website|Description|
 |-|-|-|
 |Stable Diffusion WebUI|[link](https://github.com/AUTOMATIC1111/stable-diffusion-webui)|Built based on Gradio, deployed locally to run Stable Diffusion checkpoints, LoRA weights, ControlNet weights, etc.|
-|ComfyUI|[link](https://github.com/comfyanonymous/ComfyUI)|Deployed locally to enable customized workflows with Stable Diffusion
+|Stable Diffusion WebUI-forge|[link](https://github.com/lllyasviel/stable-diffusion-webui-forge)|Built based on Gradio, deployed locally to run Stable Diffusion checkpoints, LoRA weights, ControlNet weights, etc.|
+|Fooocus|[link](https://github.com/lllyasviel/Fooocus)|Built based on Gradio, offline, open source, and free.  <br />The manual tweaking is not needed, and users only need to focus on the prompts and images.|
+|ComfyUI|[link](https://github.com/comfyanonymous/ComfyUI)|Deployed locally to enable customized workflows with Stable Diffusion|
 |Civitai|[link](https://civitai.com/)|Websites for community Stable Diffusion and LoRA checkpoints|
 
 [<u><small><🎯Back to Top></small></u>](#contents)
