@@ -1,9 +1,7 @@
 <p align="center">
   <h1 align="center">Topics</h1>
 
-This section aims to offer paper lists that are summarized according to **other properties of diffusion models**, e.g., Diffusion Transformer-based methods, diffusion models for NLP, diffusion models integrated with LLMs, etc.
-
-Besides, papers of **essential prerequisites**, *e.g., DDPM, DDIM, classifier-free guidance*, are also summarized.
+This section summarizes papers that are highly related to T2I generation according to different properties, *e.g., prerequisites of T2I generation, diffusion models with other techniques (e.g., Diffusion Transformer, LLMs, Mamba, etc.), and diffusion models for other tasks.* 
 
 All references of the summarized papers can be found in [`reference.bib`](../reference.bib).
 
@@ -43,9 +41,10 @@ All references of the summarized papers can be found in [`reference.bib`](../ref
 > [!NOTE]
 > Large Language Models (LLM) have become a popular research direction with outstanding text processing ability. This topic summarizes diffusion models that integrate LLMs.
 
+- [arXiv 2023] ***ParaDiffusion:*** Paragraph-to-Image Generation with Information-Enriched Diffusion Model [[Paper]](https://arxiv.org/pdf/2311.14284) [[Code]](https://github.com/weijiawu/ParaDiffusion)
+- [arXiv 2023] ***MiniGPT-5:*** Interleaved Vision-and-Language Generation via Generative Vokens [[Paper]](https://arxiv.org/pdf/2310.02239)
 - [ACM MM 2024] ***SUR-adapter:*** Enhancing Text-to-Image Pre-trained Diffusion Models with Large Language Models [[Paper]](https://arxiv.org/pdf/2305.05189.pdf) [[Code]](https://github.com/Qrange-group/SUR-adapter)
 - [arXiv 2024] ***ELLA:*** Equip Diffusion Models with LLM for Enhanced Semantic Alignment [[Paper]](https://arxiv.org/pdf/2403.05135) [[Code]](https://github.com/ELLA-Diffusion/ELLA) [[Project]](https://ella-diffusion.github.io/) 
-- [arXiv 2023] ***ParaDiffusion:*** Paragraph-to-Image Generation with Information-Enriched Diffusion Model [[Paper]](https://arxiv.org/pdf/2311.14284) [[Code]](https://github.com/weijiawu/ParaDiffusion)
 
 <!-- omit in toc -->
 # Diffusion Models Meet Mamba
@@ -75,9 +74,9 @@ All references of the summarized papers can be found in [`reference.bib`](../ref
 - [ICCV 2023] ***DiT:*** Scalable Diffusion Models with Transformers [[Paper]](https://arxiv.org/pdf/2212.09748) [[Code]](https://github.com/facebookresearch/DiT) [[Project]](https://www.wpeebles.com/DiT) [[Demo]](https://huggingface.co/spaces/wpeebles/DiT)
 - [ICML 2023] ***UniDiffusers:*** One Transformer Fits All Distributions in Multi-Modal Diffusion at Scale [[Paper]](https://arxiv.org/pdf/2303.06555) [[Code]](https://github.com/thu-ml/unidiffuser)
 - [ICCV 2023] ***MDTv1:*** Masked Diffusion Transformer is a Strong Image Synthesizer [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Gao_Masked_Diffusion_Transformer_is_a_Strong_Image_Synthesizer_ICCV_2023_paper.pdf) [[Code]](https://github.com/sail-sg/MDT)
-- [arXiv 2024] ***FiT:*** Flexible Vision Transformer for Diffusion Model [[Paper]](https://arxiv.org/pdf/2402.12376) [[Code]](https://github.com/whlzy/FiT)
 - [ICLR 2024] ***PixArt-α:*** Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis [[Paper]](https://arxiv.org/pdf/2310.00426.pdf) [[Code]](https://github.com/PixArt-alpha/PixArt-alpha) [[Project]](https://pixart-alpha.github.io/) [[Demo]](https://huggingface.co/spaces/PixArt-alpha/PixArt-alpha)
 - [TMLR 2024] ***MaskDiT:*** Fast Training of Diffusion Models with Masked Transformer [[Paper]](https://openreview.net/pdf?id=vTBjBtGioE) [[Code]](https://github.com/Anima-Lab/MaskDiT)
+- [arXiv 2024] ***FiT:*** Flexible Vision Transformer for Diffusion Model [[Paper]](https://arxiv.org/pdf/2402.12376) [[Code]](https://github.com/whlzy/FiT)
 - [arXiv 2024] ***PIXART-δ:*** Fast and Controllable Image Generation with Latent Consistency Models [[Paper]](https://arxiv.org/pdf/2401.05252) [[Code]](b.com/PixArt-alpha/PixArt-alpha?tab=readme-ov-file)
 - [arXiv 2024] ***PixArt-Σ:*** Weak-to-Strong Training of Diffusion Transformer for 4K Text-to-Image Generation [[Paper]](https://arxiv.org/pdf/2403.04692) [[Code]](https://github.com/PixArt-alpha/PixArt-sigma) [[Project]](https://pixart-alpha.github.io/PixArt-sigma-project/)
 - [arXiv 2024] ***MDTv2:*** Masked Diffusion Transformer is a Strong Image Synthesizer [[Paper]](https://arxiv.org/pdf/2303.14389.pdf) [[Code]](https://github.com/sail-sg/MDT)

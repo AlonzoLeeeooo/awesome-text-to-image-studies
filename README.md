@@ -4,7 +4,7 @@
 This GitHub repository summarizes papers and resources related to the text-to-image (T2I) generation task. 
 
 > [!NOTE]
-> This document serves as the homepage of the whole GitHub repo. Papers are summarized according to **different research directions, published years, and conferences.** 
+> This document serves as the `homepage` of the whole GitHub repo. Papers are summarized according to **different research directions, published years, and conferences.** 
 > 
 > [The `topics` section](topics/topics.md) summarizes papers that are highly related to T2I generation according to different properties, e.g., prerequisites of T2I generation, diffusion models with other techniques (e.g., Diffusion Transformer, LLMs, Mamba, etc.), and diffusion models for other tasks. 
 
@@ -453,6 +453,9 @@ Based on the original references, I have made the following modifications to mak
 - All paper names are in title case. Besides, I have added an additional `{}` to make sure that the title case would also work well in some particular templates. 
 
 If you have other demands of reference formats, you may refer to the original references of papers by searching their names in [DBLP](https://dblp.org/) or [Google Scholar](https://scholar.google.com/).
+
+> [!NOTE]
+> Note that references in the `homepage` and [the `topic` section](topics/topics.md) can be repeated in `reference.bib`. Personally, I recommend using `"Ctrl+F" / "Command+F"` to search your desired `BibTeX` reference.
 
  [<u><small><🎯Back to Top></small></u>](#contents)
 
