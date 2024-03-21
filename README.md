@@ -1,12 +1,18 @@
 <p align="center">
   <h1 align="center">A Collection of Text-to-Image Generation Studies</h1>
 
-This GitHub repository summarizes papers and resources related to the text-to-image generation task. 
+This GitHub repository summarizes papers and resources related to the text-to-image (T2I) generation task. 
+
+> [!NOTE]
+> This document serves as the homepage of the whole GitHub repo. Papers are summarized according to **different research directions, published years, and conferences.** 
+> 
+> [The `topics` section](topics/topics.md) summarizes papers that are highly related to T2I generation according to different properties, e.g., prerequisites of T2I generation, diffusion models with other techniques (e.g., Diffusion Transformer, LLMs, Mamba, etc.), and diffusion models for other tasks. 
 
 If you have any suggestions about this repository, please feel free to [start a new issue](https://github.com/AlonzoLeeeooo/awesome-text-to-image-generation-studies/issues/new) or [pull requests](https://github.com/AlonzoLeeeooo/awesome-text-to-image-generation-studies/pulls).
 
 <!-- omit in toc -->
 # 🔥 News
+- [Mar. 21th] The [`topics` section](topics/topics.md) has been updated. This section aims to offer **paper lists that are summarized according to other properties of diffusion models**, e.g., Diffusion Transformer-based methods, diffusion models for NLP, diffusion models integrated with LLMs, etc. The corresponding references of these papers are also concluded in `reference.bib`.
 - [Mar. 7th] All available **CVPR, ICLR, and AAAI 2024 papers and references** are updated. Papers highlighted with ⚠️ will be updated as soon as their metadata is avaiable.
 - [Mar. 1st] Websites of [**the off-the-shelf text-to-image generation products**](#available-products) and [**toolkits**](#toolkits) are summarized.
 
@@ -142,7 +148,6 @@ If you have any suggestions about this repository, please feel free to [start a 
     - ***RPG:*** Mastering Text-to-Image Diffusion: Recaptioning, Planning, and Generating with Multimodal LLMs [[Paper]](https://arxiv.org/pdf/2401.11708.pdf) [[Code]](https://github.com/YangLing0818/RPG-DiffusionMaster)
     - ***Playground v2.5:*** Three Insights towards Enhancing Aesthetic Quality in Text-to-Image Generation [[Paper]](https://arxiv.org/pdf/2402.17245.pdf) [[Code]](https://huggingface.co/playgroundai/playground-v2.5-1024px-aesthetic)
     - ***ResAdapter:*** Domain Consistent Resolution Adapter for Diffusion Models [[Paper]](https://arxiv.org/pdf/2403.02084.pdf) [[Code]](https://github.com/bytedance/res-adapter) [[Project]](https://res-adapter.github.io/)
-    - ***DiS:*** Scalable Diffusion Models with State Space Backbone [[Paper]](https://arxiv.org/pdf/2402.05608.pdf) [[Code]](https://github.com/feizc/dis)
     - ***InstantID:*** Zero-shot Identity-Preserving Generation in Seconds [[Paper]](https://arxiv.org/pdf/2401.07519.pdf) [[Code]](https://github.com/InstantID/InstantID) [[Project]](https://instantid.github.io/) [[Demo]](https://huggingface.co/spaces/InstantX/InstantID)
     - ***PIXART-δ:*** Fast and Controllable Image Generation with Latent Consistency Models [[Paper]](https://arxiv.org/pdf/2401.05252) [[Code]](b.com/PixArt-alpha/PixArt-alpha?tab=readme-ov-file)
     - ***PixArt-Σ:*** Weak-to-Strong Training of Diffusion Transformer for 4K Text-to-Image Generation [[Paper]](https://arxiv.org/pdf/2403.04692) [[Code]](https://github.com/PixArt-alpha/PixArt-sigma) [[Project]](https://pixart-alpha.github.io/PixArt-sigma-project/)
@@ -172,6 +177,7 @@ If you have any suggestions about this repository, please feel free to [start a 
   - **ICML**
     - ***StyleGAN-T:*** Unlocking the Power of GANs for Fast Large-Scale Text-to-Image Synthesis [[Paper]](https://proceedings.mlr.press/v202/sauer23a/sauer23a.pdf) [[Code]](https://github.com/autonomousvision/stylegan-t) [[Project]](https://sites.google.com/view/stylegan-t/) [[Video]](https://www.youtube.com/watch?v=MMj8OTOUIok)
     - ***Muse:*** Text-To-Image Generation via Masked Generative Transformers [[Paper]](https://proceedings.mlr.press/v202/chang23b/chang23b.pdf) [[Reproduced Code]](https://github.com/lucidrains/muse-maskgit-pytorch) [[Project]](https://muse-icml.github.io/)
+    - ***UniDiffusers:*** One Transformer Fits All Distributions in Multi-Modal Diffusion at Scale [[Paper]](https://arxiv.org/pdf/2303.06555) [[Code]](https://github.com/thu-ml/unidiffuser)
   - **ACM MM**
     - ***SUR-adapter:*** Enhancing Text-to-Image Pre-trained Diffusion Models with Large Language Models [[Paper]](https://arxiv.org/pdf/2305.05189.pdf) [[Code]](https://github.com/Qrange-group/SUR-adapter)
     - ***ControlStyle:*** Text-Driven Stylized Image Generation Using Diffusion Priors [[Paper]](https://arxiv.org/pdf/2311.05463.pdf)
@@ -182,6 +188,7 @@ If you have any suggestions about this repository, please feel free to [start a 
     - ***SDXL-Turbo:*** Adversarial Diffusion Distillation [[Paper]](https://arxiv.org/pdf/2311.17042.pdf) [[Code]](https://github.com/Stability-AI/generative-models)
     - ***Wuerstchen:*** An Efficient Architecture for Large-Scale Text-to-Image Diffusion Models [[Paper]](https://arxiv.org/pdf/2306.00637.pdf) [[Code]](https://github.com/dome272/Wuerstchen)
     - ***StreamDiffusion:*** A Pipeline-level Solution for Real-time Interactive Generation [[Paper]](https://arxiv.org/pdf/2312.12491.pdf) [[Project]](https://github.com/cumulo-autumn/StreamDiffusion)
+    - ***ParaDiffusion:*** Paragraph-to-Image Generation with Information-Enriched Diffusion Model [[Paper]](https://arxiv.org/pdf/2311.14284) [[Code]](https://github.com/weijiawu/ParaDiffusion)
   - **Others**
     - ***DALL-E 3:*** Improving Image Generation with Better Captions [[Paper]](https://cdn.openai.com/papers/dall-e-3.pdf)
 
