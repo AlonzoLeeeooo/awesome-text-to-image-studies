@@ -24,7 +24,7 @@ All references of the summarized papers can be found in [`reference.bib`](../ref
 </p>
 
 > [!NOTE]
-> The `Prerequisites` section summarizes the essential background knowledge for text-to-image diffusion models, *e.g., DDPM, DDIM, classifier-free guidance, latent diffusion models, etc.*
+> This section summarizes the essential background knowledge for text-to-image diffusion models, *e.g., DDPM, DDIM, classifier-free guidance, latent diffusion models, etc.*
 
 
 - [NeurIPS 2020] ***DDPM:*** Denoising Diffusion Probabilistic Models [[Paper]](https://arxiv.org/pdf/2006.11239.pdf) [[Code]](https://github.com/hojonathanho/diffusion) [[Project]](https://hojonathanho.github.io/diffusion/)
@@ -40,7 +40,9 @@ All references of the summarized papers can be found in [`reference.bib`](../ref
 </p>
 
 > [!NOTE]
-> Large Language Models (LLM) have become a popular research direction with outstanding text processing ability. This topic summarizes diffusion models that integrate LLMs.
+> Large Language Models (LLM) have become a popular research direction with outstanding text processing ability. For more information, you may referred to [my Zhihu blog](https://zhuanlan.zhihu.com/p/687482566).
+> 
+>  This topic summarizes diffusion models that integrate LLMs.
 
 - [arXiv 2023] ***ParaDiffusion:*** Paragraph-to-Image Generation with Information-Enriched Diffusion Model [[Paper]](https://arxiv.org/pdf/2311.14284) [[Code]](https://github.com/weijiawu/ParaDiffusion)
 - [arXiv 2023] ***MiniGPT-5:*** Interleaved Vision-and-Language Generation via Generative Vokens [[Paper]](https://arxiv.org/pdf/2310.02239)
@@ -70,7 +72,9 @@ All references of the summarized papers can be found in [`reference.bib`](../ref
 </p>
 
 > [!NOTE]
-> Diffusion Transformer (DiT) aims to use Transformer-based architecture to improve the backbone model (i.e., U-net) of diffusion models, where these architecture has been adopted by a wide series of related works, *e.g., Sora, Stable Diffusion 3, PixArt series, etc.* This topic summarizes diffusion models that are based on DiT.
+> Diffusion Transformer (DiT) aims to use Transformer-based architecture to improve the backbone model (i.e., U-net) of diffusion models, where these architecture has been adopted by a wide series of related works, *e.g., Sora, Stable Diffusion 3, PixArt series, etc.* For more information, you may referred to [my Zhihu blog](https://zhuanlan.zhihu.com/p/684448966).
+> 
+> This topic summarizes diffusion models that are based on DiT.
 
 - [ICCV 2023] ***DiT:*** Scalable Diffusion Models with Transformers [[Paper]](https://arxiv.org/pdf/2212.09748) [[Code]](https://github.com/facebookresearch/DiT) [[Project]](https://www.wpeebles.com/DiT) [[Demo]](https://huggingface.co/spaces/wpeebles/DiT)
 - [ICML 2023] ***UniDiffusers:*** One Transformer Fits All Distributions in Multi-Modal Diffusion at Scale [[Paper]](https://arxiv.org/pdf/2303.06555) [[Code]](https://github.com/thu-ml/unidiffuser)
@@ -91,7 +95,9 @@ All references of the summarized papers can be found in [`reference.bib`](../ref
 
 
 > [!NOTE]
-> Diffusion models are utilized for text generation to tackle the limitation of autoregressive models, e.g., Transformer. However, it is tough to directly leverage standard diffusion models for text generation due to the discrete nature of natural language. Therefore, related works, *e.g., D3PM, Bit Diffusion, Diffusion-LM, etc.*, are motivated to tackle the aforementioned problems. This topic summarizes diffusion models that are designed for text generation.
+> Diffusion models are utilized for text generation to tackle the limitation of autoregressive models, e.g., Transformer. However, it is tough to directly leverage standard diffusion models for text generation due to the discrete nature of natural language. Therefore, related works, *e.g., D3PM, Bit Diffusion, Diffusion-LM, etc.*, are motivated to tackle the aforementioned problems.
+> 
+>  This topic summarizes diffusion models that are designed for text generation.
 
 - [NeurIPS 2021] ***D3PM:*** Structured Denoising Diffusion Models in Discrete State-Spaces [[Paper]](https://arxiv.org/pdf/2107.03006.pdf)
 - [NeurIPS 2022] ***Diffusion-LM*** Improves Controllable Text Generation [[Paper]](https://openreview.net/pdf?id=3s9IrEsjLyk) [[Code]](https://github.com/XiangLi1999/Diffusion-LM)
