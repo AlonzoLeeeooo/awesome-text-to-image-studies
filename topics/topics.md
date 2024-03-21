@@ -19,12 +19,13 @@ All references of the summarized papers can be found in [`reference.bib`](../ref
 <!-- omit in toc -->
 # Prerequisites
 
-> [!NOTE]
-> The `Prerequisites` section summarizes the essential background knowledge for text-to-image diffusion models, *e.g., DDPM, DDIM, classifier-free guidance, latent diffusion models, etc.*
-
 <p align="center">
 <img width="500" src="../github-materials/ddpm.png" alt="DDPM">
 </p>
+
+> [!NOTE]
+> The `Prerequisites` section summarizes the essential background knowledge for text-to-image diffusion models, *e.g., DDPM, DDIM, classifier-free guidance, latent diffusion models, etc.*
+
 
 - [NeurIPS 2020] ***DDPM:*** Denoising Diffusion Probabilistic Models [[Paper]](https://arxiv.org/pdf/2006.11239.pdf) [[Code]](https://github.com/hojonathanho/diffusion) [[Project]](https://hojonathanho.github.io/diffusion/)
 - [ICLR 2021] ***DDIM:*** Denoising Diffusion Implicit Models [[Paper]](https://arxiv.org/pdf/2010.02502.pdf) [[Code]](https://github.com/ermongroup/ddim)
