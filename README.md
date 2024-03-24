@@ -73,6 +73,9 @@ If you have any suggestions about this repository, please feel free to [start a 
 |Playground|2023|[link](https://playground.com/)|Athestic images|
 |HiDream.ai|2023|[link](https://hidreamai.com/#/)|-|
 |Dashtoon|2023|[link](https://dashtoon.com/)|Text-to-Comic Generation|
+|WHEE|2023|[link](https://www.whee.com/)|WHEE is an online AI generation tool, which can be applied for *T2I generation, I2I generation, SR, inpainting, outpainting, image variation, virtural try-on, etc.* |
+|Vega AI|2023|[link](https://www.vegaai.net/)|Vega AI is an online AI generation tool, which can be applied for *T2I generation, I2I generation, SR, T2V generation, I2V generation, etc.*|
+|Wujie AI|2022|[link](https://www.wujieai.com/)|The Chinese name is "无界AI", offering AIGC resources and online services|
 |Midjourney|2022|[link](https://www.midjourney.com/home)|Powerful close-sourced generation tool|
 
 [<u><small><🎯Back to Top></small></u>](#contents)
