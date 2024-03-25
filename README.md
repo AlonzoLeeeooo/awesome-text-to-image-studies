@@ -256,7 +256,7 @@ If you have any suggestions about this repository, please feel free to [start a 
   - **CVPR**
     - ***PLACE:*** Adaptive Layout-Semantic Fusion for Semantic Image Synthesis [[Paper]](https://arxiv.org/pdf/2403.01852.pdf)
     - One-Shot Structure-Aware Stylized Image Synthesis [[Paper]](https://arxiv.org/pdf/2402.17275.pdf)
-    - Grounded Text-to-Image Synthesis with Attention Refocusing [Paper] [[Project]]
+    - Grounded Text-to-Image Synthesis with Attention Refocusing [[Paper]](https://arxiv.org/pdf/2306.05427.pdf) [[Code]](https://github.com/Attention-Refocusing/attention-refocusing) [[Project]](https://attention-refocusing.github.io/) [[Demo]](https://huggingface.co/spaces/attention-refocusing/Attention-refocusing)
     - Coarse-to-Fine Latent Diffusion for Pose-Guided Person Image Synthesis [[Paper]](https://arxiv.org/pdf/2402.18078.pdf) [[Code]](https://github.com/YanzuoLu/CFLD)
     - ⚠️ ***Zero-Painter:*** Training-Free Layout Control for Text-to-Image Synthesis [Paper]
   - **ICLR**
@@ -267,7 +267,7 @@ If you have any suggestions about this repository, please feel free to [start a 
     - ***SSMG:*** Spatial-Semantic Map Guided Diffusion Model for Free-form Layout-to-image Generation [[Paper]](https://arxiv.org/pdf/2308.10156.pdf)
     - Compositional Text-to-Image Synthesis with Attention Map Control of Diffusion Models [[Paper]](https://arxiv.org/pdf/2305.13921.pdf) [[Code]](https://github.com/OPPO-Mente-Lab/attention-mask-control)
   - **arXiv**
-    - - ***DEADiff:*** An Efficient Stylization Diffusion Model with Disentangled Representations [[Paper]](https://arxiv.org/pdf/2403.06951)
+    - ***DEADiff:*** An Efficient Stylization Diffusion Model with Disentangled Representations [[Paper]](https://arxiv.org/pdf/2403.06951)
 
 [<u><small><🎯Back to Top></small></u>](#contents)
 
@@ -294,7 +294,7 @@ If you have any suggestions about this repository, please feel free to [start a 
   - **WACV**
     - More Control for Free! Image Synthesis with Semantic Diffusion Guidance [[Paper]](https://openaccess.thecvf.com/content/WACV2023/papers/Liu_More_Control_for_Free_Image_Synthesis_With_Semantic_Diffusion_Guidance_WACV_2023_paper.pdf)
   - **ACM MM**
-  -  ***LayoutLLM-T2I:*** Eliciting Layout Guidance from LLM for Text-to-Image Generation [[Paper]](https://arxiv.org/pdf/2308.05095.pdf)
+    -  ***LayoutLLM-T2I:*** Eliciting Layout Guidance from LLM for Text-to-Image Generation [[Paper]](https://arxiv.org/pdf/2308.05095.pdf)
   - **arXiv**
     - ***T2I-Adapter:*** Learning Adapters to Dig out More Controllable Ability for Text-to-Image Diffusion Models [[Paper]](https://arxiv.org/pdf/2302.08453.pdf) [[Code]](https://github.com/TencentARC/T2I-Adapter) [[Demo]](https://huggingface.co/spaces/TencentARC/T2I-Adapter-SDXL)
     - ***BLIP-Diffusion:*** Pre-trained Subject Representation for Controllable Text-to-Image Generation and Editing [[Paper]](https://arxiv.org/pdf/2305.14720.pdf) [[Code]](https://github.com/salesforce/LAVIS/tree/main/projects/blip-diffusion)
@@ -312,7 +312,7 @@ If you have any suggestions about this repository, please feel free to [start a 
     - ***InstantBooth:*** Personalized Text-to-Image Generation without Test-Time Finetuning [[Paper]](https://arxiv.org/pdf/2304.03411.pdf) [[Project]](https://jshi31.github.io/InstantBooth/)
     - High Fidelity Person-centric Subject-to-Image Synthesis [[Paper]](https://arxiv.org/pdf/2311.10329.pdf)
     - ***RealCustom:*** Narrowing Real Text Word for Real-Time Open-Domain Text-to-Image Customization [[Paper]](https://arxiv.org/pdf/2403.00483.pdf) [[Project]](https://corleone-huang.github.io/realcustom/)
-    - ⚠️ FreeCustom: Tuning-Free Customized Image Generation for Multi-Concept Composition [Paper]
+    - ⚠️ ***FreeCustom:*** Tuning-Free Customized Image Generation for Multi-Concept Composition [Paper]
     - ⚠️ ***JeDi:*** Joint-Image Diffusion Models for Finetuning-Free Personalized Text-to-Image Generation [Paper]
     - ⚠️ Countering Personalized Text-to-Image Generation with Influence Watermarks [Paper]
     - ⚠️ Personalized Residuals for Concept-Driven Text-to-Image Generation [Paper]
@@ -353,7 +353,7 @@ If you have any suggestions about this repository, please feel free to [start a 
     - Text-Driven Image Editing via Learnable Regions [[Paper]](https://arxiv.org/pdf/2311.16432.pdf) [[Code]](https://github.com/yuanze-lin/Learnable_Regions) [[Project]](https://yuanze-lin.me/LearnableRegions_page/) [[Video]](https://www.youtube.com/watch?v=FpMWRXFraK8&feature=youtu.be)
     - ***LEDITS++:*** Limitless Image Editing using Text-to-Image Models [[Paper]](https://arxiv.org/pdf/2311.16711.pdf) [[Code]](https://huggingface.co/spaces/editing-images/ledtisplusplus/tree/main) [[Project]](https://leditsplusplus-project.static.hf.space/index.html) [[Demo]](https://huggingface.co/spaces/editing-images/leditsplusplus)
     - ***SmartEdit:*** Exploring Complex Instruction-based Image Editing with Large Language Models [[Paper]](https://arxiv.org/pdf/2312.06739.pdf) [[Code]](https://github.com/TencentARC/SmartEdit) [[Project]](https://yuzhou914.github.io/SmartEdit/)
-    - Edit One for All: Interactive Batch Image Editing [[Paper]](https://arxiv.org/pdf/2401.10219.pdf) [[Code]](https://github.com/thaoshibe/edit-one-for-all) [[Project]](https://thaoshibe.github.io/edit-one-for-all/)
+    - ***Edit One for All:*** Interactive Batch Image Editing [[Paper]](https://arxiv.org/pdf/2401.10219.pdf) [[Code]](https://github.com/thaoshibe/edit-one-for-all) [[Project]](https://thaoshibe.github.io/edit-one-for-all/)
     - ⚠️ ***TiNO-Edit:*** Timestep and Noise Optimization for Robust Diffusion-Based Image Editing [Paper]
     - ⚠️ Person in Place: Generating Associative Skeleton-Guidance Maps for Human-Object Interaction Image Editing [Paper]
     - ⚠️ Referring Image Editing: Object-level Image Editing via Referring Expressions [Paper]
