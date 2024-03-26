@@ -161,7 +161,8 @@ If you have any suggestions about this repository, please feel free to [start a 
     - ***SD3-Turbo:*** Fast High-Resolution Image Synthesis with Latent Adversarial Diffusion Distillation [[Paper]](https://arxiv.org/pdf/2403.12015.pdf)
     - ***StreamMultiDiffusion:*** Real-Time Interactive Generation with Region-Based Semantic Control [[Paper]](https://arxiv.org/pdf/2403.09055) [[Code]](https://github.com/ironjr/StreamMultiDiffusion)
     - ***SVGDreamer:*** Text Guided SVG Generation with Diffusion Model [[Paper]](https://arxiv.org/pdf/2312.16476) [[Code]](https://github.com/ximinng/SVGDreamer) [[Project]](https://ximinng.github.io/SVGDreamer-project/)
-    - ***PromptCharm:*** Text-to-Image Generation through Multi-modal Prompting and Refinement [[Paper]](https://arxiv.org/pdf/2403.04014.pdf) 
+    - ***PromptCharm:*** Text-to-Image Generation through Multi-modal Prompting and Refinement [[Paper]](https://arxiv.org/pdf/2403.04014.pdf)
+    - ***YOSO:*** You Only Sample Once: Taming One-Step Text-to-Image Synthesis by Self-Cooperative Diffusion GANs [[Paper]](https://arxiv.org/pdf/2403.12931) [[Code]](https://github.com/mlpen/YOSO)
   - **Others**
     - ***Stable Cascade*** [[Blog]](https://stability.ai/news/introducing-stable-cascade) [[Code]](https://github.com/Stability-AI/StableCascade)
 
