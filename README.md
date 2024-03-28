@@ -57,9 +57,11 @@ Recent news of this GitHub repo are listed as follows.
 # To-Do Lists
 - Published Papers on Conferences
   - [x] Update CVPR 2024 Papers
-  - [x] Update AAAI 2024 Papers
     - [ ] Update ⚠️ Papers and References
-    - [ ] Update arXiv References into CVPR and AAAI Versions
+    - [ ] Update arXiv References into the Official Version
+  - [x] Update AAAI 2024 Papers
+    - [x] Update ⚠️ Papers and References
+    - [x] Update arXiv References into the Official Version
   - [x] Update ICLR 2024 Papers
   - [ ] Update NeurIPS 2024 Papers
 - [ ] Create A List with only Diffusion Model-based Papers
