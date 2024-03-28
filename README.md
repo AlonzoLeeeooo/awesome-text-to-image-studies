@@ -10,11 +10,16 @@ This GitHub repository summarizes papers and resources related to the text-to-im
 
 If you have any suggestions about this repository, please feel free to [start a new issue](https://github.com/AlonzoLeeeooo/awesome-text-to-image-generation-studies/issues/new) or [pull requests](https://github.com/AlonzoLeeeooo/awesome-text-to-image-generation-studies/pulls).
 
-<!-- omit in toc -->
-# 🔥 News
+Recent news of this GitHub repo are listed as follows.
+<details> <summary> 🔥 Click to see more information. </summary>
+
+- [Mar. 28th] The official **AAAI 2024** paper list are released! Official version of PDFs and BibTeX references are updated accordingly.
 - [Mar. 21th] [The `topics` section](topics/topics.md) has been updated. This section aims to offer **paper lists that are summarized according to other properties of diffusion models**, e.g., Diffusion Transformer-based methods, diffusion models for NLP, diffusion models integrated with LLMs, etc. The corresponding references of these papers are also concluded in `reference.bib`.
 - [Mar. 7th] All available **CVPR, ICLR, and AAAI 2024 papers and references** are updated. Papers highlighted with ⚠️ will be updated as soon as their metadata is avaiable.
 - [Mar. 1st] Websites of [**the off-the-shelf text-to-image generation products**](#available-products) and [**toolkits**](#toolkits) are summarized.
+
+</details>
+
 
 <!-- omit in toc -->
 # <span id="contents">Contents</span>
@@ -128,12 +133,11 @@ If you have any suggestions about this repository, please feel free to [start a 
     - Self-Discovering Interpretable Diffusion Latent Directions for Responsible Text-to-Image Generation [[Paper]](https://arxiv.org/pdf/2311.17216.pdf)
     - ***Tailored Visions:*** Enhancing Text-to-Image Generation with Personalized Prompt Rewriting [[Paper]](https://arxiv.org/pdf/2310.08129.pdf) [[Code]](https://github.com/zzjchen/Tailored-Visions)
     - ***CoDi:*** Conditional Diffusion Distillation for Higher-Fidelity and Faster Image Generation [[Paper]](https://arxiv.org/pdf/2310.01407.pdf) [[Code]](https://github.com/fast-codi/CoDi) [[Project]](https://fast-codi.github.io/) [[Demo]](https://huggingface.co/spaces/MKFMIKU/CoDi)
-    - ⚠️ Arbitrary-Scale Image Generation and Upsampling using Latent Diffusion Model and Implicit Neural Decoder [Paper]
+    - Arbitrary-Scale Image Generation and Upsampling using Latent Diffusion Model and Implicit Neural Decoder [[Paper]](https://arxiv.org/pdf/2403.10255.pdf)
+    - Towards Effective Usage of Human-Centric Priors in Diffusion Models for Text-based Human Image Generation [[Paper]](https://arxiv.org/pdf/2403.05239)
     - ⚠️ On the Scalability of Diffusion-based Text-to-Image Generation [Paper]
     - ⚠️ ***MULAN:*** A Multi Layer Annotated Dataset for Controllable Text-to-Image Generation [Paper]
-    - ⚠️ Discriminative Probing and Tuning for Text-to-Image Generation [Paper]
     - ⚠️ Learning Multi-dimensional Human Preference for Text-to-Image Generation [Paper]
-    - ⚠️ Towards Effective Usage of Human-Centric Priors in Diffusion Models for Text-based Human Image Generation [Paper]
     - ⚠️ Training Diffusion Models Towards Diverse Image Generation with Reinforcement Learning [Paper]
     - ⚠️ Adversarial Text to Continuous Image Generation [Paper]
     - ⚠️ Dynamic Prompt Optimizing for Text-to-Image Generation [Paper]
@@ -145,7 +149,7 @@ If you have any suggestions about this repository, please feel free to [start a 
     - ***PixArt-α:*** Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis [[Paper]](https://arxiv.org/pdf/2310.00426.pdf) [[Code]](https://github.com/PixArt-alpha/PixArt-alpha) [[Project]](https://pixart-alpha.github.io/) [[Demo]](https://huggingface.co/spaces/PixArt-alpha/PixArt-alpha)
   - **AAAI**
     - Semantic-aware Data Augmentation for Text-to-image Synthesis [[Paper]](https://arxiv.org/pdf/2312.07951.pdf)
-    - ⚠️ Text-to-Image Generation for Abstract Concepts [Paper]
+    - Text-to-Image Generation for Abstract Concepts [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28122)
   - **arXiv**
     - Self-Play Fine-Tuning of Diffusion Models for Text-to-Image Generation [[Paper]](https://arxiv.org/pdf/2402.10210.pdf)
     - ***RPG:*** Mastering Text-to-Image Diffusion: Recaptioning, Planning, and Generating with Multimodal LLMs [[Paper]](https://arxiv.org/pdf/2401.11708.pdf) [[Code]](https://github.com/YangLing0818/RPG-DiffusionMaster)
@@ -372,7 +376,7 @@ If you have any suggestions about this repository, please feel free to [start a 
     - Accelerating Text-to-Image Editing via Cache-Enabled Sparse Diffusion Inference [[Paper]](https://arxiv.org/pdf/2305.17423)
     - High-Fidelity Diffusion-based Image Editing [[Paper]](https://arxiv.org/pdf/2312.15707)
     - ***AdapEdit:*** Spatio-Temporal Guided Adaptive Editing Algorithm for Text-Based Continuity-Sensitive Image Editing [[Paper]](https://arxiv.org/pdf/2312.08019)
-    - ⚠️ TexFit: Text-Driven Fashion Image Editing with Diffusion Models [Paper]
+    - ⚠️ ***TexFit:*** Text-Driven Fashion Image Editing with Diffusion Models [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28885)
   - **arXiv**
     - ***An Item is Worth a Prompt:*** Versatile Image Editing with Disentangled Control [[Paper]](https://arxiv.org/pdf/2403.04880.pdf) [[Code]](https://github.com/asFeng/d-edit)
     - ***StableDrag:*** Stable Dragging for Point-based Image Editing [[Paper]](https://arxiv.org/pdf/2403.04437)
