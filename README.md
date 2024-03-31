@@ -69,6 +69,7 @@ Recent news of this GitHub repo are listed as follows.
 
 [<u><small><🎯Back to Top></small></u>](#contents)
 
+
 <!-- omit in toc -->
 # Products
 |Name|Year|Website|Specialties|
@@ -417,6 +418,7 @@ Recent news of this GitHub repo are listed as follows.
 - ***Microsoft COCO:*** Common Objects in Context [[Paper]](https://arxiv.org/pdf/1405.0312.pdf) [[Dataset]](https://cocodataset.org/#home)
 - ***Conceptual Captions:*** A Cleaned, Hypernymed, Image Alt-text Dataset For Automatic Image Captioning [[Paper]](https://aclanthology.org/P18-1238.pdf) [[Dataset]](https://ai.google.com/research/ConceptualCaptions/)
 - ***LAION-5B:*** An Open Large-Scale Dataset for Training Next Generation Image-Text Models [[Paper]](https://openreview.net/pdf?id=M3Y74vmsMcY) [[Dataset]](https://laion.ai/)
+- ***PartiPrompts:*** Scaling Autoregressive Models for Content-Rich Text-to-Image Generation [[Paper]](https://arxiv.org/pdf/2206.10789) [[Dataset]](https://github.com/google-research/parti?tab=readme-ov-file) [[Project]](https://sites.research.google/parti/)
 
 
 [<u><small><🎯Back to Top></small></u>](#contents)
