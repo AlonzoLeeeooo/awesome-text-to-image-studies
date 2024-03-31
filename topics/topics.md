@@ -28,8 +28,10 @@ All references of the summarized papers can be found in [`reference.bib`](../ref
 
 
 - [NeurIPS 2020] ***DDPM:*** Denoising Diffusion Probabilistic Models [[Paper]](https://arxiv.org/pdf/2006.11239.pdf) [[Code]](https://github.com/hojonathanho/diffusion) [[Project]](https://hojonathanho.github.io/diffusion/)
+-  [J. Mach. Learn. Res. 2020] ***T5:*** Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer [[Paper]](https://arxiv.org/pdf/1910.10683) [[Code]](https://github.com/google-research/text-to-text-transfer-transformer)
 - [ICLR 2021] ***DDIM:*** Denoising Diffusion Implicit Models [[Paper]](https://arxiv.org/pdf/2010.02502.pdf) [[Code]](https://github.com/ermongroup/ddim)
 - [NeurIPS 2021] ***Classifier Guidance:*** Diffusion Models Beat GANs on Image Synthesis [[Paper]](https://arxiv.org/pdf/2105.05233.pdf) [[Code]](https://github.com/openai/guided-diffusion)
+- [ICML 2021] ***CLIP:*** Learning Transferable Visual Models From Natural Language Supervision [[Paper]](https://proceedings.mlr.press/v139/radford21a/radford21a.pdf) [[Code]](https://github.com/openai/CLIP)
 - [arXiv 2022] ***Classifier-Free Diffusion Guidance*** [[Paper]](https://arxiv.org/pdf/2207.12598.pdf) [[Reproduced Code]](https://github.com/lucidrains/classifier-free-guidance-pytorch)
 
 <!-- omit in toc -->
