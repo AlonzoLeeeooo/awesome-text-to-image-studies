@@ -343,6 +343,7 @@ Recent news of this GitHub repo are listed as follows.
   - **arXiv**
     - ***DreamTuner:*** Single Image is Enough for Subject-Driven Generation [[Paper]](https://arxiv.org/pdf/2312.13691.pdf) [[Project]](https://dreamtuner-diffusion.github.io/)
     - ***PhotoMaker:*** Customizing Realistic Human Photos via Stacked ID Embedding [[Paper]](https://arxiv.org/pdf/2312.04461.pdf) [[Code]](https://github.com/TencentARC/PhotoMaker)
+    - ***IP-Adapter:*** Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models [[Paper]](https://arxiv.org/pdf/2308.06721.pdf) [[Code]](https://github.com/tencent-ailab/IP-Adapter) [[Project]](https://ip-adapter.github.io/)
 
 [<u><small><🎯Back to Top></small></u>](#contents)
 
