@@ -138,6 +138,7 @@ Recent news of this GitHub repo are listed as follows.
     - ***CoDi:*** Conditional Diffusion Distillation for Higher-Fidelity and Faster Image Generation [[Paper]](https://arxiv.org/pdf/2310.01407.pdf) [[Code]](https://github.com/fast-codi/CoDi) [[Project]](https://fast-codi.github.io/) [[Demo]](https://huggingface.co/spaces/MKFMIKU/CoDi)
     - Arbitrary-Scale Image Generation and Upsampling using Latent Diffusion Model and Implicit Neural Decoder [[Paper]](https://arxiv.org/pdf/2403.10255.pdf)
     - Towards Effective Usage of Human-Centric Priors in Diffusion Models for Text-based Human Image Generation [[Paper]](https://arxiv.org/pdf/2403.05239)
+    - ***CosmicMan:*** A Text-to-Image Foundation Model for Humans [[Paper]](https://arxiv.org/pdf/2404.01294) [[Code]](https://github.com/cosmicman-cvpr2024/CosmicMan) [[Project]](https://cosmicman-cvpr2024.github.io/)
     - ⚠️ On the Scalability of Diffusion-based Text-to-Image Generation [Paper]
     - ⚠️ ***MULAN:*** A Multi Layer Annotated Dataset for Controllable Text-to-Image Generation [Paper]
     - ⚠️ Learning Multi-dimensional Human Preference for Text-to-Image Generation [Paper]
@@ -170,6 +171,7 @@ Recent news of this GitHub repo are listed as follows.
     - ***SVGDreamer:*** Text Guided SVG Generation with Diffusion Model [[Paper]](https://arxiv.org/pdf/2312.16476) [[Code]](https://github.com/ximinng/SVGDreamer) [[Project]](https://ximinng.github.io/SVGDreamer-project/)
     - ***PromptCharm:*** Text-to-Image Generation through Multi-modal Prompting and Refinement [[Paper]](https://arxiv.org/pdf/2403.04014.pdf)
     - ***YOSO:*** You Only Sample Once: Taming One-Step Text-to-Image Synthesis by Self-Cooperative Diffusion GANs [[Paper]](https://arxiv.org/pdf/2403.12931) [[Code]](https://github.com/mlpen/YOSO)
+    - ***SingDiffusion:*** Tackling the Singularities at the Endpoints of Time Intervals in Diffusion Models [[Paper]](https://arxiv.org/pdf/2403.08381) [[Code]](https://github.com/PangzeCheung/SingDiffusion)
   - **Others**
     - ***Stable Cascade*** [[Blog]](https://stability.ai/news/introducing-stable-cascade) [[Code]](https://github.com/Stability-AI/StableCascade)
 
@@ -276,6 +278,7 @@ Recent news of this GitHub repo are listed as follows.
     - Compositional Text-to-Image Synthesis with Attention Map Control of Diffusion Models [[Paper]](https://arxiv.org/pdf/2305.13921.pdf) [[Code]](https://github.com/OPPO-Mente-Lab/attention-mask-control)
   - **arXiv**
     - ***DEADiff:*** An Efficient Stylization Diffusion Model with Disentangled Representations [[Paper]](https://arxiv.org/pdf/2403.06951)
+    - ***InstantStyle:*** Free Lunch towards Style-Preserving in Text-to-Image Generation [[Paper]](https://arxiv.org/pdf/2404.02733.pdf) [[Code]](https://github.com/InstantStyle/InstantStyle) [[Project]](https://instantstyle.github.io/)
 
 [<u><small><🎯Back to Top></small></u>](#contents)
 
@@ -328,6 +331,8 @@ Recent news of this GitHub repo are listed as follows.
     - ⚠️ Improving Subject-Driven Image Synthesis with Context-Agnostic Guidance [Paper]
   - **AAAI**
     - Decoupled Textual Embeddings for Customized Image Generation [[Paper]](https://arxiv.org/pdf/2312.11826.pdf)
+  - **arXiv**
+    - ***FlashFace:*** Human Image Personalization with High-fidelity Identity Preservation [[Paper]](https://arxiv.org/pdf/2403.17008) [[Code]](https://github.com/jshilong/FlashFace) [[Project]](https://jshilong.github.io/flashface-page)
 - <span id="personalized-year-2023">**Year 2023**</span>
   - **CVPR**
     - ***Custom Diffusion:*** Multi-Concept Customization of Text-to-Image Diffusion [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Kumari_Multi-Concept_Customization_of_Text-to-Image_Diffusion_CVPR_2023_paper.pdf) [[Code]](https://github.com/adobe-research/custom-diffusion) [[Project]](https://www.cs.cmu.edu/~custom-diffusion/)
@@ -364,6 +369,7 @@ Recent news of this GitHub repo are listed as follows.
     - ***LEDITS++:*** Limitless Image Editing using Text-to-Image Models [[Paper]](https://arxiv.org/pdf/2311.16711.pdf) [[Code]](https://huggingface.co/spaces/editing-images/ledtisplusplus/tree/main) [[Project]](https://leditsplusplus-project.static.hf.space/index.html) [[Demo]](https://huggingface.co/spaces/editing-images/leditsplusplus)
     - ***SmartEdit:*** Exploring Complex Instruction-based Image Editing with Large Language Models [[Paper]](https://arxiv.org/pdf/2312.06739.pdf) [[Code]](https://github.com/TencentARC/SmartEdit) [[Project]](https://yuzhou914.github.io/SmartEdit/)
     - ***Edit One for All:*** Interactive Batch Image Editing [[Paper]](https://arxiv.org/pdf/2401.10219.pdf) [[Code]](https://github.com/thaoshibe/edit-one-for-all) [[Project]](https://thaoshibe.github.io/edit-one-for-all/)
+    - ***DiffMorpher:*** Unleashing the Capability of Diffusion Models for Image Morphing [[Paper]](https://arxiv.org/pdf/2312.07409) [[Code]](https://github.com/Kevin-thu/DiffMorpher) [[Project]](https://kevin-thu.github.io/DiffMorpher_page/) [[Demo]](https://openxlab.org.cn/apps/detail/KaiwenZhang/DiffMorpher)
     - ⚠️ ***TiNO-Edit:*** Timestep and Noise Optimization for Robust Diffusion-Based Image Editing [Paper]
     - ⚠️ Person in Place: Generating Associative Skeleton-Guidance Maps for Human-Object Interaction Image Editing [Paper]
     - ⚠️ Referring Image Editing: Object-level Image Editing via Referring Expressions [Paper]
