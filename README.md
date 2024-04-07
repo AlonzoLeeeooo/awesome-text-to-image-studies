@@ -138,6 +138,7 @@ Recent news of this GitHub repo are listed as follows.
     - ***CoDi:*** Conditional Diffusion Distillation for Higher-Fidelity and Faster Image Generation [[Paper]](https://arxiv.org/pdf/2310.01407.pdf) [[Code]](https://github.com/fast-codi/CoDi) [[Project]](https://fast-codi.github.io/) [[Demo]](https://huggingface.co/spaces/MKFMIKU/CoDi)
     - Arbitrary-Scale Image Generation and Upsampling using Latent Diffusion Model and Implicit Neural Decoder [[Paper]](https://arxiv.org/pdf/2403.10255.pdf)
     - Towards Effective Usage of Human-Centric Priors in Diffusion Models for Text-based Human Image Generation [[Paper]](https://arxiv.org/pdf/2403.05239)
+    -  ***ElasticDiffusion:*** Training-free Arbitrary Size Image Generation [[Paper]](https://arxiv.org/pdf/2311.18822) [[Code]](https://github.com/MoayedHajiAli/ElasticDiffusion-official) [[Project]](https://elasticdiffusion.github.io/) [[Demo]](https://replicate.com/moayedhajiali/elasticdiffusion)
     - ⚠️ On the Scalability of Diffusion-based Text-to-Image Generation [Paper]
     - ⚠️ ***MULAN:*** A Multi Layer Annotated Dataset for Controllable Text-to-Image Generation [Paper]
     - ⚠️ Learning Multi-dimensional Human Preference for Text-to-Image Generation [Paper]
@@ -184,6 +185,8 @@ Recent news of this GitHub repo are listed as follows.
     - ***Specialist Diffusion:*** Plug-and-Play Sample-Efficient Fine-Tuning of Text-to-Image Diffusion Models to Learn Any Unseen Style [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Lu_Specialist_Diffusion_Plug-and-Play_Sample-Efficient_Fine-Tuning_of_Text-to-Image_Diffusion_Models_To_CVPR_2023_paper.pdf) [[Code]](https://github.com/Picsart-AI-Research/Specialist-Diffusion)
     - Toward Verifiable and Reproducible Human Evaluation for Text-to-Image Generation [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Otani_Toward_Verifiable_and_Reproducible_Human_Evaluation_for_Text-to-Image_Generation_CVPR_2023_paper.pdf)
     - ***RIATIG:*** Reliable and Imperceptible Adversarial Text-to-Image Generation with Natural Prompts [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_RIATIG_Reliable_and_Imperceptible_Adversarial_Text-to-Image_Generation_With_Natural_Prompts_CVPR_2023_paper.pdf) [[Code]](https://github.com/WUSTL-CSPL/RIATIG)
+  - **ICCV**
+    - ***DiffFit:*** Unlocking Transferability of Large Diffusion Models via Simple Parameter-Efficient Fine-Tuning [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Xie_DiffFit_Unlocking_Transferability_of_Large_Diffusion_Models_via_Simple_Parameter-efficient_ICCV_2023_paper.pdf) [[Code]](https://github.com/mkshing/DiffFit-pytorch) [[Demo]](https://colab.research.google.com/github/mkshing/difffit-pytorch/blob/main/scripts/difffit_pytorch.ipynb)
   - **NeurIPS**
     - ***ImageReward:*** Learning and Evaluating Human Preferences for Text-to-Image Generation [[Paper]](https://openreview.net/pdf?id=JVzeOYEx6d) [[Code]](https://github.com/THUDM/ImageReward)
     - ***RAPHAEL***: Text-to-Image Generation via Large Mixture of Diffusion Paths [[Paper]](https://arxiv.org/pdf/2305.18295) [[Project]](https://raphael-painter.github.io/)
