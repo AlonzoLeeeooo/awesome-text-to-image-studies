@@ -173,6 +173,7 @@ Recent news of this GitHub repo are listed as follows.
     - ***PromptCharm:*** Text-to-Image Generation through Multi-modal Prompting and Refinement [[Paper]](https://arxiv.org/pdf/2403.04014.pdf)
     - ***YOSO:*** You Only Sample Once: Taming One-Step Text-to-Image Synthesis by Self-Cooperative Diffusion GANs [[Paper]](https://arxiv.org/pdf/2403.12931) [[Code]](https://github.com/mlpen/YOSO)
     - ***SingDiffusion:*** Tackling the Singularities at the Endpoints of Time Intervals in Diffusion Models [[Paper]](https://arxiv.org/pdf/2403.08381) [[Code]](https://github.com/PangzeCheung/SingDiffusion)
+    - ***CoMat:*** Aligning Text-to-Image Diffusion Model with Image-to-Text Concept Matching [[Paper]](https://arxiv.org/pdf/2404.03653) [[Code]](https://github.com/CaraJ7/CoMat) [[Project]](https://caraj7.github.io/comat/)
   - **Others**
     - ***Stable Cascade*** [[Blog]](https://stability.ai/news/introducing-stable-cascade) [[Code]](https://github.com/Stability-AI/StableCascade)
 
@@ -271,6 +272,7 @@ Recent news of this GitHub repo are listed as follows.
     - One-Shot Structure-Aware Stylized Image Synthesis [[Paper]](https://arxiv.org/pdf/2402.17275.pdf)
     - Grounded Text-to-Image Synthesis with Attention Refocusing [[Paper]](https://arxiv.org/pdf/2306.05427.pdf) [[Code]](https://github.com/Attention-Refocusing/attention-refocusing) [[Project]](https://attention-refocusing.github.io/) [[Demo]](https://huggingface.co/spaces/attention-refocusing/Attention-refocusing)
     - Coarse-to-Fine Latent Diffusion for Pose-Guided Person Image Synthesis [[Paper]](https://arxiv.org/pdf/2402.18078.pdf) [[Code]](https://github.com/YanzuoLu/CFLD)
+    - ***DetDiffusion:*** Synergizing Generative and Perceptive Models for Enhanced Data Generation and Perception [[Paper]](https://arxiv.org/pdf/2403.13304)
     - ⚠️ ***Zero-Painter:*** Training-Free Layout Control for Text-to-Image Synthesis [Paper]
   - **ICLR**
     - Advancing Pose-Guided Image Synthesis with Progressive Conditional Diffusion Models [[Paper]](https://arxiv.org/pdf/2310.06313.pdf) [[Code]](https://github.com/muzishen/PCDMs)
@@ -336,6 +338,8 @@ Recent news of this GitHub repo are listed as follows.
     - Decoupled Textual Embeddings for Customized Image Generation [[Paper]](https://arxiv.org/pdf/2312.11826.pdf)
   - **arXiv**
     - ***FlashFace:*** Human Image Personalization with High-fidelity Identity Preservation [[Paper]](https://arxiv.org/pdf/2403.17008) [[Code]](https://github.com/jshilong/FlashFace) [[Project]](https://jshilong.github.io/flashface-page)
+    - ***MoMA:*** Multimodal LLM Adapter for Fast Personalized Image Generation [[Paper]](https://arxiv.org/pdf/2404.05674)
+    - ***IDAdapter:*** Learning Mixed Features for Tuning-Free Personalization of Text-to-Image Models [[Paper]](https://arxiv.org/pdf/2403.13535)
 - <span id="personalized-year-2023">**Year 2023**</span>
   - **CVPR**
     - ***Custom Diffusion:*** Multi-Concept Customization of Text-to-Image Diffusion [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Kumari_Multi-Concept_Customization_of_Text-to-Image_Diffusion_CVPR_2023_paper.pdf) [[Code]](https://github.com/adobe-research/custom-diffusion) [[Project]](https://www.cs.cmu.edu/~custom-diffusion/)
