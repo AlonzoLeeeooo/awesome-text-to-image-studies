@@ -140,6 +140,7 @@ Recent news of this GitHub repo are listed as follows.
     - Towards Effective Usage of Human-Centric Priors in Diffusion Models for Text-based Human Image Generation [[Paper]](https://arxiv.org/pdf/2403.05239)
     -  ***ElasticDiffusion:*** Training-free Arbitrary Size Image Generation [[Paper]](https://arxiv.org/pdf/2311.18822) [[Code]](https://github.com/MoayedHajiAli/ElasticDiffusion-official) [[Project]](https://elasticdiffusion.github.io/) [[Demo]](https://replicate.com/moayedhajiali/elasticdiffusion)
     - ***CosmicMan:*** A Text-to-Image Foundation Model for Humans [[Paper]](https://arxiv.org/pdf/2404.01294) [[Code]](https://github.com/cosmicman-cvpr2024/CosmicMan) [[Project]](https://cosmicman-cvpr2024.github.io/)
+    - ***PanFusion:*** Taming Stable Diffusion for Text to 360° Panorama Image Generation [[Paper]](https://arxiv.org/pdf/2404.07949) [[Code]](https://github.com/chengzhag/PanFusion) [[Project]](https://chengzhag.github.io/publication/panfusion)
     - ⚠️ On the Scalability of Diffusion-based Text-to-Image Generation [Paper]
     - ⚠️ ***MULAN:*** A Multi Layer Annotated Dataset for Controllable Text-to-Image Generation [Paper]
     - ⚠️ Learning Multi-dimensional Human Preference for Text-to-Image Generation [Paper]
@@ -285,6 +286,8 @@ Recent news of this GitHub repo are listed as follows.
   - **arXiv**
     - ***DEADiff:*** An Efficient Stylization Diffusion Model with Disentangled Representations [[Paper]](https://arxiv.org/pdf/2403.06951)
     - ***InstantStyle:*** Free Lunch towards Style-Preserving in Text-to-Image Generation [[Paper]](https://arxiv.org/pdf/2404.02733.pdf) [[Code]](https://github.com/InstantStyle/InstantStyle) [[Project]](https://instantstyle.github.io/)
+    - ***ControlNet++:*** Improving Conditional Controls with Efficient Consistency Feedback [[Paper]](https://arxiv.org/pdf/2404.07987.pdf) [[Project]](https://liming-ai.github.io/ControlNet_Plus_Plus/)
+
 
 [<u><small><🎯Back to Top></small></u>](#contents)
 
