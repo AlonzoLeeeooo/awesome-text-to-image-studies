@@ -275,6 +275,8 @@ Recent news of this GitHub repo are listed as follows.
     - Grounded Text-to-Image Synthesis with Attention Refocusing [[Paper]](https://arxiv.org/pdf/2306.05427.pdf) [[Code]](https://github.com/Attention-Refocusing/attention-refocusing) [[Project]](https://attention-refocusing.github.io/) [[Demo]](https://huggingface.co/spaces/attention-refocusing/Attention-refocusing)
     - Coarse-to-Fine Latent Diffusion for Pose-Guided Person Image Synthesis [[Paper]](https://arxiv.org/pdf/2402.18078.pdf) [[Code]](https://github.com/YanzuoLu/CFLD)
     - ***DetDiffusion:*** Synergizing Generative and Perceptive Models for Enhanced Data Generation and Perception [[Paper]](https://arxiv.org/pdf/2403.13304)
+    - ***CAN:*** Condition-Aware Neural Network for Controlled Image Generation [[Paper]](https://arxiv.org/pdf/2404.01143.pdf)
+    - ***SceneDiffusion:*** Move Anything with Layered Scene Diffusion [[Paper]](https://arxiv.org/pdf/2404.07178)
     - ⚠️ ***Zero-Painter:*** Training-Free Layout Control for Text-to-Image Synthesis [Paper]
   - **ICLR**
     - Advancing Pose-Guided Image Synthesis with Progressive Conditional Diffusion Models [[Paper]](https://arxiv.org/pdf/2310.06313.pdf) [[Code]](https://github.com/muzishen/PCDMs)
@@ -287,6 +289,8 @@ Recent news of this GitHub repo are listed as follows.
     - ***DEADiff:*** An Efficient Stylization Diffusion Model with Disentangled Representations [[Paper]](https://arxiv.org/pdf/2403.06951)
     - ***InstantStyle:*** Free Lunch towards Style-Preserving in Text-to-Image Generation [[Paper]](https://arxiv.org/pdf/2404.02733.pdf) [[Code]](https://github.com/InstantStyle/InstantStyle) [[Project]](https://instantstyle.github.io/)
     - ***ControlNet++:*** Improving Conditional Controls with Efficient Consistency Feedback [[Paper]](https://arxiv.org/pdf/2404.07987.pdf) [[Project]](https://liming-ai.github.io/ControlNet_Plus_Plus/)
+
+
 
 
 [<u><small><🎯Back to Top></small></u>](#contents)
