@@ -141,6 +141,7 @@ Recent news of this GitHub repo are listed as follows.
     -  ***ElasticDiffusion:*** Training-free Arbitrary Size Image Generation [[Paper]](https://arxiv.org/pdf/2311.18822) [[Code]](https://github.com/MoayedHajiAli/ElasticDiffusion-official) [[Project]](https://elasticdiffusion.github.io/) [[Demo]](https://replicate.com/moayedhajiali/elasticdiffusion)
     - ***CosmicMan:*** A Text-to-Image Foundation Model for Humans [[Paper]](https://arxiv.org/pdf/2404.01294) [[Code]](https://github.com/cosmicman-cvpr2024/CosmicMan) [[Project]](https://cosmicman-cvpr2024.github.io/)
     - ***PanFusion:*** Taming Stable Diffusion for Text to 360° Panorama Image Generation [[Paper]](https://arxiv.org/pdf/2404.07949) [[Code]](https://github.com/chengzhag/PanFusion) [[Project]](https://chengzhag.github.io/publication/panfusion)
+    - ***Intelligent Grimm:*** Open-ended Visual Storytelling via Latent Diffusion Models [[Paper]](https://arxiv.org/pdf/2306.00973) [[Code]](https://github.com/haoningwu3639/StoryGen) [[Project]](https://haoningwu3639.github.io/StoryGen_Webpage/)
     - ⚠️ On the Scalability of Diffusion-based Text-to-Image Generation [Paper]
     - ⚠️ ***MULAN:*** A Multi Layer Annotated Dataset for Controllable Text-to-Image Generation [Paper]
     - ⚠️ Learning Multi-dimensional Human Preference for Text-to-Image Generation [Paper]
