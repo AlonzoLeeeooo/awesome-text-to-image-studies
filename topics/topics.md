@@ -12,6 +12,7 @@ All references of the summarized papers can be found in [`reference.bib`](../ref
 - [Prerequisites](#prerequisites)
 - [Diffusion Models Meet LLMs](#diffusion-models-meet-llms)
 - [Diffusion Models Meet Mamba](#diffusion-models-meet-mamba)
+- [Diffusion Models Meet Federated Learning](#diffusion-models-meet-federated-learning)
 - [Diffusion Transformer-based Methods](#diffusion-transformer-based-methods)
 - [Diffusion Models for Text Generation](#diffusion-models-for-text-generation)
 
@@ -65,6 +66,25 @@ All references of the summarized papers can be found in [`reference.bib`](../ref
 - [arXiv 2023] ***Mamba:*** Linear-Time Sequence Modeling with Selective State Spaces [[Paper]](https://arxiv.org/pdf/2312.00752) [[Code]](https://github.com/state-spaces/mamba)
 - [arXiv 2024] ***DiS:*** Scalable Diffusion Models with State Space Backbone [[Paper]](https://arxiv.org/pdf/2402.05608) [[Code]](https://github.com/feizc/DiS)
 - [arXiv 2024] ***ZigMa:*** Zigzag Mamba Diffusion Model [[Paper]](https://arxiv.org/pdf/2403.13802v1) [[Code]](https://github.com/CompVis/zigma) [[Project]](https://taohu.me/zigma/)
+
+<!-- omit in toc -->
+# Diffusion Models Meet Federated Learning
+
+<p align="center">
+<img width="500" src="../github-materials/federated-learning.png" alt="mamba">
+</p>
+
+
+> [!NOTE]
+> Federated learning focuses on settings where multiple clients collaboratively train a model while ensuring their data decentralized. This topic summarizes those papers that integrate federated learning with diffusion models.
+
+- [AAAI 2024] Exploring One-Shot Semi-supervised Federated Learning with Pre-trained Diffusion Models [[Paper]](https://arxiv.org/pdf/2305.04063)
+- [ICLR 2024 Submission] Exploring the Effectiveness of Diffusion Models in One-Shot Federated Learning [[Paper]](https://openreview.net/pdf?id=trCvBb8guo)
+- [NeurIPS 2023] When Foundation Model Meets Federated Learning: Motivations, Challenges, and Future Directions [[Paper]](https://arxiv.org/pdf/2306.15546)
+- [ATC 2023] Federated Learning with Diffusion Models for Privacy-Sensitive Vision Tasks [[Paper]](https://ieeexplore.ieee.org/abstract/document/10318858)
+- [arXiv 2023] Phoenix: Federated Learning for Generative Diffusion Model [[Paper]](https://arxiv.org/pdf/2306.04098)
+- [arXiv 2023] ***FedDiff:*** Diffusion Model Driven Federated Learning for Multi-Modal and Multi-Clients [[Paper]](https://arxiv.org/pdf/2401.02433)
+- [arXiv 2023] One-Shot Federated Learning with Classifier-Guided Diffusion Models [[Paper]](https://arxiv.org/pdf/2311.08870)
 
 <!-- omit in toc -->
 # Diffusion Transformer-based Methods

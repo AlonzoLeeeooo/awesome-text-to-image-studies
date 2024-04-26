@@ -13,6 +13,7 @@ If you have any suggestions about this repository, please feel free to [start a 
 Recent news of this GitHub repo are listed as follows.
 <details> <summary> 🔥 Click to see more information. </summary>
 
+- [Apr. 26th] Update a new topic: **Diffusion Models Meet Federated Learning.** See [the `topics` section](topics/topics.md) for more details!
 - [Mar. 28th] The official **AAAI 2024** paper list are released! Official version of PDFs and BibTeX references are updated accordingly.
 - [Mar. 21th] [The `topics` section](topics/topics.md) has been updated. This section aims to offer **paper lists that are summarized according to other properties of diffusion models**, e.g., Diffusion Transformer-based methods, diffusion models for NLP, diffusion models integrated with LLMs, etc. The corresponding references of these papers are also concluded in `reference.bib`.
 - [Mar. 7th] All available **CVPR, ICLR, and AAAI 2024 papers and references** are updated. Papers highlighted with ⚠️ will be updated as soon as their metadata is avaiable.
