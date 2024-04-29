@@ -325,6 +325,7 @@ Recent news of this GitHub repo are listed as follows.
   - **arXiv**
     - ***T2I-Adapter:*** Learning Adapters to Dig out More Controllable Ability for Text-to-Image Diffusion Models [[Paper]](https://arxiv.org/pdf/2302.08453.pdf) [[Code]](https://github.com/TencentARC/T2I-Adapter) [[Demo]](https://huggingface.co/spaces/TencentARC/T2I-Adapter-SDXL)
     - ***BLIP-Diffusion:*** Pre-trained Subject Representation for Controllable Text-to-Image Generation and Editing [[Paper]](https://arxiv.org/pdf/2305.14720.pdf) [[Code]](https://github.com/salesforce/LAVIS/tree/main/projects/blip-diffusion)
+    - Late-Constraint Diffusion Guidance for Controllable Image Synthesis [[Paper]](https://arxiv.org/pdf/2305.11520) [[Code]](https://github.com/AlonzoLeeeooo/LCDG)
 - <span id="conditional-year-2022">**Year 2022**</span>
   - **ICLR**
     - ***SDEdit:*** Guided Image Synthesis and Editing with Stochastic Differential Equations [[Paper]](https://openreview.net/pdf?id=aBsCjcPu_tE) [[Code]](https://github.com/ermongroup/SDEdit) [[Project]](https://sde-image-editing.github.io/)
