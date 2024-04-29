@@ -342,6 +342,7 @@ Recent news of this GitHub repo are listed as follows.
     - ***InstantBooth:*** Personalized Text-to-Image Generation without Test-Time Finetuning [[Paper]](https://arxiv.org/pdf/2304.03411.pdf) [[Project]](https://jshi31.github.io/InstantBooth/)
     - High Fidelity Person-centric Subject-to-Image Synthesis [[Paper]](https://arxiv.org/pdf/2311.10329.pdf)
     - ***RealCustom:*** Narrowing Real Text Word for Real-Time Open-Domain Text-to-Image Customization [[Paper]](https://arxiv.org/pdf/2403.00483.pdf) [[Project]](https://corleone-huang.github.io/realcustom/)
+    - ***DisenDiff:*** Attention Calibration for Disentangled Text-to-Image Personalization [[Paper]](https://arxiv.org/pdf/2403.18551) [[Code]](https://github.com/Monalissaa/DisenDiff)
     - ⚠️ ***FreeCustom:*** Tuning-Free Customized Image Generation for Multi-Concept Composition [Paper]
     - ⚠️ ***JeDi:*** Joint-Image Diffusion Models for Finetuning-Free Personalized Text-to-Image Generation [Paper]
     - ⚠️ Countering Personalized Text-to-Image Generation with Influence Watermarks [Paper]
