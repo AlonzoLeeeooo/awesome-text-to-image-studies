@@ -180,6 +180,7 @@ Recent news of this GitHub repo are listed as follows.
     - ***SingDiffusion:*** Tackling the Singularities at the Endpoints of Time Intervals in Diffusion Models [[Paper]](https://arxiv.org/pdf/2403.08381) [[Code]](https://github.com/PangzeCheung/SingDiffusion)
     - ***CoMat:*** Aligning Text-to-Image Diffusion Model with Image-to-Text Concept Matching [[Paper]](https://arxiv.org/pdf/2404.03653) [[Code]](https://github.com/CaraJ7/CoMat) [[Project]](https://caraj7.github.io/comat/)
     - ***StoryDiffusion:*** Consistent Self-Attention for Long-Range Image and Video Generation [[Paper]](https://arxiv.org/pdf/2405.01434) [[Code]](https://github.com/HVision-NKU/StoryDiffusion) [[Project]](https://storydiffusion.github.io/) [[Demo]](https://huggingface.co/spaces/YupengZhou/StoryDiffusion)
+    - Face Adapter for Pre-Trained Diffusion Models with Fine-Grained ID and Attribute Control [[Paper]](https://arxiv.org/pdf/2405.12970) [[Project]](https://faceadapter.github.io/face-adapter.github.io/)
   - **Others**
     - ***Stable Cascade*** [[Blog]](https://stability.ai/news/introducing-stable-cascade) [[Code]](https://github.com/Stability-AI/StableCascade)
 
@@ -420,6 +421,8 @@ Recent news of this GitHub repo are listed as follows.
     - ***An Item is Worth a Prompt:*** Versatile Image Editing with Disentangled Control [[Paper]](https://arxiv.org/pdf/2403.04880.pdf) [[Code]](https://github.com/asFeng/d-edit)
     - ***StableDrag:*** Stable Dragging for Point-based Image Editing [[Paper]](https://arxiv.org/pdf/2403.04437)
     - One-Dimensional Adapter to Rule Them All: Concepts, Diffusion Models and Erasing Applications [[Paper]](https://arxiv.org/pdf/2312.16145) [[Code]](https://github.com/Con6924/SPM) [[Project]](https://lyumengyao.github.io/projects/spm)
+    - ***EditWorld:*** Simulating World Dynamics for Instruction-Following Image Editing [[Paper]](https://arxiv.org/pdf/2405.14785) [[Code]](https://github.com/YangLing0818/EditWorld) [[Project]](https://github.com/YangLing0818/EditWorld)
+    - ***ReasonPix2Pix:*** Instruction Reasoning Dataset for Advanced Image Editing [[Paper]](https://arxiv.org/pdf/2405.11190)
 - <span id="editing-year-2023">**Year 2023**</span>
   - **CVPR**
     - Uncovering the Disentanglement Capability in Text-to-Image Diffusion Models [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Wu_Uncovering_the_Disentanglement_Capability_in_Text-to-Image_Diffusion_Models_CVPR_2023_paper.pdf) [[Code]](https://github.com/UCSB-NLP-Chang/DiffusionDisentanglement)
