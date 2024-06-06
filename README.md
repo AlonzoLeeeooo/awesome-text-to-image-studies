@@ -143,12 +143,12 @@ Recent news of this GitHub repo are listed as follows.
     - ***CosmicMan:*** A Text-to-Image Foundation Model for Humans [[Paper]](https://arxiv.org/pdf/2404.01294) [[Code]](https://github.com/cosmicman-cvpr2024/CosmicMan) [[Project]](https://cosmicman-cvpr2024.github.io/)
     - ***PanFusion:*** Taming Stable Diffusion for Text to 360° Panorama Image Generation [[Paper]](https://arxiv.org/pdf/2404.07949) [[Code]](https://github.com/chengzhag/PanFusion) [[Project]](https://chengzhag.github.io/publication/panfusion)
     - ***Intelligent Grimm:*** Open-ended Visual Storytelling via Latent Diffusion Models [[Paper]](https://arxiv.org/pdf/2306.00973) [[Code]](https://github.com/haoningwu3639/StoryGen) [[Project]](https://haoningwu3639.github.io/StoryGen_Webpage/)
-    - ⚠️ On the Scalability of Diffusion-based Text-to-Image Generation [Paper]
-    - ⚠️ ***MULAN:*** A Multi Layer Annotated Dataset for Controllable Text-to-Image Generation [Paper]
-    - ⚠️ Learning Multi-dimensional Human Preference for Text-to-Image Generation [Paper]
+    - On the Scalability of Diffusion-based Text-to-Image Generation [[Paper]](https://arxiv.org/pdf/2404.02883)
+    - ***MuLAn:*** A Multi Layer Annotated Dataset for Controllable Text-to-Image Generation [[Paper]](https://arxiv.org/pdf/2404.02790) [[Project]](https://mulan-dataset.github.io/) [[Dataset]](https://huggingface.co/datasets/mulan-dataset/v1.0)
+    - Learning Multi-dimensional Human Preference for Text-to-Image Generation [[Paper]](https://arxiv.org/pdf/2405.14705)
+    - Dynamic Prompt Optimizing for Text-to-Image Generation [[Paper]](https://arxiv.org/pdf/2404.04095)
     - ⚠️ Training Diffusion Models Towards Diverse Image Generation with Reinforcement Learning [Paper]
     - ⚠️ Adversarial Text to Continuous Image Generation [Paper]
-    - ⚠️ Dynamic Prompt Optimizing for Text-to-Image Generation [Paper]
   - **ICLR**
     - Patched Denoising Diffusion Models For High-Resolution Image Synthesis [[Paper]](https://arxiv.org/pdf/2308.01316.pdf) [[Code]](https://github.com/mlpc-ucsd/patch-dm)
     - ***Relay Diffusion:*** Unifying diffusion process across resolutions for image synthesis [[Paper]](https://arxiv.org/pdf/2309.03350.pdf) [[Code]](https://github.com/THUDM/RelayDiffusion)
@@ -350,11 +350,11 @@ Recent news of this GitHub repo are listed as follows.
     - High Fidelity Person-centric Subject-to-Image Synthesis [[Paper]](https://arxiv.org/pdf/2311.10329.pdf)
     - ***RealCustom:*** Narrowing Real Text Word for Real-Time Open-Domain Text-to-Image Customization [[Paper]](https://arxiv.org/pdf/2403.00483.pdf) [[Project]](https://corleone-huang.github.io/realcustom/)
     - ***DisenDiff:*** Attention Calibration for Disentangled Text-to-Image Personalization [[Paper]](https://arxiv.org/pdf/2403.18551) [[Code]](https://github.com/Monalissaa/DisenDiff)
-    - ⚠️ ***FreeCustom:*** Tuning-Free Customized Image Generation for Multi-Concept Composition [Paper]
+    - ***FreeCustom:*** Tuning-Free Customized Image Generation for Multi-Concept Composition [[Paper]](https://arxiv.org/pdf/2405.13870v1) [[Code]](https://github.com/aim-uofa/FreeCustom) [[Project]](https://aim-uofa.github.io/FreeCustom/)
+    - Personalized Residuals for Concept-Driven Text-to-Image Generation [[Paper]](https://arxiv.org/pdf/2405.12978)
+    - Improving Subject-Driven Image Synthesis with Subject-Agnostic Guidance [[Paper]](https://arxiv.org/pdf/2405.01356)
     - ⚠️ ***JeDi:*** Joint-Image Diffusion Models for Finetuning-Free Personalized Text-to-Image Generation [Paper]
     - ⚠️ Countering Personalized Text-to-Image Generation with Influence Watermarks [Paper]
-    - ⚠️ Personalized Residuals for Concept-Driven Text-to-Image Generation [Paper]
-    - ⚠️ Improving Subject-Driven Image Synthesis with Context-Agnostic Guidance [Paper]
   - **AAAI**
     - Decoupled Textual Embeddings for Customized Image Generation [[Paper]](https://arxiv.org/pdf/2312.11826.pdf)
   - **arXiv**
@@ -399,8 +399,8 @@ Recent news of this GitHub repo are listed as follows.
     - ***SmartEdit:*** Exploring Complex Instruction-based Image Editing with Large Language Models [[Paper]](https://arxiv.org/pdf/2312.06739.pdf) [[Code]](https://github.com/TencentARC/SmartEdit) [[Project]](https://yuzhou914.github.io/SmartEdit/)
     - ***Edit One for All:*** Interactive Batch Image Editing [[Paper]](https://arxiv.org/pdf/2401.10219.pdf) [[Code]](https://github.com/thaoshibe/edit-one-for-all) [[Project]](https://thaoshibe.github.io/edit-one-for-all/)
     - ***DiffMorpher:*** Unleashing the Capability of Diffusion Models for Image Morphing [[Paper]](https://arxiv.org/pdf/2312.07409) [[Code]](https://github.com/Kevin-thu/DiffMorpher) [[Project]](https://kevin-thu.github.io/DiffMorpher_page/) [[Demo]](https://openxlab.org.cn/apps/detail/KaiwenZhang/DiffMorpher)
-    - ⚠️ ***TiNO-Edit:*** Timestep and Noise Optimization for Robust Diffusion-Based Image Editing [Paper]
-    - ⚠️ Person in Place: Generating Associative Skeleton-Guidance Maps for Human-Object Interaction Image Editing [Paper]
+    - ***TiNO-Edit:*** Timestep and Noise Optimization for Robust Diffusion-Based Image Editing [[Paper]](https://arxiv.org/pdf/2404.11120) [[Code]](https://github.com/SherryXTChen/TiNO-Edit)
+    - ⚠️ Person in Place: Generating Associative Skeleton-Guidance Maps for Human-Object Interaction Image Editing [Paper] [[Project]](https://yangchanghee.github.io/Person-in-Place_page/)
     - ⚠️ Referring Image Editing: Object-level Image Editing via Referring Expressions [Paper]
     - ⚠️ The Devil is in the Details: StyleFeatureEditor for Detail-Rich StyleGAN Inversion and High Quality Image Editing [Paper]
     - ⚠️ Prompt Augmentation for Self-supervised Text-guided Image Manipulation [Paper]
