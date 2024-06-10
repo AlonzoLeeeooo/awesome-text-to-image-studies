@@ -66,6 +66,7 @@ All references of the summarized papers can be found in [`reference.bib`](../ref
 - [arXiv 2023] ***Mamba:*** Linear-Time Sequence Modeling with Selective State Spaces [[Paper]](https://arxiv.org/pdf/2312.00752) [[Code]](https://github.com/state-spaces/mamba)
 - [arXiv 2024] ***DiS:*** Scalable Diffusion Models with State Space Backbone [[Paper]](https://arxiv.org/pdf/2402.05608) [[Code]](https://github.com/feizc/DiS)
 - [arXiv 2024] ***ZigMa:*** Zigzag Mamba Diffusion Model [[Paper]](https://arxiv.org/pdf/2403.13802v1) [[Code]](https://github.com/CompVis/zigma) [[Project]](https://taohu.me/zigma/)
+- [arXiv 2024] ***DiM:*** Diffusion Mamba for Efficient High-Resolution Image Synthesis [[Paper]](https://arxiv.org/pdf/2405.14224) [[Code]](https://github.com/tyshiwo1/DiM-DiffusionMamba)
 
 <!-- omit in toc -->
 # Diffusion Models Meet Federated Learning
