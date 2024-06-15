@@ -147,8 +147,8 @@ Recent news of this GitHub repo are listed as follows.
     - ***MuLAn:*** A Multi Layer Annotated Dataset for Controllable Text-to-Image Generation [[Paper]](https://arxiv.org/pdf/2404.02790) [[Project]](https://mulan-dataset.github.io/) [[Dataset]](https://huggingface.co/datasets/mulan-dataset/v1.0)
     - Learning Multi-dimensional Human Preference for Text-to-Image Generation [[Paper]](https://arxiv.org/pdf/2405.14705)
     - Dynamic Prompt Optimizing for Text-to-Image Generation [[Paper]](https://arxiv.org/pdf/2404.04095)
-    - ⚠️ Training Diffusion Models Towards Diverse Image Generation with Reinforcement Learning [Paper]
-    - ⚠️ Adversarial Text to Continuous Image Generation [Paper]
+    - Training Diffusion Models Towards Diverse Image Generation with Reinforcement Learning [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Miao_Training_Diffusion_Models_Towards_Diverse_Image_Generation_with_Reinforcement_Learning_CVPR_2024_paper.pdf)
+    - Adversarial Text to Continuous Image Generation [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Haydarov_Adversarial_Text_to_Continuous_Image_Generation_CVPR_2024_paper.pdf) [[Project]](https://kilichbek.github.io/webpage/hypercgan/) [[Video]](https://kilichbek.github.io/webpage/hypercgan/#)
   - **ICLR**
     - Patched Denoising Diffusion Models For High-Resolution Image Synthesis [[Paper]](https://arxiv.org/pdf/2308.01316.pdf) [[Code]](https://github.com/mlpc-ucsd/patch-dm)
     - ***Relay Diffusion:*** Unifying diffusion process across resolutions for image synthesis [[Paper]](https://arxiv.org/pdf/2309.03350.pdf) [[Code]](https://github.com/THUDM/RelayDiffusion)
@@ -283,7 +283,7 @@ Recent news of this GitHub repo are listed as follows.
     - ***DetDiffusion:*** Synergizing Generative and Perceptive Models for Enhanced Data Generation and Perception [[Paper]](https://arxiv.org/pdf/2403.13304)
     - ***CAN:*** Condition-Aware Neural Network for Controlled Image Generation [[Paper]](https://arxiv.org/pdf/2404.01143.pdf)
     - ***SceneDiffusion:*** Move Anything with Layered Scene Diffusion [[Paper]](https://arxiv.org/pdf/2404.07178)
-    - ⚠️ ***Zero-Painter:*** Training-Free Layout Control for Text-to-Image Synthesis [Paper]
+    - ***Zero-Painter:*** Training-Free Layout Control for Text-to-Image Synthesis [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Ohanyan_Zero-Painter_Training-Free_Layout_Control_for_Text-to-Image_Synthesis_CVPR_2024_paper.pdf) [[Code]](https://github.com/Picsart-AI-Research/Zero-Painter)
   - **ICLR**
     - Advancing Pose-Guided Image Synthesis with Progressive Conditional Diffusion Models [[Paper]](https://arxiv.org/pdf/2310.06313.pdf) [[Code]](https://github.com/muzishen/PCDMs)
   - **WACV**
@@ -353,7 +353,7 @@ Recent news of this GitHub repo are listed as follows.
     - ***FreeCustom:*** Tuning-Free Customized Image Generation for Multi-Concept Composition [[Paper]](https://arxiv.org/pdf/2405.13870v1) [[Code]](https://github.com/aim-uofa/FreeCustom) [[Project]](https://aim-uofa.github.io/FreeCustom/)
     - Personalized Residuals for Concept-Driven Text-to-Image Generation [[Paper]](https://arxiv.org/pdf/2405.12978)
     - Improving Subject-Driven Image Synthesis with Subject-Agnostic Guidance [[Paper]](https://arxiv.org/pdf/2405.01356)
-    - ⚠️ ***JeDi:*** Joint-Image Diffusion Models for Finetuning-Free Personalized Text-to-Image Generation [Paper]
+    - ***JeDi:*** Joint-Image Diffusion Models for Finetuning-Free Personalized Text-to-Image Generation [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zeng_JeDi_Joint-Image_Diffusion_Models_for_Finetuning-Free_Personalized_Text-to-Image_Generation_CVPR_2024_paper.pdf)
     - ⚠️ Countering Personalized Text-to-Image Generation with Influence Watermarks [Paper]
   - **AAAI**
     - Decoupled Textual Embeddings for Customized Image Generation [[Paper]](https://arxiv.org/pdf/2312.11826.pdf)
@@ -400,10 +400,10 @@ Recent news of this GitHub repo are listed as follows.
     - ***Edit One for All:*** Interactive Batch Image Editing [[Paper]](https://arxiv.org/pdf/2401.10219.pdf) [[Code]](https://github.com/thaoshibe/edit-one-for-all) [[Project]](https://thaoshibe.github.io/edit-one-for-all/)
     - ***DiffMorpher:*** Unleashing the Capability of Diffusion Models for Image Morphing [[Paper]](https://arxiv.org/pdf/2312.07409) [[Code]](https://github.com/Kevin-thu/DiffMorpher) [[Project]](https://kevin-thu.github.io/DiffMorpher_page/) [[Demo]](https://openxlab.org.cn/apps/detail/KaiwenZhang/DiffMorpher)
     - ***TiNO-Edit:*** Timestep and Noise Optimization for Robust Diffusion-Based Image Editing [[Paper]](https://arxiv.org/pdf/2404.11120) [[Code]](https://github.com/SherryXTChen/TiNO-Edit)
-    - ⚠️ Person in Place: Generating Associative Skeleton-Guidance Maps for Human-Object Interaction Image Editing [Paper] [[Project]](https://yangchanghee.github.io/Person-in-Place_page/)
-    - ⚠️ Referring Image Editing: Object-level Image Editing via Referring Expressions [Paper]
+    - Person in Place: Generating Associative Skeleton-Guidance Maps for Human-Object Interaction Image Editing [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_Person_in_Place_Generating_Associative_Skeleton-Guidance_Maps_for_Human-Object_Interaction_CVPR_2024_paper.pdf) [[Project]](https://yangchanghee.github.io/Person-in-Place_page/)
+    - Referring Image Editing: Object-level Image Editing via Referring Expressions [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Referring_Image_Editing_Object-level_Image_Editing_via_Referring_Expressions_CVPR_2024_paper.pdf)
+    - Prompt Augmentation for Self-supervised Text-guided Image Manipulation [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Bodur_Prompt_Augmentation_for_Self-supervised_Text-guided_Image_Manipulation_CVPR_2024_paper.pdf)
     - ⚠️ The Devil is in the Details: StyleFeatureEditor for Detail-Rich StyleGAN Inversion and High Quality Image Editing [Paper]
-    - ⚠️ Prompt Augmentation for Self-supervised Text-guided Image Manipulation [Paper]
   - **ICLR**
     - Guiding Instruction-based Image Editing via Multimodal Large Language Models [[Paper]](https://arxiv.org/pdf/2309.17102.pdf) [[Code]](https://github.com/apple/ml-mgie) [[Project]](https://mllm-ie.github.io/)
     - The Blessing of Randomness: SDE Beats ODE in General Diffusion-based Image Editing [[Paper]](https://arxiv.org/pdf/2311.01410.pdf) [[Code]](https://github.com/ML-GSAI/SDE-Drag) [[Project]](https://ml-gsai.github.io/SDE-Drag-demo/)
@@ -447,7 +447,7 @@ Recent news of this GitHub repo are listed as follows.
   - **arXiv**
     - ***AnyText:*** Multilingual Visual Text Generation And Editing [[Paper]](https://arxiv.org/pdf/2311.03054.pdf) [[Code]](https://github.com/tyxsspa/AnyText) [[Project]](https://anytext.pics/)
   - **CVPR**
-    - ⚠️ ***SceneTextGen:*** Layout-Agnostic Scene Text Image Synthesis with Integrated Character-Level Diffusion and Contextual Consistency [Paper]
+    - ***SceneTextGen:*** Layout-Agnostic Scene Text Image Synthesis with Integrated Character-Level Diffusion and Contextual Consistency [[Paper]](https://arxiv.org/pdf/2406.01062v2)
 
 [<u><small><🎯Back to Top></small></u>](#contents)
 
