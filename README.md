@@ -65,7 +65,6 @@ Recent news of this GitHub repo are listed as follows.
     - [x] Update arXiv References into the Official Version
   - [x] Update ICLR 2024 Papers
   - [ ] Update NeurIPS 2023 Papers
-- [ ] Create A List with only Diffusion Model-based Papers
 - Regular Maintenance of Preprint arXiv Papers and Missed Papers
 
 [<u><small><🎯Back to Top></small></u>](#contents)
