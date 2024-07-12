@@ -151,6 +151,8 @@ Recent news of this GitHub repo are listed as follows.
     - Adversarial Text to Continuous Image Generation [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Haydarov_Adversarial_Text_to_Continuous_Image_Generation_CVPR_2024_paper.pdf) [[Project]](https://kilichbek.github.io/webpage/hypercgan/) [[Video]](https://kilichbek.github.io/webpage/hypercgan/#)
   - **ECCV**
     - Bridging Different Language Models and Generative Vision Models for Text-to-Image Generation [[Paper]](https://arxiv.org/pdf/2403.07860) [[Code]](https://github.com/ShihaoZhaoZSH/LaVi-Bridge) [[Project]](https://shihaozhaozsh.github.io/LaVi-Bridge/)
+    - Exploring Phrase-Level Grounding with Text-to-Image Diffusion Model [[Paper]](https://arxiv.org/pdf/2407.05352v1) [[Code]](https://github.com/nini0919/DiffPNG)
+    - Getting it Right: Improving Spatial Consistency in Text-to-Image Models [[Paper]](https://arxiv.org/pdf/2404.01197) [[Code]](https://github.com/SPRIGHT-T2I/SPRIGHT) [[Project]](https://spright-t2i.github.io/)
   - **ICLR**
     - Patched Denoising Diffusion Models For High-Resolution Image Synthesis [[Paper]](https://arxiv.org/pdf/2308.01316.pdf) [[Code]](https://github.com/mlpc-ucsd/patch-dm)
     - ***Relay Diffusion:*** Unifying diffusion process across resolutions for image synthesis [[Paper]](https://arxiv.org/pdf/2309.03350.pdf) [[Code]](https://github.com/THUDM/RelayDiffusion)
@@ -357,6 +359,9 @@ Recent news of this GitHub repo are listed as follows.
     - Improving Subject-Driven Image Synthesis with Subject-Agnostic Guidance [[Paper]](https://arxiv.org/pdf/2405.01356)
     - ***JeDi:*** Joint-Image Diffusion Models for Finetuning-Free Personalized Text-to-Image Generation [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zeng_JeDi_Joint-Image_Diffusion_Models_for_Finetuning-Free_Personalized_Text-to-Image_Generation_CVPR_2024_paper.pdf)
     - ⚠️ Countering Personalized Text-to-Image Generation with Influence Watermarks [Paper]
+  - **ECCV**
+    - Be Yourself: Bounded Attention for Multi-Subject Text-to-Image Generation [[Paper]](https://arxiv.org/pdf/2403.16990) [[Project]](https://omer11a.github.io/bounded-attention/)
+    - Powerful and Flexible: Personalized Text-to-Image Generation via Reinforcement Learning [[Paper]](http://arxiv.org/pdf/2407.06642v1) [[Code]](https://github.com/wfanyue/DPG-T2I-Personalization)
   - **AAAI**
     - Decoupled Textual Embeddings for Customized Image Generation [[Paper]](https://arxiv.org/pdf/2312.11826.pdf)
   - **arXiv**
