@@ -16,7 +16,7 @@ Recent news of this GitHub repo are listed as follows.
 - [Apr. 26th] Update a new topic: **Diffusion Models Meet Federated Learning.** See [the `topics` section](topics/topics.md) for more details!
 - [Mar. 28th] The official **AAAI 2024** paper list are released! Official version of PDFs and BibTeX references are updated accordingly.
 - [Mar. 21th] [The `topics` section](topics/topics.md) has been updated. This section aims to offer **paper lists that are summarized according to other properties of diffusion models**, e.g., Diffusion Transformer-based methods, diffusion models for NLP, diffusion models integrated with LLMs, etc. The corresponding references of these papers are also concluded in `reference.bib`.
-- [Mar. 7th] All available **CVPR, ICLR, and AAAI 2024 papers and references** are updated. Papers highlighted with ⚠️ will be updated as soon as their metadata is avaiable.
+- [Mar. 7th] All available **CVPR, ICLR, and AAAI 2024 papers and references** are updated.
 - [Mar. 1st] Websites of [**the off-the-shelf text-to-image generation products**](#available-products) and [**toolkits**](#toolkits) are summarized.
 
 </details>
@@ -59,13 +59,13 @@ Recent news of this GitHub repo are listed as follows.
 - Published Papers on Conferences
   - [ ] Update ECCV 2024 Papers
   - [x] Update CVPR 2024 Papers
-    - [ ] Update ⚠️ Papers and References
+    - [x] Update ⚠️ Papers and References
     - [ ] Update arXiv References into the Official Version
   - [x] Update AAAI 2024 Papers
     - [x] Update ⚠️ Papers and References
     - [x] Update arXiv References into the Official Version
   - [x] Update ICLR 2024 Papers
-  - [ ] Update NeurIPS 2023 Papers
+  - [x] Update NeurIPS 2023 Papers
 - Regular Maintenance of Preprint arXiv Papers and Missed Papers
 
 [<u><small><🎯Back to Top></small></u>](#contents)
@@ -358,7 +358,7 @@ Recent news of this GitHub repo are listed as follows.
     - Personalized Residuals for Concept-Driven Text-to-Image Generation [[Paper]](https://arxiv.org/pdf/2405.12978)
     - Improving Subject-Driven Image Synthesis with Subject-Agnostic Guidance [[Paper]](https://arxiv.org/pdf/2405.01356)
     - ***JeDi:*** Joint-Image Diffusion Models for Finetuning-Free Personalized Text-to-Image Generation [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zeng_JeDi_Joint-Image_Diffusion_Models_for_Finetuning-Free_Personalized_Text-to-Image_Generation_CVPR_2024_paper.pdf)
-    - ⚠️ Countering Personalized Text-to-Image Generation with Influence Watermarks [Paper]
+    - Countering Personalized Text-to-Image Generation with Influence Watermarks [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Countering_Personalized_Text-to-Image_Generation_with_Influence_Watermarks_CVPR_2024_paper.pdf)
   - **ECCV**
     - Be Yourself: Bounded Attention for Multi-Subject Text-to-Image Generation [[Paper]](https://arxiv.org/pdf/2403.16990) [[Project]](https://omer11a.github.io/bounded-attention/)
     - Powerful and Flexible: Personalized Text-to-Image Generation via Reinforcement Learning [[Paper]](http://arxiv.org/pdf/2407.06642v1) [[Code]](https://github.com/wfanyue/DPG-T2I-Personalization)
@@ -407,10 +407,10 @@ Recent news of this GitHub repo are listed as follows.
     - ***Edit One for All:*** Interactive Batch Image Editing [[Paper]](https://arxiv.org/pdf/2401.10219.pdf) [[Code]](https://github.com/thaoshibe/edit-one-for-all) [[Project]](https://thaoshibe.github.io/edit-one-for-all/)
     - ***DiffMorpher:*** Unleashing the Capability of Diffusion Models for Image Morphing [[Paper]](https://arxiv.org/pdf/2312.07409) [[Code]](https://github.com/Kevin-thu/DiffMorpher) [[Project]](https://kevin-thu.github.io/DiffMorpher_page/) [[Demo]](https://openxlab.org.cn/apps/detail/KaiwenZhang/DiffMorpher)
     - ***TiNO-Edit:*** Timestep and Noise Optimization for Robust Diffusion-Based Image Editing [[Paper]](https://arxiv.org/pdf/2404.11120) [[Code]](https://github.com/SherryXTChen/TiNO-Edit)
-    - Person in Place: Generating Associative Skeleton-Guidance Maps for Human-Object Interaction Image Editing [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_Person_in_Place_Generating_Associative_Skeleton-Guidance_Maps_for_Human-Object_Interaction_CVPR_2024_paper.pdf) [[Project]](https://yangchanghee.github.io/Person-in-Place_page/)
+    - Person in Place: Generating Associative Skeleton-Guidance Maps for Human-Object Interaction Image Editing [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_Person_in_Place_Generating_Associative_Skeleton-Guidance_Maps_for_Human-Object_Interaction_CVPR_2024_paper.pdf) [[Project]](https://yangchanghee.github.io/Person-in-Place_page/) [[Code]](https://github.com/YangChangHee/CVPR2024_Person-In-Place_RELEASE)
     - Referring Image Editing: Object-level Image Editing via Referring Expressions [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Referring_Image_Editing_Object-level_Image_Editing_via_Referring_Expressions_CVPR_2024_paper.pdf)
     - Prompt Augmentation for Self-supervised Text-guided Image Manipulation [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Bodur_Prompt_Augmentation_for_Self-supervised_Text-guided_Image_Manipulation_CVPR_2024_paper.pdf)
-    - ⚠️ The Devil is in the Details: StyleFeatureEditor for Detail-Rich StyleGAN Inversion and High Quality Image Editing [Paper]
+    - The Devil is in the Details: StyleFeatureEditor for Detail-Rich StyleGAN Inversion and High Quality Image Editing [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Bobkov_The_Devil_is_in_the_Details_StyleFeatureEditor_for_Detail-Rich_StyleGAN_CVPR_2024_paper.pdf) [[Code]](https://github.com/AIRI-Institute/StyleFeatureEditor)
   - **ICLR**
     - Guiding Instruction-based Image Editing via Multimodal Large Language Models [[Paper]](https://arxiv.org/pdf/2309.17102.pdf) [[Code]](https://github.com/apple/ml-mgie) [[Project]](https://mllm-ie.github.io/)
     - The Blessing of Randomness: SDE Beats ODE in General Diffusion-based Image Editing [[Paper]](https://arxiv.org/pdf/2311.01410.pdf) [[Code]](https://github.com/ML-GSAI/SDE-Drag) [[Project]](https://ml-gsai.github.io/SDE-Drag-demo/)
