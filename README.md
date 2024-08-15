@@ -153,6 +153,11 @@ Recent news of this GitHub repo are listed as follows.
     - Bridging Different Language Models and Generative Vision Models for Text-to-Image Generation [[Paper]](https://arxiv.org/pdf/2403.07860) [[Code]](https://github.com/ShihaoZhaoZSH/LaVi-Bridge) [[Project]](https://shihaozhaozsh.github.io/LaVi-Bridge/)
     - Exploring Phrase-Level Grounding with Text-to-Image Diffusion Model [[Paper]](https://arxiv.org/pdf/2407.05352v1) [[Code]](https://github.com/nini0919/DiffPNG)
     - Getting it Right: Improving Spatial Consistency in Text-to-Image Models [[Paper]](https://arxiv.org/pdf/2404.01197) [[Code]](https://github.com/SPRIGHT-T2I/SPRIGHT) [[Project]](https://spright-t2i.github.io/)
+    - Navigating Text-to-Image Generative Bias across Indic Languages [[Paper]](https://arxiv.org/pdf/2408.00283v1) [[Project]](https://iab-rubric.org/resources/other-databases/indictti)
+    - Safeguard Text-to-Image Diffusion Models with Human Feedback Inversion [[Paper]](https://arxiv.org/pdf/2407.21032)
+    - The Fabrication of Reality and Fantasy: Scene Generation with LLM-Assisted Prompt Interpretation [[Paper]](https://arxiv.org/pdf/2407.12579) [[Code]](https://leo81005.github.io/Reality-and-Fantasy/) [[Project]](https://leo81005.github.io/Reality-and-Fantasy/) [[Dataset]](https://leo81005.github.io/Reality-and-Fantasy/)
+    - Reliable and Efficient Concept Erasure of Text-to-Image Diffusion Models [[Paper]](https://arxiv.org/pdf/2407.12383v1) [[Code]](https://github.com/CharlesGong12/RECE)
+    - Exploring Phrase-Level Grounding with Text-to-Image Diffusion Model [[Paper]](https://arxiv.org/pdf/2407.05352v1) [[Code]](https://github.com/nini0919/DiffPNG)
   - **ICLR**
     - Patched Denoising Diffusion Models For High-Resolution Image Synthesis [[Paper]](https://arxiv.org/pdf/2308.01316.pdf) [[Code]](https://github.com/mlpc-ucsd/patch-dm)
     - ***Relay Diffusion:*** Unifying diffusion process across resolutions for image synthesis [[Paper]](https://arxiv.org/pdf/2309.03350.pdf) [[Code]](https://github.com/THUDM/RelayDiffusion)
@@ -288,6 +293,8 @@ Recent news of this GitHub repo are listed as follows.
     - ***CAN:*** Condition-Aware Neural Network for Controlled Image Generation [[Paper]](https://arxiv.org/pdf/2404.01143.pdf)
     - ***SceneDiffusion:*** Move Anything with Layered Scene Diffusion [[Paper]](https://arxiv.org/pdf/2404.07178)
     - ***Zero-Painter:*** Training-Free Layout Control for Text-to-Image Synthesis [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Ohanyan_Zero-Painter_Training-Free_Layout_Control_for_Text-to-Image_Synthesis_CVPR_2024_paper.pdf) [[Code]](https://github.com/Picsart-AI-Research/Zero-Painter)
+  - **ECCV**
+    - ***PreciseControl:*** Enhancing Text-To-Image Diffusion Models with Fine-Grained Attribute Control [[Paper]](https://arxiv.org/pdf/2408.05083) [[Code]](https://github.com/rishubhpar/PreciseControl) [[Project]](https://rishubhpar.github.io/PreciseControl.home/)
   - **ICLR**
     - Advancing Pose-Guided Image Synthesis with Progressive Conditional Diffusion Models [[Paper]](https://arxiv.org/pdf/2310.06313.pdf) [[Code]](https://github.com/muzishen/PCDMs)
   - **WACV**
