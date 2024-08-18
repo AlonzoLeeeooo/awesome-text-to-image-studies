@@ -309,7 +309,7 @@ Recent news of this GitHub repo are listed as follows.
     - ***ControlNet++:*** Improving Conditional Controls with Efficient Consistency Feedback [[Paper]](https://arxiv.org/pdf/2404.07987.pdf) [[Project]](https://liming-ai.github.io/ControlNet_Plus_Plus/)
     - ***Hunyuan-DiT:*** A Powerful Multi-Resolution Diffusion Transformer with Fine-Grained Chinese Understanding [[Paper]](https://arxiv.org/pdf/2405.08748) [[Code]](https://github.com/Tencent/HunyuanDiT) [[Project]](https://dit.hunyuan.tencent.com/)
     - ***DialogGen:*** Multi-modal Interactive Dialogue System for Multi-turn Text-to-Image Generation [[Paper]](https://arxiv.org/pdf/2403.08857) [[Code]](https://github.com/Centaurusalpha/DialogGen) [[Project]](https://hunyuan-dialoggen.github.io/)
-    - ControlNeXt: Powerful and Efficient Control for Image and Video Generation [[Paper]](https://arxiv.org/pdf/2408.06070) [[Code]](https://github.com/dvlab-research/ControlNeXt) [[Project]](https://pbihao.github.io/projects/controlnext/index.html)
+    - ***ControlNeXt:*** Powerful and Efficient Control for Image and Video Generation [[Paper]](https://arxiv.org/pdf/2408.06070) [[Code]](https://github.com/dvlab-research/ControlNeXt) [[Project]](https://pbihao.github.io/projects/controlnext/index.html)
 
 
 
