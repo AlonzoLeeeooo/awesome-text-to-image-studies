@@ -380,6 +380,7 @@ Recent news of this GitHub repo are listed as follows.
     - ***FlashFace:*** Human Image Personalization with High-fidelity Identity Preservation [[Paper]](https://arxiv.org/pdf/2403.17008) [[Code]](https://github.com/jshilong/FlashFace) [[Project]](https://jshilong.github.io/flashface-page)
     - ***MoMA:*** Multimodal LLM Adapter for Fast Personalized Image Generation [[Paper]](https://arxiv.org/pdf/2404.05674)
     - ***IDAdapter:*** Learning Mixed Features for Tuning-Free Personalization of Text-to-Image Models [[Paper]](https://arxiv.org/pdf/2403.13535)
+    - ***CoRe:*** Context-Regularized Text Embedding Learning for Text-to-Image Personalization [[Paper]](https://www.arxiv.org/pdf/2408.15914)
 - <span id="personalized-year-2023">**Year 2023**</span>
   - **CVPR**
     - ***Custom Diffusion:*** Multi-Concept Customization of Text-to-Image Diffusion [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Kumari_Multi-Concept_Customization_of_Text-to-Image_Diffusion_CVPR_2023_paper.pdf) [[Code]](https://github.com/adobe-research/custom-diffusion) [[Project]](https://www.cs.cmu.edu/~custom-diffusion/)
