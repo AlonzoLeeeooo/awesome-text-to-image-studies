@@ -158,6 +158,7 @@ Recent news of this GitHub repo are listed as follows.
     - The Fabrication of Reality and Fantasy: Scene Generation with LLM-Assisted Prompt Interpretation [[Paper]](https://arxiv.org/pdf/2407.12579) [[Code]](https://leo81005.github.io/Reality-and-Fantasy/) [[Project]](https://leo81005.github.io/Reality-and-Fantasy/) [[Dataset]](https://leo81005.github.io/Reality-and-Fantasy/)
     - Reliable and Efficient Concept Erasure of Text-to-Image Diffusion Models [[Paper]](https://arxiv.org/pdf/2407.12383v1) [[Code]](https://github.com/CharlesGong12/RECE)
     - Exploring Phrase-Level Grounding with Text-to-Image Diffusion Model [[Paper]](https://arxiv.org/pdf/2407.05352v1) [[Code]](https://github.com/nini0919/DiffPNG)
+    - ***StyleTokenizer:*** Defining Image Style by a Single Instance for Controlling Diffusion Models [[Paper]](https://arxiv.org/pdf/2409.02543) [[Code]](https://github.com/alipay/style-tokenizer)
   - **ICLR**
     - Patched Denoising Diffusion Models For High-Resolution Image Synthesis [[Paper]](https://arxiv.org/pdf/2308.01316.pdf) [[Code]](https://github.com/mlpc-ucsd/patch-dm)
     - ***Relay Diffusion:*** Unifying diffusion process across resolutions for image synthesis [[Paper]](https://arxiv.org/pdf/2309.03350.pdf) [[Code]](https://github.com/THUDM/RelayDiffusion)
