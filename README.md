@@ -377,6 +377,7 @@ Recent news of this GitHub repo are listed as follows.
   - **ECCV**
     - Be Yourself: Bounded Attention for Multi-Subject Text-to-Image Generation [[Paper]](https://arxiv.org/pdf/2403.16990) [[Project]](https://omer11a.github.io/bounded-attention/)
     - Powerful and Flexible: Personalized Text-to-Image Generation via Reinforcement Learning [[Paper]](http://arxiv.org/pdf/2407.06642v1) [[Code]](https://github.com/wfanyue/DPG-T2I-Personalization)
+    - ***TIGC:*** Tuning-Free Image Customization with Image and Text Guidance [[Paper]](https://arxiv.org/pdf/2403.12658) [[Code]](https://github.com/zrealli/TIGIC) [[Project]](https://zrealli.github.io/TIGIC/)
   - **AAAI**
     - Decoupled Textual Embeddings for Customized Image Generation [[Paper]](https://arxiv.org/pdf/2312.11826.pdf)
   - **arXiv**
