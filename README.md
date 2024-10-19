@@ -149,6 +149,7 @@ Recent news of this GitHub repo are listed as follows.
     - Dynamic Prompt Optimizing for Text-to-Image Generation [[Paper]](https://arxiv.org/pdf/2404.04095)
     - Training Diffusion Models Towards Diverse Image Generation with Reinforcement Learning [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Miao_Training_Diffusion_Models_Towards_Diverse_Image_Generation_with_Reinforcement_Learning_CVPR_2024_paper.pdf)
     - Adversarial Text to Continuous Image Generation [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Haydarov_Adversarial_Text_to_Continuous_Image_Generation_CVPR_2024_paper.pdf) [[Project]](https://kilichbek.github.io/webpage/hypercgan/) [[Video]](https://kilichbek.github.io/webpage/hypercgan/#)
+    - ***EmoGen:*** Emotional Image Content Generation with Text-to-Image Diffusion Models [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_EmoGen_Emotional_Image_Content_Generation_with_Text-to-Image_Diffusion_Models_CVPR_2024_paper.pdf) [[Code]](https://github.com/JingyuanYY/EmoGen)
   - **ECCV**
     - Bridging Different Language Models and Generative Vision Models for Text-to-Image Generation [[Paper]](https://arxiv.org/pdf/2403.07860) [[Code]](https://github.com/ShihaoZhaoZSH/LaVi-Bridge) [[Project]](https://shihaozhaozsh.github.io/LaVi-Bridge/)
     - Exploring Phrase-Level Grounding with Text-to-Image Diffusion Model [[Paper]](https://arxiv.org/pdf/2407.05352v1) [[Code]](https://github.com/nini0919/DiffPNG)
