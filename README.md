@@ -57,7 +57,7 @@ Recent news of this GitHub repo are listed as follows.
 <!-- omit in toc -->
 # To-Do Lists
 - Published Papers on Conferences
-  - [ ] Update ECCV 2024 Papers
+  - [x] Update ECCV 2024 Papers
   - [x] Update CVPR 2024 Papers
     - [x] Update ⚠️ Papers and References
     - [ ] Update arXiv References into the Official Version
@@ -160,6 +160,13 @@ Recent news of this GitHub repo are listed as follows.
     - Reliable and Efficient Concept Erasure of Text-to-Image Diffusion Models [[Paper]](https://arxiv.org/pdf/2407.12383v1) [[Code]](https://github.com/CharlesGong12/RECE)
     - Exploring Phrase-Level Grounding with Text-to-Image Diffusion Model [[Paper]](https://arxiv.org/pdf/2407.05352v1) [[Code]](https://github.com/nini0919/DiffPNG)
     - ***StyleTokenizer:*** Defining Image Style by a Single Instance for Controlling Diffusion Models [[Paper]](https://arxiv.org/pdf/2409.02543) [[Code]](https://github.com/alipay/style-tokenizer)
+    - ***PEA-Diffusion:*** Parameter-Efficient Adapter with Knowledge Distillation in non-English Text-to-Image Generation [[Paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08492.pdf) [[Code]](https://github.com/OPPO-Mente-Lab/PEA-Diffusion)
+    - Skews in the Phenomenon Space Hinder Generalization in Text-to-Image Generation [[Paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/11936.pdf) [[Code]](https://github.com/zdxdsw/skewed_relations_T2I)
+    - ***Parrot:*** Pareto-optimal Multi-Reward Reinforcement Learning Framework for Text-to-Image Generation [[Paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05562.pdf)
+    - Bridging Different Language Models and Generative Vision Models for Text-to-Image Generation [[Paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/10495.pdf) [[Code]](https://github.com/ShihaoZhaoZSH/LaVi-Bridge) [[Project]](https://shihaozhaozsh.github.io/LaVi-Bridge/)
+    - ***MobileDiffusion:*** Instant Text-to-Image Generation on Mobile Devices [[Paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07923.pdf)
+    - ***PixArt-Σ:*** Weak-to-Strong Training of Diffusion Transformer for 4K Text-to-Image Generation [[Paper]](https://arxiv.org/pdf/2403.04692) [[Code]](https://github.com/PixArt-alpha/PixArt-sigma) [[Project]](https://pixart-alpha.github.io/PixArt-sigma-project/)
+    - ***CogView3:*** Finer and Faster Text-to-Image Generation via Relay Diffusion [[Paper]](https://arxiv.org/pdf/2403.05121) [[Code]](https://github.com/THUDM/CogView)
   - **ICLR**
     - Patched Denoising Diffusion Models For High-Resolution Image Synthesis [[Paper]](https://arxiv.org/pdf/2308.01316.pdf) [[Code]](https://github.com/mlpc-ucsd/patch-dm)
     - ***Relay Diffusion:*** Unifying diffusion process across resolutions for image synthesis [[Paper]](https://arxiv.org/pdf/2309.03350.pdf) [[Code]](https://github.com/THUDM/RelayDiffusion)
@@ -178,8 +185,6 @@ Recent news of this GitHub repo are listed as follows.
     - ***ResAdapter:*** Domain Consistent Resolution Adapter for Diffusion Models [[Paper]](https://arxiv.org/pdf/2403.02084.pdf) [[Code]](https://github.com/bytedance/res-adapter) [[Project]](https://res-adapter.github.io/)
     - ***InstantID:*** Zero-shot Identity-Preserving Generation in Seconds [[Paper]](https://arxiv.org/pdf/2401.07519.pdf) [[Code]](https://github.com/InstantID/InstantID) [[Project]](https://instantid.github.io/) [[Demo]](https://huggingface.co/spaces/InstantX/InstantID)
     - ***PIXART-δ:*** Fast and Controllable Image Generation with Latent Consistency Models [[Paper]](https://arxiv.org/pdf/2401.05252) [[Code]](b.com/PixArt-alpha/PixArt-alpha?tab=readme-ov-file)
-    - ***PixArt-Σ:*** Weak-to-Strong Training of Diffusion Transformer for 4K Text-to-Image Generation [[Paper]](https://arxiv.org/pdf/2403.04692) [[Code]](https://github.com/PixArt-alpha/PixArt-sigma) [[Project]](https://pixart-alpha.github.io/PixArt-sigma-project/)
-    - ***CogView3:*** Finer and Faster Text-to-Image Generation via Relay Diffusion [[Paper]](https://arxiv.org/pdf/2403.05121) [[Code]](https://github.com/THUDM/CogView)
     - ***ELLA:*** Equip Diffusion Models with LLM for Enhanced Semantic Alignment [[Paper]](https://arxiv.org/pdf/2403.05135) [[Code]](https://github.com/ELLA-Diffusion/ELLA) [[Project]](https://ella-diffusion.github.io/) 
     - ***Text2Street:*** Controllable Text-to-image Generation for Street Views [[Paper]](https://arxiv.org/pdf/2402.04504.pdf)
     - ***LayerDiffuse:*** Transparent Image Layer Diffusion using Latent Transparency [[Paper]](https://arxiv.org/pdf/2402.17113) [[Code]](https://github.com/layerdiffusion/LayerDiffuse)
@@ -301,6 +306,7 @@ Recent news of this GitHub repo are listed as follows.
     - ***FreeControl:*** Training-Free Spatial Control of Any Text-to-Image Diffusion Model with Any Condition [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Mo_FreeControl_Training-Free_Spatial_Control_of_Any_Text-to-Image_Diffusion_Model_with_CVPR_2024_paper.pdf) [[Code]](https://github.com/genforce/freecontrol) [[Project]](https://openaccess.thecvf.com/content/CVPR2024/papers/Mo_FreeControl_Training-Free_Spatial_Control_of_Any_Text-to-Image_Diffusion_Model_with_CVPR_2024_paper.pdf)
   - **ECCV**
     - ***PreciseControl:*** Enhancing Text-To-Image Diffusion Models with Fine-Grained Attribute Control [[Paper]](https://arxiv.org/pdf/2408.05083) [[Code]](https://github.com/rishubhpar/PreciseControl) [[Project]](https://rishubhpar.github.io/PreciseControl.home/)
+    - ***AnyControl:*** Create Your Artwork with Versatile Control on Text-to-Image Generation [[Paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/01706.pdf) [[Code]](https://github.com/open-mmlab/AnyControl)
   - **ICLR**
     - Advancing Pose-Guided Image Synthesis with Progressive Conditional Diffusion Models [[Paper]](https://arxiv.org/pdf/2310.06313.pdf) [[Code]](https://github.com/muzishen/PCDMs)
   - **WACV**
@@ -379,6 +385,8 @@ Recent news of this GitHub repo are listed as follows.
     - Be Yourself: Bounded Attention for Multi-Subject Text-to-Image Generation [[Paper]](https://arxiv.org/pdf/2403.16990) [[Project]](https://omer11a.github.io/bounded-attention/)
     - Powerful and Flexible: Personalized Text-to-Image Generation via Reinforcement Learning [[Paper]](http://arxiv.org/pdf/2407.06642v1) [[Code]](https://github.com/wfanyue/DPG-T2I-Personalization)
     - ***TIGC:*** Tuning-Free Image Customization with Image and Text Guidance [[Paper]](https://arxiv.org/pdf/2403.12658) [[Code]](https://github.com/zrealli/TIGIC) [[Project]](https://zrealli.github.io/TIGIC/)
+    - ***MasterWeaver:*** Taming Editability and Face Identity for Personalized Text-to-Image Generation [[Paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06786.pdf) [[Code]](https://github.com/csyxwei/MasterWeaver) [[Project]](https://masterweaver.github.io/)
+    - 
   - **AAAI**
     - Decoupled Textual Embeddings for Customized Image Generation [[Paper]](https://arxiv.org/pdf/2312.11826.pdf)
   - **arXiv**
@@ -434,6 +442,13 @@ Recent news of this GitHub repo are listed as follows.
     - ***RegionDrag:*** Fast Region-Based Image Editing with Diffusion Models [[Paper]](http://arxiv.org/pdf/2407.18247v1) [[Code]](https://github.com/Visual-AI/RegionDrag) [[Project]](https://visual-ai.github.io/regiondrag/) [[Demo]](https://colab.research.google.com/drive/1pnq9t_1zZ8yL_Oba20eBLVZLp3glniBR?usp=sharing)
     - ***TurboEdit:*** Instant text-based image editing [[Paper]](https://arxiv.org/pdf/2408.08332v1) [[Project]](https://betterze.github.io/TurboEdit/)
     - ***InstructGIE:*** Towards Generalizable Image Editing [[Paper]](https://arxiv.org/pdf/2403.05018)
+    - ***StableDrag:*** Stable Dragging for Point-based Image Editing [[Paper]](https://arxiv.org/pdf/2403.04437)
+    - ***Eta Inversion:*** Designing an Optimal Eta Function for Diffusion-based Real Image Editing [[Paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02157.pdf) [[Code]](https://github.com/furiosa-ai/eta-inversion) [[Project]](https://github.com/furiosa-ai/eta-inversion)
+    - ***SwapAnything:*** Enabling Arbitrary Object Swapping in Personalized Image Editing [[Paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04768.pdf) [[Code]](https://github.com/eric-ai-lab/swap-anything) [[Project]](https://swap-anything.github.io/)
+    - ***Guide-and-Rescale:*** Self-Guidance Mechanism for Effective Tuning-Free Real Image Editing [[Paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08987.pdf)
+    - ***FreeDiff:*** Progressive Frequency Truncation for Image Editing with Diffusion Models [[Paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00759.pdf) [[Code]](https://github.com/Thermal-Dynamics/FreeDiff)
+    - Lazy Diffusion Transformer for Interactive Image Editing [[Paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03436.pdf) [[Project]](https://lazydiffusion.github.io/)
+    - ***ByteEdit:*** Boost, Comply and Accelerate Generative Image Editing [[Paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00359.pdf) [[Project]](https://byte-edit.github.io/)
   - **ICLR**
     - Guiding Instruction-based Image Editing via Multimodal Large Language Models [[Paper]](https://arxiv.org/pdf/2309.17102.pdf) [[Code]](https://github.com/apple/ml-mgie) [[Project]](https://mllm-ie.github.io/)
     - The Blessing of Randomness: SDE Beats ODE in General Diffusion-based Image Editing [[Paper]](https://arxiv.org/pdf/2311.01410.pdf) [[Code]](https://github.com/ML-GSAI/SDE-Drag) [[Project]](https://ml-gsai.github.io/SDE-Drag-demo/)
@@ -449,7 +464,6 @@ Recent news of this GitHub repo are listed as follows.
     - ***TexFit:*** Text-Driven Fashion Image Editing with Diffusion Models [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28885)
   - **arXiv**
     - ***An Item is Worth a Prompt:*** Versatile Image Editing with Disentangled Control [[Paper]](https://arxiv.org/pdf/2403.04880.pdf) [[Code]](https://github.com/asFeng/d-edit)
-    - ***StableDrag:*** Stable Dragging for Point-based Image Editing [[Paper]](https://arxiv.org/pdf/2403.04437)
     - One-Dimensional Adapter to Rule Them All: Concepts, Diffusion Models and Erasing Applications [[Paper]](https://arxiv.org/pdf/2312.16145) [[Code]](https://github.com/Con6924/SPM) [[Project]](https://lyumengyao.github.io/projects/spm)
     - ***EditWorld:*** Simulating World Dynamics for Instruction-Following Image Editing [[Paper]](https://arxiv.org/pdf/2405.14785) [[Code]](https://github.com/YangLing0818/EditWorld) [[Project]](https://github.com/YangLing0818/EditWorld)
     - ***ReasonPix2Pix:*** Instruction Reasoning Dataset for Advanced Image Editing [[Paper]](https://arxiv.org/pdf/2405.11190)
