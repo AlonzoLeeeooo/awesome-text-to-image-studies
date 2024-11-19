@@ -11,7 +11,9 @@ This GitHub repository summarizes papers and resources related to the text-to-im
 If you have any suggestions about this repository, please feel free to [start a new issue](https://github.com/AlonzoLeeeooo/awesome-text-to-image-generation-studies/issues/new) or [pull requests](https://github.com/AlonzoLeeeooo/awesome-text-to-image-generation-studies/pulls).
 
 Recent news of this GitHub repo are listed as follows.
-<details> <summary> 🔥 Click to see more information. </summary>
+
+🔥 [Nov. 19th] We have release our latest paper titled ["StableV2V: Stablizing Shape Consistency in Video-to-Video Editing"](https://arxiv.org/abs/2411.11045), with the correponding [code](https://github.com/AlonzoLeeeooo/StableV2V), [model weights](https://huggingface.co/AlonzoLeeeooo/StableV2V), and [a testing benchmark `DAVIS-Edit`](https://huggingface.co/datasets/AlonzoLeeeooo/DAVIS-Edit) open-sourced. Feel free to check them out from the links!
+<details> <summary> Click to see more information. </summary>
 
 - [Apr. 26th] Update a new topic: **Diffusion Models Meet Federated Learning.** See [the `topics` section](topics/topics.md) for more details!
 - [Mar. 28th] The official **AAAI 2024** paper list are released! Official version of PDFs and BibTeX references are updated accordingly.
