@@ -311,7 +311,6 @@ Recent news of this GitHub repo are listed as follows.
     - ***AnyControl:*** Create Your Artwork with Versatile Control on Text-to-Image Generation [[Paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/01706.pdf) [[Code]](https://github.com/open-mmlab/AnyControl)
   - **ICLR**
     - Advancing Pose-Guided Image Synthesis with Progressive Conditional Diffusion Models [[Paper]](https://arxiv.org/pdf/2310.06313.pdf) [[Code]](https://github.com/muzishen/PCDMs)
-    - ***OmniControl:*** Minimal and Universal Control for Diffusion Transformer [[Paper]](https://arxiv.org/pdf/2411.15098) [[Code]](https://github.com/Yuanshi9815/OminiControl) [[Demo]](https://huggingface.co/spaces/Yuanshi/OminiControl)
   - **WACV**
     - Training-Free Layout Control with Cross-Attention Guidance [[Paper]](https://openaccess.thecvf.com/content/WACV2024/papers/Chen_Training-Free_Layout_Control_With_Cross-Attention_Guidance_WACV_2024_paper.pdf) [[Code]](https://github.com/silent-chen/layout-guidance) [[Project]](https://silent-chen.github.io/layout-guidance/) [[Demo]](https://huggingface.co/spaces/silentchen/layout-guidance)
   - **AAAI**
@@ -325,6 +324,7 @@ Recent news of this GitHub repo are listed as follows.
     - ***DialogGen:*** Multi-modal Interactive Dialogue System for Multi-turn Text-to-Image Generation [[Paper]](https://arxiv.org/pdf/2403.08857) [[Code]](https://github.com/Centaurusalpha/DialogGen) [[Project]](https://hunyuan-dialoggen.github.io/)
     - ***ControlNeXt:*** Powerful and Efficient Control for Image and Video Generation [[Paper]](https://arxiv.org/pdf/2408.06070) [[Code]](https://github.com/dvlab-research/ControlNeXt) [[Project]](https://pbihao.github.io/projects/controlnext/index.html)
     - ***UniPortrait:*** A Unified Framework for Identity-Preserving Single- and Multi-Human Image Personalization [[Paper]](https://arxiv.org/pdf/2408.05939) [[Code]](https://github.com/junjiehe96/UniPortrait) [[Project]](https://aigcdesigngroup.github.io/UniPortrait-Page/) [[Demo]](https://huggingface.co/spaces/Junjie96/UniPortrait)
+    - ***OmniControl:*** Minimal and Universal Control for Diffusion Transformer [[Paper]](https://arxiv.org/pdf/2411.15098) [[Code]](https://github.com/Yuanshi9815/OminiControl) [[Demo]](https://huggingface.co/spaces/Yuanshi/OminiControl)
 
 
 
