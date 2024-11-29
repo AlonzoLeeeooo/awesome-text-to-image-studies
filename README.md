@@ -311,6 +311,7 @@ Recent news of this GitHub repo are listed as follows.
     - ***AnyControl:*** Create Your Artwork with Versatile Control on Text-to-Image Generation [[Paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/01706.pdf) [[Code]](https://github.com/open-mmlab/AnyControl)
   - **ICLR**
     - Advancing Pose-Guided Image Synthesis with Progressive Conditional Diffusion Models [[Paper]](https://arxiv.org/pdf/2310.06313.pdf) [[Code]](https://github.com/muzishen/PCDMs)
+    - ***OmniControl:*** Control Any Joint at Any Time for Human Motion Generation [[Paper]](https://arxiv.org/pdf/2310.08580) [[Code]](https://github.com/neu-vi/omnicontrol) [[Project]](https://neu-vi.github.io/omnicontrol/)
   - **WACV**
     - Training-Free Layout Control with Cross-Attention Guidance [[Paper]](https://openaccess.thecvf.com/content/WACV2024/papers/Chen_Training-Free_Layout_Control_With_Cross-Attention_Guidance_WACV_2024_paper.pdf) [[Code]](https://github.com/silent-chen/layout-guidance) [[Project]](https://silent-chen.github.io/layout-guidance/) [[Demo]](https://huggingface.co/spaces/silentchen/layout-guidance)
   - **AAAI**
