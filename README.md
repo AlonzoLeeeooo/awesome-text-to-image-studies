@@ -59,7 +59,7 @@ Recent news of this GitHub repo are listed as follows.
 <!-- omit in toc -->
 # To-Do Lists
 - Published Papers on Conferences
-  - [ ] Update NeurIPS 2025 Papers
+  - [ ] Update NeurIPS 2024 Papers
   - [x] Update ECCV 2024 Papers
   - [x] Update CVPR 2024 Papers
     - [x] Update ⚠️ Papers and References
