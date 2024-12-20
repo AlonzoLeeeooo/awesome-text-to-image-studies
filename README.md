@@ -222,6 +222,7 @@ Recent news of this GitHub repo are listed as follows.
     - ***ImageReward:*** Learning and Evaluating Human Preferences for Text-to-Image Generation [[Paper]](https://openreview.net/pdf?id=JVzeOYEx6d) [[Code]](https://github.com/THUDM/ImageReward)
     - ***RAPHAEL***: Text-to-Image Generation via Large Mixture of Diffusion Paths [[Paper]](https://arxiv.org/pdf/2305.18295) [[Project]](https://raphael-painter.github.io/)
     - Linguistic Binding in Diffusion Models: Enhancing Attribute Correspondence through Attention Map Alignment [[Paper]](https://openreview.net/pdf?id=AOKU4nRw1W) [[Code]](https://github.com/RoyiRa/Linguistic-Binding-in-Diffusion-Models)
+    - ***DenseDiffusion:*** Dense Text-to-Image Generation with Attention Modulation [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Kim_Dense_Text-to-Image_Generation_with_Attention_Modulation_ICCV_2023_paper.pdf) [[Code]](https://github.com/naver-ai/densediffusion)
   - **ICLR**
     - Training-Free Structured Diffusion Guidance for Compositional Text-to-Image Synthesis [[Paper]](https://openreview.net/pdf?id=PUIqjT4rzq7) [[Code]](https://github.com/weixi-feng/Structured-Diffusion-Guidance)
   - **ICML**
