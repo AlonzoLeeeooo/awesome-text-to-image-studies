@@ -202,6 +202,7 @@ Recent news of this GitHub repo are listed as follows.
     - Face Adapter for Pre-Trained Diffusion Models with Fine-Grained ID and Attribute Control [[Paper]](https://arxiv.org/pdf/2405.12970) [[Project]](https://faceadapter.github.io/face-adapter.github.io/)
     - ***LinFusion:*** 1 GPU, 1 Minute, 16K Image [[Paper]](https://arxiv.org/pdf/2409.02097) [[Code]](https://github.com/Huage001/LinFusion) [[Project]](https://lv-linfusion.github.io/) [[Demo]](https://huggingface.co/spaces/Huage001/LinFusion-SD-v1.5)
     - ***OmniGen:*** Unified Image Generation [[Paper]](https://arxiv.org/pdf/2409.11340) [[Code]](https://github.com/VectorSpaceLab/OmniGen)
+    - ***CoMPaSS:*** Enhancing Spatial Understanding in Text-to-Image Diffusion Models [[Paper]](https://arxiv.org/abs/2412.13195) [[Code]](https://github.com/blurgyy/CoMPaSS)
   - **Others**
     - ***Stable Cascade*** [[Blog]](https://stability.ai/news/introducing-stable-cascade) [[Code]](https://github.com/Stability-AI/StableCascade)
 
