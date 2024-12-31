@@ -329,6 +329,7 @@ Recent news of this GitHub repo are listed as follows.
     - ***UniPortrait:*** A Unified Framework for Identity-Preserving Single- and Multi-Human Image Personalization [[Paper]](https://arxiv.org/pdf/2408.05939) [[Code]](https://github.com/junjiehe96/UniPortrait) [[Project]](https://aigcdesigngroup.github.io/UniPortrait-Page/) [[Demo]](https://huggingface.co/spaces/Junjie96/UniPortrait)
     - ***OmniControl:*** Minimal and Universal Control for Diffusion Transformer [[Paper]](https://arxiv.org/pdf/2411.15098) [[Code]](https://github.com/Yuanshi9815/OminiControl) [[Demo]](https://huggingface.co/spaces/Yuanshi/OminiControl)
     - ***UnZipLoRA:*** Separating Content and Style from a Single Image [[Paper]](https://arxiv.org/pdf/2412.04465) [[Project]](https://unziplora.github.io/)
+    - ***CtrLoRA:*** An Extensible and Efficient Framework for Controllable Image Generation [[Paper]](https://arxiv.org/pdf/2410.09400) [[Code]](https://github.com/xyfJASON/ctrlora)
 
 
 
