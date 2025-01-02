@@ -330,6 +330,7 @@ Recent news of this GitHub repo are listed as follows.
     - ***OmniControl:*** Minimal and Universal Control for Diffusion Transformer [[Paper]](https://arxiv.org/pdf/2411.15098) [[Code]](https://github.com/Yuanshi9815/OminiControl) [[Demo]](https://huggingface.co/spaces/Yuanshi/OminiControl)
     - ***UnZipLoRA:*** Separating Content and Style from a Single Image [[Paper]](https://arxiv.org/pdf/2412.04465) [[Project]](https://unziplora.github.io/)
     - ***CtrLoRA:*** An Extensible and Efficient Framework for Controllable Image Generation [[Paper]](https://arxiv.org/pdf/2410.09400) [[Code]](https://github.com/xyfJASON/ctrlora)
+    - Region-Aware Text-to-Image Generation via Hard Binding and Soft Refinement [[Paper]](https://arxiv.org/pdf/2411.06558) [[Code]](https://github.com/NJU-PCALab/RAG-Diffusion)
 
 
 
