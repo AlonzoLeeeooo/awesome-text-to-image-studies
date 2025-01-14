@@ -395,7 +395,6 @@ Recent news of this GitHub repo are listed as follows.
     - Powerful and Flexible: Personalized Text-to-Image Generation via Reinforcement Learning [[Paper]](http://arxiv.org/pdf/2407.06642v1) [[Code]](https://github.com/wfanyue/DPG-T2I-Personalization)
     - ***TIGC:*** Tuning-Free Image Customization with Image and Text Guidance [[Paper]](https://arxiv.org/pdf/2403.12658) [[Code]](https://github.com/zrealli/TIGIC) [[Project]](https://zrealli.github.io/TIGIC/)
     - ***MasterWeaver:*** Taming Editability and Face Identity for Personalized Text-to-Image Generation [[Paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06786.pdf) [[Code]](https://github.com/csyxwei/MasterWeaver) [[Project]](https://masterweaver.github.io/)
-    - 
   - **AAAI**
     - Decoupled Textual Embeddings for Customized Image Generation [[Paper]](https://arxiv.org/pdf/2312.11826.pdf)
   - **arXiv**
