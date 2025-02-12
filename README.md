@@ -312,6 +312,8 @@ Recent news of this GitHub repo are listed as follows.
   - **ECCV**
     - ***PreciseControl:*** Enhancing Text-To-Image Diffusion Models with Fine-Grained Attribute Control [[Paper]](https://arxiv.org/pdf/2408.05083) [[Code]](https://github.com/rishubhpar/PreciseControl) [[Project]](https://rishubhpar.github.io/PreciseControl.home/)
     - ***AnyControl:*** Create Your Artwork with Versatile Control on Text-to-Image Generation [[Paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/01706.pdf) [[Code]](https://github.com/open-mmlab/AnyControl)
+  - **NeurIPS**
+    - ***Ctrl-X:*** Controlling Structure and Appearance for Text-To-Image Generation Without Guidance [[Paper]](https://arxiv.org/pdf/2406.07540) [[Code]](https://github.com/genforce/ctrl-x) [[Project]](https://genforce.github.io/ctrl-x/)
   - **ICLR**
     - Advancing Pose-Guided Image Synthesis with Progressive Conditional Diffusion Models [[Paper]](https://arxiv.org/pdf/2310.06313.pdf) [[Code]](https://github.com/muzishen/PCDMs)
   - **WACV**
