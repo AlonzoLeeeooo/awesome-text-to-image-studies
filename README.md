@@ -41,6 +41,7 @@ Recent news of this GitHub repo are listed as follows.
     - [Year 2023](#conditional-year-2023)
     - [Year 2022](#conditional-year-2022)
   - [Personalized Text-to-Image Generation](#personalized-text-to-image-generation)
+    - [Year 2025](#personalized-year-2025)
     - [Year 2024](#personalized-year-2024)
     - [Year 2023](#personalized-year-2023)
   - [Text-Guided Image Editing](#text-guided-image-editing) 
@@ -60,8 +61,8 @@ Recent news of this GitHub repo are listed as follows.
 # To-Do Lists
 - Published Papers on Conferences
   - [ ] Update CVPR 2025 Papers
-  - [ ] Update ICLR 2025 Papers
-  - [ ] Update NeurIPS 2024 Papers
+  - [x] Update ICLR 2025 Papers
+  - [x] Update NeurIPS 2024 Papers
   - [x] Update ECCV 2024 Papers
   - [x] Update CVPR 2024 Papers
     - [x] Update ⚠️ Papers and References
@@ -219,6 +220,7 @@ Recent news of this GitHub repo are listed as follows.
     - ***Specialist Diffusion:*** Plug-and-Play Sample-Efficient Fine-Tuning of Text-to-Image Diffusion Models to Learn Any Unseen Style [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Lu_Specialist_Diffusion_Plug-and-Play_Sample-Efficient_Fine-Tuning_of_Text-to-Image_Diffusion_Models_To_CVPR_2023_paper.pdf) [[Code]](https://github.com/Picsart-AI-Research/Specialist-Diffusion)
     - Toward Verifiable and Reproducible Human Evaluation for Text-to-Image Generation [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Otani_Toward_Verifiable_and_Reproducible_Human_Evaluation_for_Text-to-Image_Generation_CVPR_2023_paper.pdf)
     - ***RIATIG:*** Reliable and Imperceptible Adversarial Text-to-Image Generation with Natural Prompts [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_RIATIG_Reliable_and_Imperceptible_Adversarial_Text-to-Image_Generation_With_Natural_Prompts_CVPR_2023_paper.pdf) [[Code]](https://github.com/WUSTL-CSPL/RIATIG)
+    - Multi-Concept Customization of Text-to-Image Diffusion [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Kumari_Multi-Concept_Customization_of_Text-to-Image_Diffusion_CVPR_2023_paper.pdf) [[Project]](https://www.cs.cmu.edu/~custom-diffusion/) [[Code]](https://github.com/adobe-research/custom-diffusion) 
   - **ICCV**
     - ***DiffFit:*** Unlocking Transferability of Large Diffusion Models via Simple Parameter-Efficient Fine-Tuning [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Xie_DiffFit_Unlocking_Transferability_of_Large_Diffusion_Models_via_Simple_Parameter-efficient_ICCV_2023_paper.pdf) [[Code]](https://github.com/mkshing/DiffFit-pytorch) [[Demo]](https://colab.research.google.com/github/mkshing/difffit-pytorch/blob/main/scripts/difffit_pytorch.ipynb)
   - **NeurIPS**
@@ -380,6 +382,12 @@ Recent news of this GitHub repo are listed as follows.
 
 <!-- omit in toc -->
 ## Personalized Text-to-Image Generation
+- <span id="personalized-year-2025">**Year 2025**</span>
+  - **NeurIPS**
+    - ***MS-Diffusion:*** Multi-Subject Zero-Shot Image Personalized with Layout Guidance [[Paper]](https://arxiv.org/pdf/2406.07209) [[Project]](https://ms-diffusion.github.io/) [[Code]](https://github.com/MS-Diffusion/MS-Diffusion)
+    - ***ClassDiffusion:*** More Aligned Personalization Tuning with Explicit Class Guidance [[Paper]](https://openreview.net/pdf?id=iTm4H6N4aG) [[Project]](https://classdiffusion.github.io/) [[Code]](https://github.com/Rbrq03/ClassDiffusion)
+    - ***DreamBench++:*** A Human-Aligned Benchmark for Personalized Image Generation [[Paper]](https://arxiv.org/pdf/2406.16855) [[Project]](https://dreambenchplus.github.io/)
+    - ***TweedieMix:*** Improving Multi-Concept Fusion for Diffusion-based Image/Video Generation [[Paper]](https://arxiv.org/pdf/2410.05591) [[Code]](https://github.com/KwonGihyun/TweedieMix)
 - <span id="personalized-year-2024">**Year 2024**</span>
   - **CVPR**
     - Cross Initialization for Personalized Text-to-Image Generation [[Paper]](https://arxiv.org/pdf/2312.15905.pdf)
@@ -394,11 +402,15 @@ Recent news of this GitHub repo are listed as follows.
     - Improving Subject-Driven Image Synthesis with Subject-Agnostic Guidance [[Paper]](https://arxiv.org/pdf/2405.01356)
     - ***JeDi:*** Joint-Image Diffusion Models for Finetuning-Free Personalized Text-to-Image Generation [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zeng_JeDi_Joint-Image_Diffusion_Models_for_Finetuning-Free_Personalized_Text-to-Image_Generation_CVPR_2024_paper.pdf)
     - Countering Personalized Text-to-Image Generation with Influence Watermarks [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Countering_Personalized_Text-to-Image_Generation_with_Influence_Watermarks_CVPR_2024_paper.pdf)
+    - ***PIA:*** Your Personalized Image Animator via Plug-and-Play Modules in Text-to-Image Models [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_PIA_Your_Personalized_Image_Animator_via_Plug-and-Play_Modules_in_Text-to-Image_CVPR_2024_paper.pdf) [[Project]](https://pi-animator.github.io/) [[Code]](https://github.com/open-mmlab/PIA)
+    - ***SSR-Encoder:*** Encoding Selective Subject Representation for Subject-Driven Generation [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_SSR-Encoder_Encoding_Selective_Subject_Representation_for_Subject-Driven_Generation_CVPR_2024_paper.pdf) [[Code]](https://github.com/Xiaojiu-z/SSR_Encoder)
   - **ECCV**
     - Be Yourself: Bounded Attention for Multi-Subject Text-to-Image Generation [[Paper]](https://arxiv.org/pdf/2403.16990) [[Project]](https://omer11a.github.io/bounded-attention/)
     - Powerful and Flexible: Personalized Text-to-Image Generation via Reinforcement Learning [[Paper]](http://arxiv.org/pdf/2407.06642v1) [[Code]](https://github.com/wfanyue/DPG-T2I-Personalization)
     - ***TIGC:*** Tuning-Free Image Customization with Image and Text Guidance [[Paper]](https://arxiv.org/pdf/2403.12658) [[Code]](https://github.com/zrealli/TIGIC) [[Project]](https://zrealli.github.io/TIGIC/)
     - ***MasterWeaver:*** Taming Editability and Face Identity for Personalized Text-to-Image Generation [[Paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06786.pdf) [[Code]](https://github.com/csyxwei/MasterWeaver) [[Project]](https://masterweaver.github.io/)
+  - **NeurIPS**
+    - ***AttnDreamBooth:*** Towards Text-Aligned Personalized Image Generation [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2024/file/465a13a95741fab2e912f98adb07df1d-Paper-Conference.pdf) [[Project]](https://attndreambooth.github.io/) [[Code]](https://github.com/lyuPang/AttnDreamBooth)
   - **AAAI**
     - Decoupled Textual Embeddings for Customized Image Generation [[Paper]](https://arxiv.org/pdf/2312.11826.pdf)
   - **arXiv**
