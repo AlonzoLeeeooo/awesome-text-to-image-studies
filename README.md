@@ -410,6 +410,7 @@ Recent news of this GitHub repo are listed as follows.
     - ***TIGC:*** Tuning-Free Image Customization with Image and Text Guidance [[Paper]](https://arxiv.org/pdf/2403.12658) [[Code]](https://github.com/zrealli/TIGIC) [[Project]](https://zrealli.github.io/TIGIC/)
     - ***MasterWeaver:*** Taming Editability and Face Identity for Personalized Text-to-Image Generation [[Paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06786.pdf) [[Code]](https://github.com/csyxwei/MasterWeaver) [[Project]](https://masterweaver.github.io/)
   - **NeurIPS**
+    - ***RectifID:*** Personalizing Rectified Flow with Anchored Classifier Guidance [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2024/file/afa58a5b6adc0845e0fd632132a64c39-Paper-Conference.pdf) [[Code]](https://github.com/feifeiobama/RectifID)
     - ***AttnDreamBooth:*** Towards Text-Aligned Personalized Image Generation [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2024/file/465a13a95741fab2e912f98adb07df1d-Paper-Conference.pdf) [[Project]](https://attndreambooth.github.io/) [[Code]](https://github.com/lyuPang/AttnDreamBooth)
   - **AAAI**
     - Decoupled Textual Embeddings for Customized Image Generation [[Paper]](https://arxiv.org/pdf/2312.11826.pdf)
