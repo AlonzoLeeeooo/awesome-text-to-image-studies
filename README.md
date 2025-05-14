@@ -127,6 +127,36 @@ Recent news of this GitHub repo are listed as follows.
 
 <!-- omit in toc -->
 ## Text-to-Image Generation
+- <span id="text-year-2025">**Year 2025**</span>
+  - **CVPR**
+    - ***PreciseCam:*** Precise Camera Control for Text-to-Image Generation [[Paper]](https://arxiv.org/apdf/2501.12910) [[Project]](https://graphics.unizar.es/projects/PreciseCam2024/) [[Code]](https://github.com/edurnebernal/PreciseCam)
+    - ***Type-R:*** Automatically Retouching Typos for Text-to-Image Generation [[Paper]](https://arxiv.org/abs/2411.18159) [[Code]](https://github.com/CyberAgentAILab/Type-R)
+    - ***Compass Control:*** Multi Object Orientation Control for Text-to-Image Generation [[Paper]](https://arxiv.org/pdf/2504.06752)
+    - ***Generative Photography:*** Scene-Consistent Camera Control for Realistic Text-to-Image Synthesis [[Paper]](https://arxiv.org/pdf/2412.02168) [[Project]](https://generative-photography.github.io/project/) [[Code]](https://github.com/pandayuanyu/generative-photography)
+    -  ***One-Way Ticket:*** Time-Independent Unified Encoder for Distilling Text-to-Image Diffusion Models [[Paper]](https://cvpr.thecvf.com/virtual/2025/poster/32579) [[Code]](https://github.com/sen-mao/Loopfree)
+    - Text Embedding is Not All You Need: Attention Control for Text-to-Image Semantic Alignment with Text Self-Attention Maps [[Paper]](https://arxiv.org/pdf/2411.15236)
+    - Towards Understanding and Quantifying Uncertainty for Text-to-Image Generation [[Paper]](https://arxiv.org/pdf/2412.03178)
+    - Plug-and-Play Interpretable Responsible Text-to-Image Generation via Dual-Space Multi-facet Concept Control [[Paper]](https://arxiv.org/pdf/2503.18324) [[Project]](https://basim-azam.github.io/responsiblediffusion/) [[Code]](https://github.com/basim-azam/responsiblediffusion)
+    - Make It Count: Text-to-Image Generation with an Accurate Number of Objects [[Paper]](https://arxiv.org/pdf/2406.10210) [[Project]](https://make-it-count-paper.github.io/) [[Code]](https://github.com/Litalby1/make-it-count)
+    - ***MCCD:*** Multi-Agent Collaboration-based Compositional Diffusion for Complex Text-to-Image Generation [[Paper]](https://arxiv.org/pdf/2505.02648)
+    - Rethinking Training for De-biasing Text-to-Image Generation: Unlocking the Potential of Stable Diffusion [[Paper]](https://arxiv.org/pdf/2408.12692)
+    - ***ShapeWords:*** Guiding Text-to-Image Synthesis with 3D Shape-Aware Prompts [[Paper]](https://arxiv.org/pdf/2412.02912) [[Project]](https://lodurality.github.io/shapewords/)
+    - ***SnapGen:*** Taming High-Resolution Text-to-Image Models for Mobile Devices with Efficient Architectures and Training [[Paper]](https://arxiv.org/pdf/2412.09619)
+    - Spatial Transport Optimization by Repositioning Attention Map for Training-Free Text-to-Image Synthesis [[Paper]](https://arxiv.org/pdf/2503.22168)
+    - ***Focus-N-Fix:*** Region-Aware Fine-Tuning for Text-to-Image Generation [[Paper]](https://arxiv.org/pdf/2501.06481)
+    - ***SILMM:*** Self-Improving Large Multimodal Models for Compositional Text-to-Image Generation [[Paper]](https://arxiv.org/pdf/2412.05818)
+    - Localized Concept Erasure for Text-to-Image Diffusion Models Using Training-Free Gated Low-Rank Adaptation [[Paper]](https://arxiv.org/pdf/2503.12356)
+    - Self-Cross Diffusion Guidance for Text-to-Image Synthesis of Similar Subjects [[Paper]](https://arxiv.org/pdf/2411.18936)
+    - Noise Diffusion for Enhancing Semantic Faithfulness in Text-to-Image Synthesis [[Paper]](https://arxiv.org/pdf/2411.16503) [[Code]](https://github.com/Bomingmiao/NoiseDiffusion)
+    - Learning to Sample Effective and Diverse Prompts for Text-to-Image Generation [[Paper]](https://arxiv.org/pdf/2410.07838)
+    - ***STEREO:*** A Two-Stage Framework for Adversarially Robust Concept Erasing from Text-to-Image Diffusion Models [[Paper]](https://arxiv.org/pdf/2408.16807)
+    - Minority-Focused Text-to-Image Generation via Prompt Optimization [[Paper]](https://arxiv.org/pdf/2411.16503) [[Code]](https://github.com/soobin-um/MinorityPrompt)
+    - Scaling Down Text Encoders of Text-to-Image Diffusion Models [[Paper]](https://arxiv.org/pdf/2503.19897) [[Code]](https://github.com/LifuWang-66/DistillT5)
+    - ⚠️ The Illusion of Unlearning: The Unstable Nature of Machine Unlearning in Text-to-Image Diffusion Models [Paper]
+    - ⚠️ Exploring the Deep Fusion of Large Language Models and Diffusion Transformers for Text-to-Image Synthesis [Paper]
+    - ⚠️ Detect-and-Guide: Self-regulation of Diffusion Models for Safe Text-to-Image Generation via Guideline Token Optimization [Paper]
+    - ⚠️ Multi-Group Proportional Representations for Text-to-Image Models [Paper]
+    - ⚠️ ***VODiff:*** Controlling Object Visibility Order in Text-to-Image Generation [Paper]
 - <span id="text-year-2024">**Year 2024**</span>
   - **CVPR**
     - ***DistriFusion:*** Distributed Parallel Inference for High-Resolution Diffusion Models [[Paper]](https://arxiv.org/pdf/2402.19481.pdf) [[Code]](https://github.com/mit-han-lab/distrifuser)
@@ -301,6 +331,9 @@ Recent news of this GitHub repo are listed as follows.
 
 <!-- omit in toc -->
 ## Conditional Text-to-Image Generation
+- <span id="conditional-year-2025">**Year 2025**</span>
+  - **CVPR**
+    - Training-free Dense-Aligned Diffusion Guidance for Modular Conditional Image Synthesis [[Paper]](https://arxiv.org/pdf/2504.01515) [[Code]](https://github.com/ZixuanWang0525/DADG)
 - <span id="conditional-year-2024">**Year 2024**</span>
   - **CVPR**
     - ***PLACE:*** Adaptive Layout-Semantic Fusion for Semantic Image Synthesis [[Paper]](https://arxiv.org/pdf/2403.01852.pdf)
@@ -383,6 +416,10 @@ Recent news of this GitHub repo are listed as follows.
 <!-- omit in toc -->
 ## Personalized Text-to-Image Generation
 - <span id="personalized-year-2025">**Year 2025**</span>
+  - **CVPR**
+    - ***SerialGen:*** Personalized Image Generation by First Standardization Then Personalization [[Paper]](https://arxiv.org/pdf/2412.01485) [[Project]](https://serialgen.github.io/)
+    - ***PatchDPO:*** Patch-level DPO for Finetuning-free Personalized Image Generation [[Paper]](https://arxiv.org/pdf/2412.03177) [[Code]](https://github.com/hqhQAQ/PatchDPO)
+    - ***DreamCache:*** Finetuning-Free Lightweight Personalized Image Generation via Feature Caching [[Paper]](https://arxiv.org/pdf/2411.17786v1)
   - **NeurIPS**
     - ***MS-Diffusion:*** Multi-Subject Zero-Shot Image Personalized with Layout Guidance [[Paper]](https://arxiv.org/pdf/2406.07209) [[Project]](https://ms-diffusion.github.io/) [[Code]](https://github.com/MS-Diffusion/MS-Diffusion)
     - ***ClassDiffusion:*** More Aligned Personalization Tuning with Explicit Class Guidance [[Paper]](https://openreview.net/pdf?id=iTm4H6N4aG) [[Project]](https://classdiffusion.github.io/) [[Code]](https://github.com/Rbrq03/ClassDiffusion)
@@ -443,6 +480,12 @@ Recent news of this GitHub repo are listed as follows.
 
 <!-- omit in toc -->
 ## Text-Guided Image Editing
+- <span id="editing-year-2025">**Year 2025**</span>
+  - **CVPR**
+    - ***FDS:*** Frequency-Aware Denoising Score for Text-Guided Latent Diffusion Image Editing [[Paper]](https://arxiv.org/pdf/2503.19191)
+    - Reference-Based 3D-Aware Image Editing with Triplanes [[Paper]](https://arxiv.org/pdf/2404.03632)
+    - ***MoEdit:*** On Learning Quantity Perception for Multi-object Image Editing [[Paper]](https://arxiv.org/pdf/2503.10112)
+    - ⚠️ FeedEdit: Text-Based Image Editing with Dynamic Feedback Regulation [Paper]
 - <span id="editing-year-2024">**Year 2024**</span>
   - **CVPR**
     - ***InfEdit:*** Inversion-Free Image Editing with Natural Language [[Paper]](https://arxiv.org/pdf/2312.04965.pdf) [[Code]](https://github.com/sled-group/InfEdit) [[Project]](https://sled-group.github.io/InfEdit/)
