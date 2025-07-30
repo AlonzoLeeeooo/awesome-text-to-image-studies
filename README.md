@@ -8,7 +8,7 @@ This GitHub repository summarizes papers and resources related to the text-to-im
 > 
 > [The `topics` section](topics/topics.md) summarizes papers that are highly related to T2I generation according to different properties, e.g., prerequisites of T2I generation, diffusion models with other techniques (e.g., Diffusion Transformer, LLMs, Mamba, etc.), and diffusion models for other tasks. 
 
-If you have any suggestions about this repository, please feel free to [start a new issue](https://github.com/AlonzoLeeeooo/awesome-text-to-image-generation-studies/issues/new) or [pull requests](https://github.com/AlonzoLeeeooo/awesome-text-to-image-generation-studies/pulls).
+If you have any suggestions about this reåpository, please feel free to [start a new issue](https://github.com/AlonzoLeeeooo/awesome-text-to-image-generation-studies/issues/new) or [pull requests](https://github.com/AlonzoLeeeooo/awesome-text-to-image-generation-studies/pulls).
 
 Recent news of this GitHub repo are listed as follows.
 
@@ -31,6 +31,7 @@ Recent news of this GitHub repo are listed as follows.
 - [Papers](#papers)
   - [Survey Papers](#survey-papers)
   - [Text-to-Image Generation](#text-to-image-generation)
+    - [Year 2025](#text-year-2025)
     - [Year 2024](#text-year-2024)
     - [Year 2023](#text-year-2023)
     - [Year 2022](#text-year-2022)
@@ -60,7 +61,7 @@ Recent news of this GitHub repo are listed as follows.
 <!-- omit in toc -->
 # To-Do Lists
 - Published Papers on Conferences
-  - [ ] Update CVPR 2025 Papers
+  - [x] Update CVPR 2025 Papers
   - [x] Update ICLR 2025 Papers
   - [x] Update NeurIPS 2024 Papers
   - [x] Update ECCV 2024 Papers
@@ -157,6 +158,37 @@ Recent news of this GitHub repo are listed as follows.
     - ⚠️ Detect-and-Guide: Self-regulation of Diffusion Models for Safe Text-to-Image Generation via Guideline Token Optimization [Paper]
     - ⚠️ Multi-Group Proportional Representations for Text-to-Image Models [Paper]
     - ⚠️ ***VODiff:*** Controlling Object Visibility Order in Text-to-Image Generation [Paper]
+  - **ICLR**
+    - Improving Long-Text Alignment for Text-to-Image Diffusion Models [[Paper]](https://openreview.net/forum?id=2ZK8zyIt7o)
+    - Information Theoretic Text-to-Image Alignment [[Paper]](https://openreview.net/forum?id=Ugs2W5XFFo)
+    - ***Meissonic:*** Revitalizing Masked Generative Transformers for Efficient High-Resolution Text-to-Image Synthesis [[Paper]](https://openreview.net/forum?id=GJsuYHhAga)
+    - ***PaRa:*** Personalizing Text-to-Image Diffusion via Parameter Rank Reduction [[Paper]](https://openreview.net/forum?id=KZgo2YQbhc)
+    - ***Fluid:*** Scaling Autoregressive Text-to-image Generative Models with Continuous Tokens [[Paper]](https://openreview.net/forum?id=jQP5o1VAVc)
+    - Not All Prompts Are Made Equal: Prompt-based Pruning of Text-to-Image Diffusion Models [[Paper]](https://openreview.net/forum?id=3BhZCfJ73Y)
+    - Denoising Autoregressive Transformers for Scalable Text-to-Image Generation [[Paper]](https://openreview.net/forum?id=amDkNPVWcn)
+    - Progressive Compositionality in Text-to-Image Generative Models [[Paper]](https://openreview.net/forum?id=S85PP4xjFD)
+    - Mining your own secrets: Diffusion Classifier Scores for Continual Personalization of Text-to-Image Diffusion Models [[Paper]](https://openreview.net/forum?id=hUdLs6TqZL)
+    - Measuring And Improving Engagement of Text-to-Image Generation Models [[Paper]](https://openreview.net/forum?id=TmCcNuo03f)
+    - Concept Pinpoint Eraser for Text-to-image Diffusion Models via Residual Attention Gate [[Paper]](https://openreview.net/forum?id=ZRDhBwKs7l)
+    - Enhancing Compositional Text-to-Image Generation with Reliable Random Seeds [[Paper]](https://openreview.net/forum?id=5BSlakturs)
+    - ***One-Prompt-One-Story:*** Free-Lunch Consistent Text-to-Image Generation Using a Single Prompt [[Paper]](https://openreview.net/forum?id=cD1kl2QKv1)
+    - You Only Sample Once: Taming One-Step Text-to-Image Synthesis by Self-Cooperative Diffusion GANs [[Paper]](https://openreview.net/forum?id=T7bmHkwzS6)
+    - Rethinking Artistic Copyright Infringements In the Era Of Text-to-Image Generative Models [[Paper]](https://openreview.net/forum?id=0OTVNEm9N4)
+    - Erasing Concept Combination from Text-to-Image Diffusion Model [[Paper]](https://openreview.net/forum?id=OBjF5I4PWg)
+    - Cross-Attention Head Position Patterns Can Align with Human Visual Concepts in Text-to-Image Generative Models [[Paper]](https://openreview.net/forum?id=1vggIT5vvj)
+    - ***TIGeR:*** Unifying Text-to-Image Generation and Retrieval with Large Multimodal Models [[Paper]](https://openreview.net/forum?id=mr2icR6dpD)
+    - ***DGQ:*** Distribution-Aware Group Quantization for Text-to-Image Diffusion Models [[Paper]](https://openreview.net/forum?id=ZyNEr7Xw5L)
+    - Accelerating Auto-regressive Text-to-Image Generation with Training-free Speculative Jacobi Decoding [[Paper]](https://openreview.net/forum?id=LZfjxvqw0N)
+    - ***PT-T2I/V:*** An Efficient Proxy-Tokenized Diffusion Transformer for Text-to-Image/Video-Task [[Paper]](https://openreview.net/forum?id=lTrrnNdkOX)
+    - Revisiting text-to-image evaluation with Gecko: on metrics, prompts, and human rating [[Paper]](https://openreview.net/forum?id=Im2neAMlre)
+    - ***SANA:*** Efficient High-Resolution Text-to-Image Synthesis with Linear Diffusion Transformers [[Paper]](https://openreview.net/forum?id=N8Oj1XhtYZ)
+    - Text-to-Image Rectified Flow as Plug-and-Play Priors [[Paper]](https://openreview.net/forum?id=SzPZK856iI)
+    - Automated Filtering of Human Feedback Data for Aligning Text-to-Image Diffusion Models [[Paper]](https://openreview.net/forum?id=8jvVNPHtVJ)
+    - ***SAFREE:*** Training-Free and Adaptive Guard for Safe Text-to-Image And Video Generation [[Paper]](https://openreview.net/forum?id=hgTFotBRKl)
+    - ***IterComp:*** Iterative Composition-Aware Feedback Learning from Model Gallery for Text-to-Image Generation [[Paper]](https://openreview.net/forum?id=4w99NAikOE)
+    - ***ScImage:*** How good are multimodal large language models at scientific text-to-image generation? [[Paper]](https://openreview.net/forum?id=ugyqNEOjoU)
+    - Guided Score identity Distillation for Data-Free One-Step Text-to-Image Generation [[Paper]](https://openreview.net/forum?id=HMVDiaWMwM)
+    - Evaluating Semantic Variation in Text-to-Image Synthesis: A Causal Perspective [[Paper]](https://openreview.net/forum?id=NWb128pSCb)
 - <span id="text-year-2024">**Year 2024**</span>
   - **CVPR**
     - ***DistriFusion:*** Distributed Parallel Inference for High-Resolution Diffusion Models [[Paper]](https://arxiv.org/pdf/2402.19481.pdf) [[Code]](https://github.com/mit-han-lab/distrifuser)
@@ -386,6 +418,8 @@ Recent news of this GitHub repo are listed as follows.
     - ***ReCo:*** Region-Controlled Text-to-Image Generation [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_ReCo_Region-Controlled_Text-to-Image_Generation_CVPR_2023_paper.pdf) [[Code]](https://github.com/microsoft/ReCo)
     - ***LayoutDiffusion:*** Controllable Diffusion Model for
     Layout-to-image Generation [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Zheng_LayoutDiffusion_Controllable_Diffusion_Model_for_Layout-to-Image_Generation_CVPR_2023_paper.pdf) [[Code]](https://github.com/ZGCTroy/LayoutDiffusion)
+  - **ICLR**
+    - ***Ctrl-U:*** Robust Conditional Image Generation via Uncertainty-aware Reward Modeling [[Paper]](https://openreview.net/forum?id=eC2ICbECNM) [[Project]](https://grenoble-zhang.github.io/Ctrl-U-Page/) [[Code]](https://github.com/grenoble-zhang/Ctrl-U)
   - **ICCV**
     - ***ControlNet:*** Adding Conditional Control to Text-to-Image Diffusion Models [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_Adding_Conditional_Control_to_Text-to-Image_Diffusion_Models_ICCV_2023_paper.pdf) [[Code]](https://github.com/lllyasviel/ControlNet)
     - ***SceneGenie:*** Scene Graph Guided Diffusion Models for Image Synthesis [[Paper]](https://openaccess.thecvf.com/content/ICCV2023W/SG2RL/papers/Farshad_SceneGenie_Scene_Graph_Guided_Diffusion_Models_for_Image_Synthesis_ICCVW_2023_paper.pdf) [[Code]](https://openaccess.thecvf.com/content/ICCV2023W/SG2RL/papers/Farshad_SceneGenie_Scene_Graph_Guided_Diffusion_Models_for_Image_Synthesis_ICCVW_2023_paper.pdf)
@@ -486,6 +520,15 @@ Recent news of this GitHub repo are listed as follows.
     - Reference-Based 3D-Aware Image Editing with Triplanes [[Paper]](https://arxiv.org/pdf/2404.03632)
     - ***MoEdit:*** On Learning Quantity Perception for Multi-object Image Editing [[Paper]](https://arxiv.org/pdf/2503.10112)
     - ⚠️ FeedEdit: Text-Based Image Editing with Dynamic Feedback Regulation [Paper]
+  - **ICLR**
+    - Lightning-Fast Image Inversion and Editing for Text-to-Image Diffusion Models [[Paper]](https://openreview.net/forum?id=t9l63huPRt)
+    - Multi-Reward as Condition for Instruction-based Image Editing [[Paper]](https://openreview.net/forum?id=9RFocgIccP) [[Code]](https://github.com/bytedance/Multi-Reward-Editing)
+    - ***HQ-Edit:*** A High-Quality Dataset for Instruction-based Image Editing [[Paper]](https://openreview.net/forum?id=mZptYYttFj) [[Dataset]](https://huggingface.co/datasets/UCSC-VLAA/HQ-Edit) [[Code]](https://github.com/UCSC-VLAA/HQ-Edit)
+    - ***CLIPDrag:*** Combining Text-based and Drag-based Instructions for Image Editing [[Paper]](https://openreview.net/forum?id=2HjRezQ1nj) [[Code]](https://github.com/HKUST-LongGroup/CLIPDrag)
+    - Semantic Image Inversion and Editing using Rectified Stochastic Differential Equations [[Paper]](https://openreview.net/forum?id=Hu0FSOSEyS) [[Project]](https://rf-inversion.github.io/) [[Code]](https://github.com/LituRout/RF-Inversion)
+    - ***PostEdit:*** Posterior Sampling for Efficient Zero-Shot Image Editing [[Paper]](https://openreview.net/forum?id=J8YWCBPgx7) [[Code]](https://github.com/TFNTF/PostEdit)
+    - ***OmniEdit:*** Building Image Editing Generalist Models Through Specialist Supervision [[Paper]](https://openreview.net/forum?id=Hlm0cga0sv) [[Project]](https://tiger-ai-lab.github.io/OmniEdit/) [[Code]](https://github.com/TIGER-AI-Lab/OmniEdit) [[Dataset]](https://huggingface.co/datasets/TIGER-Lab/OmniEdit-Filtered-1.2M)
+
 - <span id="editing-year-2024">**Year 2024**</span>
   - **CVPR**
     - ***InfEdit:*** Inversion-Free Image Editing with Natural Language [[Paper]](https://arxiv.org/pdf/2312.04965.pdf) [[Code]](https://github.com/sled-group/InfEdit) [[Project]](https://sled-group.github.io/InfEdit/)
