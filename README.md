@@ -56,11 +56,13 @@ Recent news of this GitHub repo are listed as follows.
 - [Q&A](#qa)
 - [References](#references)
 - [Star History](#star-history)
-
+- [WeChat Group](#wechat-group)
 
 <!-- omit in toc -->
 # To-Do Lists
 - Published Papers on Conferences
+  - [ ] Update NeurIPS 2025 Papers
+  - [x] Update ICCV 2025 Papers
   - [x] Update CVPR 2025 Papers
   - [x] Update ICLR 2025 Papers
   - [x] Update NeurIPS 2024 Papers
@@ -678,5 +680,16 @@ If you have other demands of reference formats, you may refer to the original re
         <img width="500" src="https://api.star-history.com/svg?repos=AlonzoLeeeooo/awesome-text-to-image-studies&type=Date" alt="Star History Chart">
     </a>
 <p>
+
+[<u><small><🎯Back to Top></small></u>](#contents)
+
+<!-- omit in toc -->
+# WeChat Group
+
+<div align="center">
+  <a href="YOUR_OFFICIAL_WEBSITE_URL">
+    <img src="github-materials/group.png" alt="group">
+  </a>
+</div>
 
 [<u><small><🎯Back to Top></small></u>](#contents)
