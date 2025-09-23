@@ -38,6 +38,7 @@ Recent news of this GitHub repo are listed as follows.
     - [Year 2021](#text-year-2021)
     - [Year 2020](#text-year-2020)
   - [Conditional Text-to-Image Generation](#conditional-text-to-image-generation)
+    - [Year 2025](#conditional-year-2025)
     - [Year 2024](#conditional-year-2024)
     - [Year 2023](#conditional-year-2023)
     - [Year 2022](#conditional-year-2022)
@@ -46,6 +47,7 @@ Recent news of this GitHub repo are listed as follows.
     - [Year 2024](#personalized-year-2024)
     - [Year 2023](#personalized-year-2023)
   - [Text-Guided Image Editing](#text-guided-image-editing) 
+    - [Year 2025](#editing-year-2025)
     - [Year 2024](#editing-year-2024)
     - [Year 2023](#editing-year-2023)
     - [Year 2022](#editing-year-2022)
@@ -368,6 +370,17 @@ Recent news of this GitHub repo are listed as follows.
 - <span id="conditional-year-2025">**Year 2025**</span>
   - **CVPR**
     - Training-free Dense-Aligned Diffusion Guidance for Modular Conditional Image Synthesis [[Paper]](https://arxiv.org/pdf/2504.01515) [[Code]](https://github.com/ZixuanWang0525/DADG)
+  - **ICCV**
+    - ***UNO:*** A Universal Customization Method for Both Single and Multi‑Subject Conditioning [[Paper]](https://arxiv.org/abs/2504.02160) [[Project]](https://bytedance.github.io/UNO) [[Code]](https://github.com/bytedance/UNO)
+    - ***CoMPaSS:*** Enhancing Spatial Understanding in Text‑to‑Image Diffusion Models [[Paper]](https://arxiv.org/abs/2412.13195) [[Project]](https://compass.blurgy.xyz) [[Code]](https://github.com/blurgyy/CoMPaSS)
+    - ***SP‑Ctrl:*** Rethink Sparse Signals for Pose‑Guided Text‑to‑Image Generation [[Paper]](https://arxiv.org/abs/2506.20983) [[Code]](https://github.com/DREAMXFAR/SP-Ctrl)
+    - ***CompCon:*** Discovering Divergent Representations Between Text‑to‑Image Models [[Paper]](https://arxiv.org/abs/2509.08940) [[Code]](https://github.com/adobe-research/CompCon)
+    - ***C2OT:*** The Curse of Conditions: Analyzing and Improving Optimal Transport for Conditional Flow‑Based Generation [[Paper]](https://arxiv.org/abs/2503.10636) [[Project]](https://hkchengrex.com/C2OT) [[Code]](https://github.com/hkchengrex/C2OT)
+    - ***RAG‑Diffusion:*** Region‑Aware Text‑to‑Image Generation via Hard Binding and Soft Refinement [[Paper]](https://arxiv.org/abs/2411.06558) [[Project]](https://huggingface.co/spaces/NJU/RAG-Diffusion) [[Code]](https://github.com/NJU-PCALab/RAG-Diffusion)
+    - ***CharaConsist:*** Fine‑Grained Consistent Character Generation [[Paper]](https://arxiv.org/abs/2507.11533) [[Project]](https://murray-wang.github.io/CharaConsist) [[Code]](https://github.com/Murray-Wang/CharaConsist)
+    - ***Shadow Director:*** Parametric Shadow Control for Portrait Generation in Text‑to‑Image Diffusion Models [[Paper]](https://arxiv.org/abs/2503.21943) [[Project]](https://hm-cai.com/ShadowDirector)
+    - ***ImageGen‑CoT:*** Enhancing Text‑to‑Image In‑Context Learning with Chain‑of‑Thought Reasoning [[Paper]](https://arxiv.org/abs/2503.19312) [[Project]](https://imagegen-cot.github.io)
+
 - <span id="conditional-year-2024">**Year 2024**</span>
   - **CVPR**
     - ***PLACE:*** Adaptive Layout-Semantic Fusion for Semantic Image Synthesis [[Paper]](https://arxiv.org/pdf/2403.01852.pdf)
@@ -456,6 +469,17 @@ Recent news of this GitHub repo are listed as follows.
     - ***SerialGen:*** Personalized Image Generation by First Standardization Then Personalization [[Paper]](https://arxiv.org/pdf/2412.01485) [[Project]](https://serialgen.github.io/)
     - ***PatchDPO:*** Patch-level DPO for Finetuning-free Personalized Image Generation [[Paper]](https://arxiv.org/pdf/2412.03177) [[Code]](https://github.com/hqhQAQ/PatchDPO)
     - ***DreamCache:*** Finetuning-Free Lightweight Personalized Image Generation via Feature Caching [[Paper]](https://arxiv.org/pdf/2411.17786v1)
+  - **ICCV**
+    - ***DrUM:*** Draw Your Mind: Personalized Generation via Condition‑Level Modeling in Text‑to‑Image Diffusion Models [[Paper]](https://arxiv.org/abs/2508.03481) [[Code]](https://github.com/Burf/DrUM)
+    - ***PersonaCraft:*** Personalized and Controllable Full‑Body Multi‑Human Scene Generation Using Occlusion‑Aware 3D‑Conditioned Diffusion [[Paper]](https://arxiv.org/abs/2411.18068) [[Project]](https://gwang-kim.github.io/persona_craft/) [[Code]](https://github.com/gwang-kim/PersonaCraft)
+    - ***Steering Guidance:*** Steering Guidance for Personalized Text‑to‑Image Diffusion Models [[Paper]](https://arxiv.org/abs/2508.00319)
+    - ***FreeCus:*** FreeCus: Free Lunch Subject‑Driven Customization in Diffusion Transformers [[Paper]](https://arxiv.org/abs/2507.15249) [[Code]](https://github.com/Monalissaa/FreeCus)
+    - ***PromptDresser:*** Improving the Quality and Controllability of Virtual Try‑On via Generative Textual Prompt and Prompt‑aware Mask [[Paper]](https://arxiv.org/abs/2412.16978) [[Code]](https://github.com/rlawjdghek/PromptDresser)
+    - ***DynamicID:*** Zero‑Shot Multi‑ID Image Personalization with Flexible Facial Editability [[Paper]](https://arxiv.org/abs/2503.06505) [[Code]](https://github.com/ByteCat-bot/DynamicID)
+    - ***UniversalBooth:*** Model‑Agnostic Personalized Text‑to‑Image Generation
+    - ***ARBooth:*** Fine‑Tuning Visual Autoregressive Models for Subject‑Driven Generation [[Paper]](https://arxiv.org/abs/2504.02612) [[Project]](https://jiwoogit.github.io/ARBooth/) [[Code]](https://github.com/jiwoogit/ARBooth)
+    - ⚠️ ***ConceptSplit:*** Decoupled Multi‑Concept Personalization of Diffusion Models via Token‑wise Adaptation and Attention Disentanglement [[Code]](https://github.com/KU-VGI/ConceptSplit)
+    - ⚠️ ***ObjectMate:*** A Recurrence Prior for Object Insertion and Subject‑Driven Generation [[Project]](https://object-mate.com)
   - **NeurIPS**
     - ***MS-Diffusion:*** Multi-Subject Zero-Shot Image Personalized with Layout Guidance [[Paper]](https://arxiv.org/pdf/2406.07209) [[Project]](https://ms-diffusion.github.io/) [[Code]](https://github.com/MS-Diffusion/MS-Diffusion)
     - ***ClassDiffusion:*** More Aligned Personalization Tuning with Explicit Class Guidance [[Paper]](https://openreview.net/pdf?id=iTm4H6N4aG) [[Project]](https://classdiffusion.github.io/) [[Code]](https://github.com/Rbrq03/ClassDiffusion)
@@ -551,6 +575,16 @@ Recent news of this GitHub repo are listed as follows.
     - Referring Image Editing: Object-level Image Editing via Referring Expressions [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Referring_Image_Editing_Object-level_Image_Editing_via_Referring_Expressions_CVPR_2024_paper.pdf)
     - Prompt Augmentation for Self-supervised Text-guided Image Manipulation [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Bodur_Prompt_Augmentation_for_Self-supervised_Text-guided_Image_Manipulation_CVPR_2024_paper.pdf)
     - The Devil is in the Details: StyleFeatureEditor for Detail-Rich StyleGAN Inversion and High Quality Image Editing [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Bobkov_The_Devil_is_in_the_Details_StyleFeatureEditor_for_Detail-Rich_StyleGAN_CVPR_2024_paper.pdf) [[Code]](https://github.com/AIRI-Institute/StyleFeatureEditor)
+  - **ICCV**
+    - ***In-Context Edit:*** Enabling Instructional Image Editing with In-Context Generation in Large Scale Diffusion Transformer [[Paper]](https://arxiv.org/abs/2504.20690) [[Project]](https://river-zhang.github.io/ICEdit-gh-pages/) [[Code]](https://github.com/River-Zhang/ICEdit?tab=readme-ov-file)
+    - ***Dual‑Conditional Inversion:*** for Boosting Diffusion‑Based Image Editing [[Paper]](https://arxiv.org/abs/2506.02560)
+    - ***CAMILA:*** Context‑Aware Masking for Image Editing with Language Alignment [[Paper]](https://neurips.cc/virtual/2025/poster/119101)
+    - ***EditInfinity:*** Image Editing with Binary‑Quantized Generative Models [[Paper]](https://neurips.cc/virtual/2025/poster/115392)
+    - ***KRIS‑Bench:*** Benchmarking Knowledge‑Based Reasoning in Image Editing Systems [[Paper]](https://arxiv.org/abs/2505.16707) [[Project]](https://yongliang-wu.github.io/kris_bench_project_page/) [[Code]](https://github.com/mercurystraw/Kris_Bench)
+    - ***LoongX:*** Neural-Driven Image Editing [[Paper]](https://arxiv.org/abs/2507.05397) [[Project]](https://loongx1.github.io) [[Code]](https://github.com/LanceZPF/loongx)
+    - ***CREA:*** CREA: A Collaborative Multi‑Agent Framework for Creative Image Editing and Generation [[Paper]](https://arxiv.org/abs/2504.05306) [[Project]](https://crea-diffusion.github.io)
+    - ***IEAP:*** Image Editing As Programs with Diffusion Models [[Paper]](https://arxiv.org/abs/2506.04158) [[Project]](https://yujiahu1109.github.io/IEAP/) [[Code]](https://github.com/YujiaHu1109/IEAP)
+
   - **ECCV**
     - ***RegionDrag:*** Fast Region-Based Image Editing with Diffusion Models [[Paper]](http://arxiv.org/pdf/2407.18247v1) [[Code]](https://github.com/Visual-AI/RegionDrag) [[Project]](https://visual-ai.github.io/regiondrag/) [[Demo]](https://colab.research.google.com/drive/1pnq9t_1zZ8yL_Oba20eBLVZLp3glniBR?usp=sharing)
     - ***TurboEdit:*** Instant text-based image editing [[Paper]](https://arxiv.org/pdf/2408.08332v1) [[Project]](https://betterze.github.io/TurboEdit/)
