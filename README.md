@@ -546,6 +546,15 @@ Recent news of this GitHub repo are listed as follows.
     - Reference-Based 3D-Aware Image Editing with Triplanes [[Paper]](https://arxiv.org/pdf/2404.03632)
     - ***MoEdit:*** On Learning Quantity Perception for Multi-object Image Editing [[Paper]](https://arxiv.org/pdf/2503.10112)
     - ⚠️ FeedEdit: Text-Based Image Editing with Dynamic Feedback Regulation [Paper]
+  - **ICCV**
+    - ***In-Context Edit:*** Enabling Instructional Image Editing with In-Context Generation in Large Scale Diffusion Transformer [[Paper]](https://arxiv.org/abs/2504.20690) [[Project]](https://river-zhang.github.io/ICEdit-gh-pages/) [[Code]](https://github.com/River-Zhang/ICEdit?tab=readme-ov-file)
+    - ***Dual‑Conditional Inversion:*** for Boosting Diffusion‑Based Image Editing [[Paper]](https://arxiv.org/abs/2506.02560)
+    - ***CAMILA:*** Context‑Aware Masking for Image Editing with Language Alignment [[Paper]](https://neurips.cc/virtual/2025/poster/119101)
+    - ***EditInfinity:*** Image Editing with Binary‑Quantized Generative Models [[Paper]](https://neurips.cc/virtual/2025/poster/115392)
+    - ***KRIS‑Bench:*** Benchmarking Knowledge‑Based Reasoning in Image Editing Systems [[Paper]](https://arxiv.org/abs/2505.16707) [[Project]](https://yongliang-wu.github.io/kris_bench_project_page/) [[Code]](https://github.com/mercurystraw/Kris_Bench)
+    - ***LoongX:*** Neural-Driven Image Editing [[Paper]](https://arxiv.org/abs/2507.05397) [[Project]](https://loongx1.github.io) [[Code]](https://github.com/LanceZPF/loongx)
+    - ***CREA:*** CREA: A Collaborative Multi‑Agent Framework for Creative Image Editing and Generation [[Paper]](https://arxiv.org/abs/2504.05306) [[Project]](https://crea-diffusion.github.io)
+    - ***IEAP:*** Image Editing As Programs with Diffusion Models [[Paper]](https://arxiv.org/abs/2506.04158) [[Project]](https://yujiahu1109.github.io/IEAP/) [[Code]](https://github.com/YujiaHu1109/IEAP)
   - **ICLR**
     - Lightning-Fast Image Inversion and Editing for Text-to-Image Diffusion Models [[Paper]](https://openreview.net/forum?id=t9l63huPRt)
     - Multi-Reward as Condition for Instruction-based Image Editing [[Paper]](https://openreview.net/forum?id=9RFocgIccP) [[Code]](https://github.com/bytedance/Multi-Reward-Editing)
@@ -575,15 +584,7 @@ Recent news of this GitHub repo are listed as follows.
     - Referring Image Editing: Object-level Image Editing via Referring Expressions [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Referring_Image_Editing_Object-level_Image_Editing_via_Referring_Expressions_CVPR_2024_paper.pdf)
     - Prompt Augmentation for Self-supervised Text-guided Image Manipulation [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Bodur_Prompt_Augmentation_for_Self-supervised_Text-guided_Image_Manipulation_CVPR_2024_paper.pdf)
     - The Devil is in the Details: StyleFeatureEditor for Detail-Rich StyleGAN Inversion and High Quality Image Editing [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Bobkov_The_Devil_is_in_the_Details_StyleFeatureEditor_for_Detail-Rich_StyleGAN_CVPR_2024_paper.pdf) [[Code]](https://github.com/AIRI-Institute/StyleFeatureEditor)
-  - **ICCV**
-    - ***In-Context Edit:*** Enabling Instructional Image Editing with In-Context Generation in Large Scale Diffusion Transformer [[Paper]](https://arxiv.org/abs/2504.20690) [[Project]](https://river-zhang.github.io/ICEdit-gh-pages/) [[Code]](https://github.com/River-Zhang/ICEdit?tab=readme-ov-file)
-    - ***Dual‑Conditional Inversion:*** for Boosting Diffusion‑Based Image Editing [[Paper]](https://arxiv.org/abs/2506.02560)
-    - ***CAMILA:*** Context‑Aware Masking for Image Editing with Language Alignment [[Paper]](https://neurips.cc/virtual/2025/poster/119101)
-    - ***EditInfinity:*** Image Editing with Binary‑Quantized Generative Models [[Paper]](https://neurips.cc/virtual/2025/poster/115392)
-    - ***KRIS‑Bench:*** Benchmarking Knowledge‑Based Reasoning in Image Editing Systems [[Paper]](https://arxiv.org/abs/2505.16707) [[Project]](https://yongliang-wu.github.io/kris_bench_project_page/) [[Code]](https://github.com/mercurystraw/Kris_Bench)
-    - ***LoongX:*** Neural-Driven Image Editing [[Paper]](https://arxiv.org/abs/2507.05397) [[Project]](https://loongx1.github.io) [[Code]](https://github.com/LanceZPF/loongx)
-    - ***CREA:*** CREA: A Collaborative Multi‑Agent Framework for Creative Image Editing and Generation [[Paper]](https://arxiv.org/abs/2504.05306) [[Project]](https://crea-diffusion.github.io)
-    - ***IEAP:*** Image Editing As Programs with Diffusion Models [[Paper]](https://arxiv.org/abs/2506.04158) [[Project]](https://yujiahu1109.github.io/IEAP/) [[Code]](https://github.com/YujiaHu1109/IEAP)
+  
 
   - **ECCV**
     - ***RegionDrag:*** Fast Region-Based Image Editing with Diffusion Models [[Paper]](http://arxiv.org/pdf/2407.18247v1) [[Code]](https://github.com/Visual-AI/RegionDrag) [[Project]](https://visual-ai.github.io/regiondrag/) [[Demo]](https://colab.research.google.com/drive/1pnq9t_1zZ8yL_Oba20eBLVZLp3glniBR?usp=sharing)
