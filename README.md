@@ -86,6 +86,7 @@ Recent news of this GitHub repo are listed as follows.
 # Products
 |Name|Year|Website|Specialties|
 |-|-|-|-|
+|Fast Image AI|2025|[link](https://fastimage.ai/)|Fast Image AI instantly transforms your photos into stunning styles like Ghibli, Sketch, and Pixar. Effortlessly control image elements and create amazing effects with just one click.|
 |Stable Diffusion 3|2024|[link](https://stability.ai/news/stable-diffusion-3)|Diffusion Transformer-based Stable Diffusion|
 |Stable Video|2024|[link](https://www.stablevideo.com/)|High-quality high-resolution images|
 |DALL-E 3|2023|[link](https://openai.com/dall-e-3)|Collaborate with [ChatGPT](https://chat.openai.com/)|
