@@ -88,6 +88,7 @@ Recent news of this GitHub repo are listed as follows.
 # Products
 |Name|Year|Website|Specialties|
 |-|-|-|-|
+|Nano Image Art|2025|[link](https://nanoimage.art/)|Create stunning AI images — powered by Google's Nano Banana Pro for next-gen quality, smart editing, and intelligent prompts.|
 |Fast Image AI|2025|[link](https://fastimage.ai/)|Fast Image AI instantly transforms your photos into stunning styles like Ghibli, Sketch, and Pixar. Effortlessly control image elements and create amazing effects with just one click.|
 |Gempix2 (Nano Banana 2)|2025|[link](https://gempix2.site)|Free AI image generation platform with text-to-image, AI editing, and video generation support|
 |Stable Diffusion 3|2024|[link](https://stability.ai/news/stable-diffusion-3)|Diffusion Transformer-based Stable Diffusion|
