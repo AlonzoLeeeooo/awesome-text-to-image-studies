@@ -144,6 +144,7 @@ Recent news of this GitHub repo are listed as follows.
     - ***Compass Control:*** Multi Object Orientation Control for Text-to-Image Generation [[Paper]](https://arxiv.org/pdf/2504.06752)
     - ***Generative Photography:*** Scene-Consistent Camera Control for Realistic Text-to-Image Synthesis [[Paper]](https://arxiv.org/pdf/2412.02168) [[Project]](https://generative-photography.github.io/project/) [[Code]](https://github.com/pandayuanyu/generative-photography)
     -  ***One-Way Ticket:*** Time-Independent Unified Encoder for Distilling Text-to-Image Diffusion Models [[Paper]](https://cvpr.thecvf.com/virtual/2025/poster/32579) [[Code]](https://github.com/sen-mao/Loopfree)
+    -  ***Build a Text-to-Image Generator (from Scratch):*** Build your own vision transformer and diffusion models for text-to-image generation–from scratch! [[Paid book]](https://www.manning.com/books/build-a-text-to-image-generator-from-scratch) 
     - Text Embedding is Not All You Need: Attention Control for Text-to-Image Semantic Alignment with Text Self-Attention Maps [[Paper]](https://arxiv.org/pdf/2411.15236)
     - Towards Understanding and Quantifying Uncertainty for Text-to-Image Generation [[Paper]](https://arxiv.org/pdf/2412.03178)
     - Plug-and-Play Interpretable Responsible Text-to-Image Generation via Dual-Space Multi-facet Concept Control [[Paper]](https://arxiv.org/pdf/2503.18324) [[Project]](https://basim-azam.github.io/responsiblediffusion/) [[Code]](https://github.com/basim-azam/responsiblediffusion)
