@@ -671,6 +671,7 @@ Recent news of this GitHub repo are listed as follows.
 |Stable Diffusion WebUI-forge|[link](https://github.com/lllyasviel/stable-diffusion-webui-forge)|Built based on Gradio, deployed locally to run Stable Diffusion checkpoints, LoRA weights, ControlNet weights, etc.|
 |Fooocus|[link](https://github.com/lllyasviel/Fooocus)|Built based on Gradio, offline, open source, and free.  <br />The manual tweaking is not needed, and users only need to focus on the prompts and images.|
 |ComfyUI|[link](https://github.com/comfyanonymous/ComfyUI)|Deployed locally to enable customized workflows with Stable Diffusion|
+|TWZRD Agent Intel|[link](https://intel.twzrd.xyz)|Trust scoring for AI agents on Solana. Verify agent wallet identity before x402 micropayments. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`|
 |Civitai|[link](https://civitai.com/)|Websites for community Stable Diffusion and LoRA checkpoints|
 
 [<u><small><🎯Back to Top></small></u>](#contents)
