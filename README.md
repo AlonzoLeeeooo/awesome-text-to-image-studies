@@ -88,6 +88,7 @@ Recent news of this GitHub repo are listed as follows.
 # Products
 |Name|Year|Website|Specialties|
 |-|-|-|-|
+|ImageBench|2026|[link](https://imagebench.ai/)|Benchmark and comparison site for text-to-image models with side-by-side outputs, pass-rate summaries, and methodology pages.|
 |AI Art Generator|2025|[link](https://aiart-generator.art/)|AI art generation platform with resolution presets, style transfer, upscaling, and video creation.|
 |Nano Image Art|2025|[link](https://nanoimage.art/)|Create stunning AI images — powered by Google's Nano Banana Pro for next-gen quality, smart editing, and intelligent prompts.|
 |Fast Image AI|2025|[link](https://fastimage.ai/)|Fast Image AI instantly transforms your photos into stunning styles like Ghibli, Sketch, and Pixar. Effortlessly control image elements and create amazing effects with just one click.|
