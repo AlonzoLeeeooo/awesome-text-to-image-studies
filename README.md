@@ -169,6 +169,8 @@ Recent news of this GitHub repo are listed as follows.
     - ⚠️ Detect-and-Guide: Self-regulation of Diffusion Models for Safe Text-to-Image Generation via Guideline Token Optimization [Paper]
     - ⚠️ Multi-Group Proportional Representations for Text-to-Image Models [Paper]
     - ⚠️ ***VODiff:*** Controlling Object Visibility Order in Text-to-Image Generation [Paper]
+  - **NeurIPS**
+    - Rectified-CFG++ for Flow Based Models [[Paper]](https://arxiv.org/abs/2510.07631) [[Code]](https://github.com/shreshthsaini/Rectified-CFGpp)
   - **ICLR**
     - Improving Long-Text Alignment for Text-to-Image Diffusion Models [[Paper]](https://openreview.net/forum?id=2ZK8zyIt7o)
     - Information Theoretic Text-to-Image Alignment [[Paper]](https://openreview.net/forum?id=Ugs2W5XFFo)
