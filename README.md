@@ -86,6 +86,7 @@ Recent news of this GitHub repo are listed as follows.
 
 <!-- omit in toc -->
 # Products
+- [Raphael AI](https://raphael.app) - Free unlimited AI image generator (text-to-image, no signup).
 |Name|Year|Website|Specialties|
 |-|-|-|-|
 |AI Art Generator|2025|[link](https://aiart-generator.art/)|AI art generation platform with resolution presets, style transfer, upscaling, and video creation.|
