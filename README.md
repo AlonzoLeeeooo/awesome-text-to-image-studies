@@ -204,6 +204,33 @@ Recent news of this GitHub repo are listed as follows.
     - ***ScImage:*** How good are multimodal large language models at scientific text-to-image generation? [[Paper]](https://openreview.net/forum?id=ugyqNEOjoU)
     - Guided Score identity Distillation for Data-Free One-Step Text-to-Image Generation [[Paper]](https://openreview.net/forum?id=HMVDiaWMwM)
     - Evaluating Semantic Variation in Text-to-Image Synthesis: A Causal Perspective [[Paper]](https://openreview.net/forum?id=NWb128pSCb)
+  - **AAAI**
+    - ***AGFSync:*** Leveraging AI-Generated Feedback for Preference Optimization in Text-to-Image Generation [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32168)
+    - ***Adaptive Guidance:*** Training-free Acceleration of Conditional Diffusion Models [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32192)
+    - Self-Corrected Flow Distillation for Consistent One-Step and Few-Step Image Generation [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32269)
+    - ***DuMo:*** Dual Encoder Modulation Network for Precise Concept Erasure [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32343)
+    - ***DiffuseHigh:*** Training-Free Progressive High-Resolution Image Synthesis Through Structure Guidance [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32456)
+    - ***SCott:*** Accelerating Diffusion Models with Stochastic Consistency Distillation [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32580)
+    - ***LLM4GEN:*** Leveraging Semantic Representation of LLMs for Text-to-Image Generation [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32588)
+    - ***Bridge Diffusion Model:*** Bridge Chinese Text-to-Image Diffusion Model with English Communities [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32590)
+    - ***Storynizor:*** Consistent Story Generation via Inter-Frame Synchronized and Shuffled ID Injection [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32644)
+    - ***Image Regeneration:*** Evaluating Text-to-Image Model via Generating Identical Image with Multimodal Large Language Models [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32651)
+    - ***Qua2SeDiMo:*** Quantifiable Quantization Sensitivity of Diffusion Models [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32658)
+    - Boosting Consistency in Story Visualization with Rich-Contextual Conditional Diffusion Models [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32728)
+    - ***ResMaster:*** Mastering High-Resolution Image Generation via Structural and Fine-Grained Guidance [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32739)
+    - Guided and Variance-Corrected Fusion with One-shot Style Alignment for Large-Content Image Generation [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32764)
+    - Unlearning Concepts in Diffusion Model via Concept Domain Correction and Concept Preserving Gradient [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32917)
+    - ***FreqTS:*** Frequency-Aware Token Selection for Accelerating Diffusion Models [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33008)
+    - Training-Free and Hardware-Friendly Acceleration for Diffusion Models via Similarity-based Token Pruning [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33071)
+    - ***Hand1000:*** Generating Realistic Hands from Text with Only 1,000 Images [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33074)
+    - ***AdaDiff:*** Adaptive Step Selection for Fast Diffusion Models [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33075)
+    - ***StoryWeaver:*** A Unified World Model for Knowledge-Enhanced Story Character Customization [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33079)
+    - ***ContextualStory:*** Consistent Visual Storytelling with Spatially-Enhanced and Storyline Context [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33153)
+    - ***Flash Diffusion:*** Accelerating Any Conditional Diffusion Model for Few Steps Image Generation [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33722)
+    - ***DiffExp:*** Efficient Exploration in Reward Fine-tuning for Text-to-Image Diffusion Models [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33723)
+    - ***MARS:*** Mixture of Auto-Regressive Models for Fine-grained Text-to-image Synthesis [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33882)
+    - Fair Text-to-Image Diffusion via Fair Mapping [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/34823)
+    - Evaluating Image Hallucination in Text-to-Image Generation with Question-Answering [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/34827)
 - <span id="text-year-2024">**Year 2024**</span>
   - **CVPR**
     - ***DistriFusion:*** Distributed Parallel Inference for High-Resolution Diffusion Models [[Paper]](https://arxiv.org/pdf/2402.19481.pdf) [[Code]](https://github.com/mit-han-lab/distrifuser)
@@ -391,6 +418,15 @@ Recent news of this GitHub repo are listed as follows.
     - ***CharaConsist:*** Fine‑Grained Consistent Character Generation [[Paper]](https://arxiv.org/abs/2507.11533) [[Project]](https://murray-wang.github.io/CharaConsist) [[Code]](https://github.com/Murray-Wang/CharaConsist)
     - ***Shadow Director:*** Parametric Shadow Control for Portrait Generation in Text‑to‑Image Diffusion Models [[Paper]](https://arxiv.org/abs/2503.21943) [[Project]](https://hm-cai.com/ShadowDirector)
     - ***ImageGen‑CoT:*** Enhancing Text‑to‑Image In‑Context Learning with Chain‑of‑Thought Reasoning [[Paper]](https://arxiv.org/abs/2503.19312) [[Project]](https://imagegen-cot.github.io)
+  - **AAAI**
+    - ***VersaGen:*** Unleashing Versatile Visual Control for Text-to-Image Synthesis [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32240)
+    - ***Muses:*** 3D-Controllable Image Generation via Multi-Modal Agent Collaboration [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32280)
+    - Simplifying Control Mechanism in Text-to-Image Diffusion Models [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32309)
+    - Scene Graph-Grounded Image Generation [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32823)
+    - ***EMControl:*** Adding Conditional Control to Text-to-Image Diffusion Models via Expectation-Maximization [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32828)
+    - ***GRPose:*** Learning Graph Relations for Human Image Generation with Pose Priors [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33032)
+    - Local Conditional Controlling for Text-to-Image Diffusion Models [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33139)
+    - ***DialogDraw:*** Image Generation and Editing System Based on Multi-Turn Dialogue [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/34661)
 
 - <span id="conditional-year-2024">**Year 2024**</span>
   - **CVPR**
@@ -496,6 +532,18 @@ Recent news of this GitHub repo are listed as follows.
     - ***ClassDiffusion:*** More Aligned Personalization Tuning with Explicit Class Guidance [[Paper]](https://openreview.net/pdf?id=iTm4H6N4aG) [[Project]](https://classdiffusion.github.io/) [[Code]](https://github.com/Rbrq03/ClassDiffusion)
     - ***DreamBench++:*** A Human-Aligned Benchmark for Personalized Image Generation [[Paper]](https://arxiv.org/pdf/2406.16855) [[Project]](https://dreambenchplus.github.io/)
     - ***TweedieMix:*** Improving Multi-Concept Fusion for Diffusion-based Image/Video Generation [[Paper]](https://arxiv.org/pdf/2410.05591) [[Code]](https://github.com/KwonGihyun/TweedieMix)
+  - **AAAI**
+    - ***CustomContrast:*** A Multilevel Contrastive Perspective for Subject-Driven Text-to-Image Customization [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32210)
+    - ***DynASyn:*** Multi-Subject Personalization Enabling Dynamic Action Synthesis [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32259)
+    - ***Dis²Booth:*** Learning Image Distribution with Disentangled Features for Text-to-Image Diffusion Models [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32279)
+    - Resolving Multi-Condition Confusion for Finetuning-Free Personalized Image Generation [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32386)
+    - ***PersonaMagic:*** Stage-Regulated High-Fidelity Face Customization with Tandem Equilibrium [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32529)
+    - ***RealisID:*** Scale-Robust and Fine-Controllable Identity Customization via Local and Global Complementation [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32769)
+    - ***SpotActor:*** Training-Free Layout-Controlled Consistent Image Generation [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32831)
+    - ***Concept Conductor:*** Orchestrating Multiple Personalized Concepts in Text-to-Image Synthesis [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33021)
+    - ***MagicNaming:*** Consistent Identity Generation by Finding a “Name Space” in T2I Diffusion Models [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33133)
+    - ***MultiBooth:*** Towards Generating All Your Concepts in an Image from Text [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33187)
+    - Harmonizing Visual and Textual Embeddings for Zero-Shot Text-to-Image Customization [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/34264)
 - <span id="personalized-year-2024">**Year 2024**</span>
   - **CVPR**
     - Cross Initialization for Personalized Text-to-Image Generation [[Paper]](https://arxiv.org/pdf/2312.15905.pdf)
@@ -574,6 +622,19 @@ Recent news of this GitHub repo are listed as follows.
     - Semantic Image Inversion and Editing using Rectified Stochastic Differential Equations [[Paper]](https://openreview.net/forum?id=Hu0FSOSEyS) [[Project]](https://rf-inversion.github.io/) [[Code]](https://github.com/LituRout/RF-Inversion)
     - ***PostEdit:*** Posterior Sampling for Efficient Zero-Shot Image Editing [[Paper]](https://openreview.net/forum?id=J8YWCBPgx7) [[Code]](https://github.com/TFNTF/PostEdit)
     - ***OmniEdit:*** Building Image Editing Generalist Models Through Specialist Supervision [[Paper]](https://openreview.net/forum?id=Hlm0cga0sv) [[Project]](https://tiger-ai-lab.github.io/OmniEdit/) [[Code]](https://github.com/TIGER-AI-Lab/OmniEdit) [[Dataset]](https://huggingface.co/datasets/TIGER-Lab/OmniEdit-Filtered-1.2M)
+  - **AAAI**
+    - ***Text2Relight:*** Creative Portrait Relighting with Text Guidance [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32194)
+    - ***DiT4Edit:*** Diffusion Transformer for Image Editing [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32304)
+    - ***DesignEdit:*** Unify Spatial-Aware Image Editing via Training-free Inpainting with a Multi-Layered Latent Diffusion Framework [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32414)
+    - ***Move and Act:*** Enhanced Object Manipulation and Background Integrity for Image Editing [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32423)
+    - Energy-Guided Optimization for Personalized Image Editing with Pretrained Text-to-Image Diffusion Models [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32424)
+    - ***Click2Mask:*** Local Editing with Dynamic Mask Generation [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32720)
+    - ***FunEditor:*** Achieving Complex Image Edits via Function Aggregation with Diffusion Models [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32725)
+    - ***SigStyle:*** Signature Style Transfer via Personalized Text-to-Image Models [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32868)
+    - Style Nursing with Spatial and Semantic Guidance for Zero-Shot Traffic Scene Style Transfer [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32886)
+    - ***CA-Edit:*** Causality-Aware Condition Adapter for High-Fidelity Local Facial Attribute Editing [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32928)
+    - ***VersaFusion:*** A Versatile Diffusion-Based Framework for Fine-Grained Image Editing and Enhancement [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33023)
+    - Textualize Visual Prompt for Image Editing via Diffusion Bridge [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/35483)
 
 - <span id="editing-year-2024">**Year 2024**</span>
   - **CVPR**
@@ -647,6 +708,10 @@ Recent news of this GitHub repo are listed as follows.
 
 <!-- omit in toc -->
 ## Text Image Generation
+- <span id="gentext-year-2025">**Year 2025**</span>
+  - **AAAI**
+    - ***HDLayout:*** Hierarchical and Directional Layout Planning for Arbitrary Shaped Visual Text Generation [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32307)
+    - ***GlyphDraw2:*** Automatic Generation of Complex Glyph Posters with Diffusion Models and Large Language Models [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32636)
 - <span id="gentext-year-2024">**Year 2024**</span>
   - **arXiv**
     - ***AnyText:*** Multilingual Visual Text Generation And Editing [[Paper]](https://arxiv.org/pdf/2311.03054.pdf) [[Code]](https://github.com/tyxsspa/AnyText) [[Project]](https://anytext.pics/)
