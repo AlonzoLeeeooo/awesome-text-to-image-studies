@@ -671,6 +671,8 @@ Recent news of this GitHub repo are listed as follows.
     - ***InstantSwap:*** Fast Customized Concept Swapping across Sharp Shape Differences [[Paper]](https://openreview.net/forum?id=UFrHWzZENz)
     - ***Add-it:*** Training-Free Object Insertion in Images With Pretrained Diffusion Models [[Paper]](https://openreview.net/forum?id=ZeaTvXw080)
     - ***PixWizard:*** Versatile Image-to-Image Visual Assistant with Open-Language Instructions [[Paper]](https://openreview.net/forum?id=xuQSp75HmP)
+  - **SIGGRAPH**
+    - ***Cora:*** Correspondence-aware Image Editing Using Few-Step Diffusion [[Paper]](https://arxiv.org/abs/2505.23907) [[Project]](https://cora-edit.github.io/) [[Code]](https://github.com/alimohammadiamirhossein/cora)
   - **AAAI**
     - ***Text2Relight:*** Creative Portrait Relighting with Text Guidance [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32194)
     - ***DiT4Edit:*** Diffusion Transformer for Image Editing [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32304)
