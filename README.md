@@ -276,6 +276,29 @@ Recent news of this GitHub repo are listed as follows.
     - Long-horizon Visual Instruction Generation with Logic and Attribute Self-reflection [[Paper]](https://openreview.net/forum?id=EdMb9TqqDY)
     - Tuning Timestep-Distilled Diffusion Model Using Pairwise Sample Optimization [[Paper]](https://openreview.net/forum?id=fXnE4gB64o)
     - ***ConceptPrune:*** Concept Editing in Diffusion Models via Skilled Neuron Pruning [[Paper]](https://openreview.net/forum?id=kSdWcw5mkp)
+  - **ICML**
+    - ***SAeUron:*** Interpretable Concept Unlearning in Diffusion Models with Sparse Autoencoders [[Paper]](https://raw.githubusercontent.com/mlresearch/v267/main/assets/cywinski25a/cywinski25a.pdf) [[Code]](https://github.com/cywinski/SAeUron)
+    - ***CHATS:*** Combining Human-Aligned Optimization and Test-Time Sampling for Text-to-Image Generation [[Paper]](https://raw.githubusercontent.com/mlresearch/v267/main/assets/fu25g/fu25g.pdf) [[Code]](https://github.com/ATH-MaaS/CHATS)
+    - ***EraseAnything:*** Enabling Concept Erasure in Rectified Flow Transformers [[Paper]](https://raw.githubusercontent.com/mlresearch/v267/main/assets/gao25j/gao25j.pdf) [[Code]](https://github.com/tomguluson92/eraseanything)
+    - Proactive Agents for Multi-Turn Text-to-Image Generation Under Uncertainty [[Paper]](https://raw.githubusercontent.com/mlresearch/v267/main/assets/hahn25a/hahn25a.pdf) [[Code]](https://github.com/google-deepmind/proactive_t2i_agents)
+    - ***Adaptive Median Smoothing:*** Adversarial Defense for Unlearned Text-to-Image Diffusion Models at Inference Time [[Paper]](https://raw.githubusercontent.com/mlresearch/v267/main/assets/han25k/han25k.pdf)
+    - ***ZipAR:*** Parallel Autoregressive Image Generation through Spatial Locality [[Paper]](https://raw.githubusercontent.com/mlresearch/v267/main/assets/he25b/he25b.pdf) [[Code]](https://github.com/ThisisBillhe/ZipAR)
+    - ***D-Fusion:*** Direct Preference Optimization for Aligning Diffusion Models with Visually Consistent Samples [[Paper]](https://raw.githubusercontent.com/mlresearch/v267/main/assets/hu25ab/hu25ab.pdf)
+    - ***Angle Domain Guidance:*** Latent Diffusion Requires Rotation Rather Than Extrapolation [[Paper]](https://raw.githubusercontent.com/mlresearch/v267/main/assets/jin25j/jin25j.pdf) [[Code]](https://github.com/jinc7461/ADG)
+    - ***Shielded Diffusion:*** Generating Novel and Diverse Images using Sparse Repellency [[Paper]](https://raw.githubusercontent.com/mlresearch/v267/main/assets/kirchhof25a/kirchhof25a.pdf)
+    - ***Orthus:*** Autoregressive Interleaved Image-Text Generation with Modality-Specific Heads [[Paper]](https://raw.githubusercontent.com/mlresearch/v267/main/assets/kou25a/kou25a.pdf)
+    - ***One Image is Worth a Thousand Words:*** A Usability Preservable Text-Image Collaborative Erasing Framework [[Paper]](https://raw.githubusercontent.com/mlresearch/v267/main/assets/li25de/li25de.pdf) [[Code]](https://github.com/Ferry-Li/Co-Erasing)
+    - Smoothed Preference Optimization via ReNoise Inversion for Aligning Diffusion Models with Varied Human Preferences [[Paper]](https://raw.githubusercontent.com/mlresearch/v267/main/assets/lu25l/lu25l.pdf) [[Code]](https://github.com/JaydenLyh/SmPO)
+    - ***David and Goliath:*** Small One-step Model Beats Large Diffusion with Score Post-training [[Paper]](https://raw.githubusercontent.com/mlresearch/v267/main/assets/luo25s/luo25s.pdf) [[Code]](https://github.com/pkulwj1994/diff_instruct_star)
+    - Preference Adaptive and Sequential Text-to-Image Generation [[Paper]](https://raw.githubusercontent.com/mlresearch/v267/main/assets/nabati25a/nabati25a.pdf)
+    - ***Concept Reachability in Diffusion Models:*** Beyond Dataset Constraints [[Paper]](https://raw.githubusercontent.com/mlresearch/v267/main/assets/rodriguez25a/rodriguez25a.pdf) [[Code]](https://github.com/martaaparod/concept_reachability)
+    - ***Skrr:*** Skip and Re-use Text Encoder Layers for Memory Efficient Text-to-Image Generation [[Paper]](https://raw.githubusercontent.com/mlresearch/v267/main/assets/seo25a/seo25a.pdf)
+    - Inference-Time Alignment of Diffusion Models with Direct Noise Optimization [[Paper]](https://raw.githubusercontent.com/mlresearch/v267/main/assets/tang25h/tang25h.pdf) [[Code]](https://github.com/TZW1998/Direct-Noise-Optimization)
+    - How to Evaluate and Mitigate IP Infringement in Visual Generative AI? [[Paper]](https://raw.githubusercontent.com/mlresearch/v267/main/assets/wang25o/wang25o.pdf)
+    - ***SANA 1.5:*** Efficient Scaling of Training-Time and Inference-Time Compute in Linear Diffusion Transformer [[Paper]](https://raw.githubusercontent.com/mlresearch/v267/main/assets/xie25b/xie25b.pdf) [[Code]](https://github.com/NVlabs/Sana)
+    - ***MuLan:*** Adapting Multilingual Diffusion Models for Hundreds of Languages with Negligible Cost [[Paper]](https://raw.githubusercontent.com/mlresearch/v267/main/assets/xing25d/xing25d.pdf) [[Code]](https://github.com/mulanai/MuLan)
+    - Improving Compositional Generation with Diffusion Models Using Lift Scores [[Paper]](https://raw.githubusercontent.com/mlresearch/v267/main/assets/yu25e/yu25e.pdf) [[Project]](https://chenningyu.com/complift/)
+    - Minimalist Concept Erasure in Generative Models [[Paper]](https://raw.githubusercontent.com/mlresearch/v267/main/assets/zhang25ai/zhang25ai.pdf)
   - **AAAI**
     - ***AGFSync:*** Leveraging AI-Generated Feedback for Preference Optimization in Text-to-Image Generation [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32168)
     - ***Adaptive Guidance:*** Training-free Acceleration of Conditional Diffusion Models [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32192)
@@ -511,6 +534,14 @@ Recent news of this GitHub repo are listed as follows.
     - ***Hummingbird:*** High Fidelity Image Generation via Multimodal Context Alignment [[Paper]](https://openreview.net/forum?id=6kPBThI6ZJ)
     - ***UniCon:*** Unidirectional Information Flow for Effective Control of Large-Scale Diffusion Models [[Paper]](https://openreview.net/forum?id=uJqKf24HGN)
     - ***Less is More:*** Masking Elements in Image Condition Features Avoids Content Leakages in Style Transfer Diffusion Models [[Paper]](https://openreview.net/forum?id=88JJjsLtqr)
+  - **ICML**
+    - ***FlexControl:*** Computation-Aware Conditional Control with Differentiable Router for Text-to-Image Generation [[Paper]](https://raw.githubusercontent.com/mlresearch/v267/main/assets/fang25j/fang25j.pdf)
+    - ***EcoMapper:*** Generative Modeling for Climate-Aware Satellite Imagery [[Paper]](https://raw.githubusercontent.com/mlresearch/v267/main/assets/goktepe25a/goktepe25a.pdf) [[Code]](https://github.com/maltevb/ecomapper)
+    - ***UniMC:*** Taming Diffusion Transformer for Unified Keypoint-Guided Multi-Class Image Generation [[Paper]](https://raw.githubusercontent.com/mlresearch/v267/main/assets/guo25s/guo25s.pdf)
+    - ***Control and Realism:*** Best of Both Worlds in Layout-to-Image without Training [[Paper]](https://raw.githubusercontent.com/mlresearch/v267/main/assets/li25ab/li25ab.pdf)
+    - ***TextCenGen:*** Attention-Guided Text-Centric Background Adaptation for Text-to-Image Generation [[Paper]](https://raw.githubusercontent.com/mlresearch/v267/main/assets/liang25i/liang25i.pdf) [[Code]](https://github.com/tianyilt/TextCenGen_Background_Adapt)
+    - ***RealRAG:*** Retrieval-augmented Realistic Image Generation via Self-reflective Contrastive Learning [[Paper]](https://raw.githubusercontent.com/mlresearch/v267/main/assets/lyu25c/lyu25c.pdf) [[Project]](https://qc-ly.github.io/RealRAG-page/)
+    - Learning Vision and Language Concepts for Controllable Image Generation [[Paper]](https://raw.githubusercontent.com/mlresearch/v267/main/assets/xie25g/xie25g.pdf)
   - **AAAI**
     - ***VersaGen:*** Unleashing Versatile Visual Control for Text-to-Image Synthesis [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32240)
     - ***Muses:*** 3D-Controllable Image Generation via Multi-Modal Agent Collaboration [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32280)
@@ -652,6 +683,10 @@ Recent news of this GitHub repo are listed as follows.
     - ***DreamDistribution:*** Learning Prompt Distribution for Diverse In-distribution Generation [[Paper]](https://openreview.net/forum?id=oQoQ4u6MQC)
     - ***Storybooth:*** Training-Free Multi-Subject Consistency for Improved Visual Storytelling [[Paper]](https://openreview.net/forum?id=JZLon6cvx8)
     - ***DisEnvisioner:*** Disentangled and Enriched Visual Prompt for Customized Image Generation [[Paper]](https://openreview.net/forum?id=vQxqcVGrhR)
+  - **ICML**
+    - Zero-Shot Adaptation of Parameter-Efficient Fine-Tuning in Diffusion Models [[Paper]](https://raw.githubusercontent.com/mlresearch/v267/main/assets/farhadzadeh25a/farhadzadeh25a.pdf)
+    - Event-Customized Image Generation [[Paper]](https://raw.githubusercontent.com/mlresearch/v267/main/assets/wang25ar/wang25ar.pdf)
+    - ***EasyRef:*** Omni-Generalized Group Image Reference for Diffusion Models via Multimodal LLM [[Paper]](https://raw.githubusercontent.com/mlresearch/v267/main/assets/zong25a/zong25a.pdf) [[Code]](https://github.com/TempleX98/EasyRef)
   - **AAAI**
     - ***CustomContrast:*** A Multilevel Contrastive Perspective for Subject-Driven Text-to-Image Customization [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32210)
     - ***DynASyn:*** Multi-Subject Personalization Enabling Dynamic Action Synthesis [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32259)
@@ -775,6 +810,12 @@ Recent news of this GitHub repo are listed as follows.
     - ***PixWizard:*** Versatile Image-to-Image Visual Assistant with Open-Language Instructions [[Paper]](https://openreview.net/forum?id=xuQSp75HmP)
   - **SIGGRAPH**
     - ***Cora:*** Correspondence-aware Image Editing Using Few-Step Diffusion [[Paper]](https://arxiv.org/abs/2505.23907) [[Project]](https://cora-edit.github.io/) [[Code]](https://github.com/alimohammadiamirhossein/cora)
+  - **ICML**
+    - Highly Compressed Tokenizer Can Generate Without Training [[Paper]](https://raw.githubusercontent.com/mlresearch/v267/main/assets/beyer25a/beyer25a.pdf) [[Code]](https://github.com/lukaslaobeyer/token-opt)
+    - ***FireFlow:*** Fast Inversion of Rectified Flow for Image Semantic Editing [[Paper]](https://raw.githubusercontent.com/mlresearch/v267/main/assets/deng25c/deng25c.pdf) [[Code]](https://github.com/HolmesShuan/FireFlow-Fast-Inversion-of-Rectified-Flow-for-Image-Semantic-Editing)
+    - ***Editable Noise Map Inversion:*** Encoding Target-image into Noise For High-Fidelity Image Manipulation [[Paper]](https://raw.githubusercontent.com/mlresearch/v267/main/assets/kang25b/kang25b.pdf)
+    - ***Balancing Preservation and Modification:*** A Region and Semantic Aware Metric for Instruction-Based Image Editing [[Paper]](https://raw.githubusercontent.com/mlresearch/v267/main/assets/li25dh/li25dh.pdf) [[Project]](https://joyli-x.github.io/BPM/)
+    - Taming Rectified Flow for Inversion and Editing [[Paper]](https://raw.githubusercontent.com/mlresearch/v267/main/assets/wang25ce/wang25ce.pdf) [[Code]](https://github.com/wangjiangshan0725/RF-Solver-Edit)
   - **AAAI**
     - ***Text2Relight:*** Creative Portrait Relighting with Text Guidance [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32194)
     - ***DiT4Edit:*** Diffusion Transformer for Image Editing [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32304)
