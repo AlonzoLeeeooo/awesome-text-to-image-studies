@@ -299,6 +299,9 @@ Recent news of this GitHub repo are listed as follows.
     - ***MuLan:*** Adapting Multilingual Diffusion Models for Hundreds of Languages with Negligible Cost [[Paper]](https://raw.githubusercontent.com/mlresearch/v267/main/assets/xing25d/xing25d.pdf) [[Code]](https://github.com/mulanai/MuLan)
     - Improving Compositional Generation with Diffusion Models Using Lift Scores [[Paper]](https://raw.githubusercontent.com/mlresearch/v267/main/assets/yu25e/yu25e.pdf) [[Project]](https://chenningyu.com/complift/)
     - Minimalist Concept Erasure in Generative Models [[Paper]](https://raw.githubusercontent.com/mlresearch/v267/main/assets/zhang25ai/zhang25ai.pdf)
+  - **SIGGRAPH**
+    - ***Be Decisive:*** Noise-Induced Layouts for Multi-Subject Generation [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3721238.3730631)
+    - ***InstanceGen:*** Image Generation with Instance-level Instructions [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3721238.3730613)
   - **AAAI**
     - ***AGFSync:*** Leveraging AI-Generated Feedback for Preference Optimization in Text-to-Image Generation [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32168)
     - ***Adaptive Guidance:*** Training-free Acceleration of Conditional Diffusion Models [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32192)
@@ -542,6 +545,9 @@ Recent news of this GitHub repo are listed as follows.
     - ***TextCenGen:*** Attention-Guided Text-Centric Background Adaptation for Text-to-Image Generation [[Paper]](https://raw.githubusercontent.com/mlresearch/v267/main/assets/liang25i/liang25i.pdf) [[Code]](https://github.com/tianyilt/TextCenGen_Background_Adapt)
     - ***RealRAG:*** Retrieval-augmented Realistic Image Generation via Self-reflective Contrastive Learning [[Paper]](https://raw.githubusercontent.com/mlresearch/v267/main/assets/lyu25c/lyu25c.pdf) [[Project]](https://qc-ly.github.io/RealRAG-page/)
     - Learning Vision and Language Concepts for Controllable Image Generation [[Paper]](https://raw.githubusercontent.com/mlresearch/v267/main/assets/xie25g/xie25g.pdf)
+  - **SIGGRAPH**
+    - ***FashionComposer:*** Compositional Fashion Image Generation [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3721238.3730663)
+    - ***IP-Composer:*** Semantic Composition of Visual Concepts [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3721238.3730624)
   - **AAAI**
     - ***VersaGen:*** Unleashing Versatile Visual Control for Text-to-Image Synthesis [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32240)
     - ***Muses:*** 3D-Controllable Image Generation via Multi-Modal Agent Collaboration [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32280)
@@ -687,6 +693,10 @@ Recent news of this GitHub repo are listed as follows.
     - Zero-Shot Adaptation of Parameter-Efficient Fine-Tuning in Diffusion Models [[Paper]](https://raw.githubusercontent.com/mlresearch/v267/main/assets/farhadzadeh25a/farhadzadeh25a.pdf)
     - Event-Customized Image Generation [[Paper]](https://raw.githubusercontent.com/mlresearch/v267/main/assets/wang25ar/wang25ar.pdf)
     - ***EasyRef:*** Omni-Generalized Group Image Reference for Diffusion Models via Multimodal LLM [[Paper]](https://raw.githubusercontent.com/mlresearch/v267/main/assets/zong25a/zong25a.pdf) [[Code]](https://github.com/TempleX98/EasyRef)
+  - **SIGGRAPH**
+    - ***Nested Attention:*** Semantic-aware Attention Values for Concept Personalization [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3721238.3730634)
+    - ***TokenVerse:*** Versatile Multi-concept Personalization in Token Modulation Space [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3730843)
+    - ***IP-Prompter:*** Training-Free Theme-Specific Image Generation via Dynamic Visual Prompting [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3721238.3730670)
   - **AAAI**
     - ***CustomContrast:*** A Multilevel Contrastive Perspective for Subject-Driven Text-to-Image Customization [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32210)
     - ***DynASyn:*** Multi-Subject Personalization Enabling Dynamic Action Synthesis [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32259)
@@ -809,7 +819,8 @@ Recent news of this GitHub repo are listed as follows.
     - ***Add-it:*** Training-Free Object Insertion in Images With Pretrained Diffusion Models [[Paper]](https://openreview.net/forum?id=ZeaTvXw080)
     - ***PixWizard:*** Versatile Image-to-Image Visual Assistant with Open-Language Instructions [[Paper]](https://openreview.net/forum?id=xuQSp75HmP)
   - **SIGGRAPH**
-    - ***Cora:*** Correspondence-aware Image Editing Using Few-Step Diffusion [[Paper]](https://arxiv.org/abs/2505.23907) [[Project]](https://cora-edit.github.io/) [[Code]](https://github.com/alimohammadiamirhossein/cora)
+    - ***Cora:*** Correspondence-aware Image Editing Using Few-Step Diffusion [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3721238.3730650) [[Project]](https://cora-edit.github.io/) [[Code]](https://github.com/alimohammadiamirhossein/cora)
+    - ***PartEdit:*** Fine-Grained Image Editing using Pre-Trained Diffusion Models [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3721238.3730747)
   - **ICML**
     - Highly Compressed Tokenizer Can Generate Without Training [[Paper]](https://raw.githubusercontent.com/mlresearch/v267/main/assets/beyer25a/beyer25a.pdf) [[Code]](https://github.com/lukaslaobeyer/token-opt)
     - ***FireFlow:*** Fast Inversion of Rectified Flow for Image Semantic Editing [[Paper]](https://raw.githubusercontent.com/mlresearch/v267/main/assets/deng25c/deng25c.pdf) [[Code]](https://github.com/HolmesShuan/FireFlow-Fast-Inversion-of-Rectified-Flow-for-Image-Semantic-Editing)
