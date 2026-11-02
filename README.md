@@ -366,6 +366,30 @@ Recent news of this GitHub repo are listed as follows.
     - ***MuLan:*** Adapting Multilingual Diffusion Models for Hundreds of Languages with Negligible Cost [[Paper]](https://raw.githubusercontent.com/mlresearch/v267/main/assets/xing25d/xing25d.pdf) [[Code]](https://github.com/mulanai/MuLan)
     - Improving Compositional Generation with Diffusion Models Using Lift Scores [[Paper]](https://raw.githubusercontent.com/mlresearch/v267/main/assets/yu25e/yu25e.pdf) [[Project]](https://chenningyu.com/complift/)
     - Minimalist Concept Erasure in Generative Models [[Paper]](https://raw.githubusercontent.com/mlresearch/v267/main/assets/zhang25ai/zhang25ai.pdf)
+  - **ACM MM**
+    - ***PurifyGen:*** A Risk-Discrimination and Semantic-Purification Model for Safe Text-to-Image Generation [[Paper]](https://dl.acm.org/doi/abs/10.1145/3746027.3754595) [[Code]](https://github.com/AI-Researcher-Team/PurifyGen)
+    - ***StoryCrafter:*** Instance-Aligned Multi-Character Storytelling with Diffusion Policy Learning [[Paper]](https://dl.acm.org/doi/abs/10.1145/3746027.3755022) [[Code]](https://github.com/FancyAI-SCNU/StoryCrafter_ACMMM_2025)
+    - Twin Co-Adaptive Dialogue for Progressive Image Generation [[Paper]](https://dl.acm.org/doi/abs/10.1145/3746027.3755141)
+    - Text-to-Image Generation with Multi-modal Knowledge Graph Construction and Retrieval [[Paper]](https://dl.acm.org/doi/abs/10.1145/3746027.3754792)
+    - ***Multi-Dimensional Text-to-Face Image Quality Assessment Using LLM:*** Database and Method [[Paper]](https://dl.acm.org/doi/abs/10.1145/3746027.3755379)
+    - Text-Visual Semantic Constrained AI-Generated Image Quality Assessment [[Paper]](https://dl.acm.org/doi/abs/10.1145/3746027.3755471) [[Code]](https://github.com/mozhu1/SC-AGIQA)
+    - ***CookAnything:*** A Framework for Flexible and Consistent Multi-Step Recipe Image Generation [[Paper]](https://dl.acm.org/doi/abs/10.1145/3746027.3755174)
+    - ***Set You Straight:*** Auto-Steering Denoising Trajectories to Sidestep Unwanted Concepts [[Paper]](https://dl.acm.org/doi/abs/10.1145/3746027.3754546) [[Code]](https://github.com/lileyang1210/ANT)
+    - Fine-tuning Bias Neurons for Fair Text-to-Image Generation [[Paper]](https://dl.acm.org/doi/abs/10.1145/3746027.3755047)
+    - ***CoCoNO:*** Attention Contrast-and-Complete for Initial Noise Optimization in Text-to-Image Synthesis [[Paper]](https://dl.acm.org/doi/abs/10.1145/3746027.3755169)
+    - ***Inversion-DPO:*** Precise and Efficient Post-Training for Diffusion Models [[Paper]](https://dl.acm.org/doi/abs/10.1145/3746027.3755220) [[Code]](https://github.com/MIGHTYEZ/Inversion-DPO)
+    - ***EmIT:*** Emotional Interaction control in Text-to-image diffusion models [[Paper]](https://dl.acm.org/doi/abs/10.1145/3746027.3755242)
+    - ***MPPR:*** Memory-Prior-based Prompt Refinement in Continuous Space for Advanced Text-to-Image Generation [[Paper]](https://dl.acm.org/doi/abs/10.1145/3746027.3755280)
+    - ***Color Me Correctly:*** Bridging Perceptual Color Spaces and Text Embeddings for Improved Diffusion Generation [[Paper]](https://dl.acm.org/doi/abs/10.1145/3746027.3755369)
+    - ***ACE:*** Concept Editing in Diffusion Models without Performance Degradation [[Paper]](https://dl.acm.org/doi/abs/10.1145/3746027.3755749) [[Code]](https://github.com/littlelittlenine/ACE-zero)
+    - ***SafeCFG:*** Controlling Harmful Features with Dynamic Safe Guidance for Safe Generation [[Paper]](https://dl.acm.org/doi/abs/10.1145/3746027.3754717)
+    - ***Bimodal Debiasing for Text-to-Image Diffusion:*** Adaptive Guidance in Textual and Visual Spaces [[Paper]](https://dl.acm.org/doi/abs/10.1145/3746027.3754901)
+    - ***ICE:*** Intercede Concept Erasure in Text-to-Image Diffusion Models [[Paper]](https://dl.acm.org/doi/abs/10.1145/3746027.3754992)
+    - ***CopyJudge:*** Automated Copyright Infringement Identification and Mitigation in Text-to-Image Diffusion Models [[Paper]](https://dl.acm.org/doi/abs/10.1145/3746027.3755027)
+    - ***Towards Culturally Fair Multimodal Generation:*** Quantifying and Mitigating Orientalist Biases in Text-to-Visual Models [[Paper]](https://dl.acm.org/doi/abs/10.1145/3746027.3755251)
+    - ***Mitigating Stereotypes in Text-to-Image Generation:*** A Novel Perspective of Selective Neural Suppression [[Paper]](https://dl.acm.org/doi/abs/10.1145/3746027.3755293)
+    - ***NDM:*** A Noise-driven Detection and Mitigation Framework against Implicit Sexual Intentions in Text-to-Image Generation [[Paper]](https://dl.acm.org/doi/abs/10.1145/3746027.3755326) [[Code]](https://github.com/lorraine021/NDM)
+    - Do Existing Testing Tools Really Uncover Gender Bias in Text-to-Image Models? [[Paper]](https://dl.acm.org/doi/abs/10.1145/3746027.3755748)
   - **SIGGRAPH**
     - ***Be Decisive:*** Noise-Induced Layouts for Multi-Subject Generation [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3721238.3730631)
     - ***InstanceGen:*** Image Generation with Instance-level Instructions [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3721238.3730613)
@@ -656,6 +680,15 @@ Recent news of this GitHub repo are listed as follows.
     - ***GRPose:*** Learning Graph Relations for Human Image Generation with Pose Priors [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33032)
     - Local Conditional Controlling for Text-to-Image Diffusion Models [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33139)
     - ***DialogDraw:*** Image Generation and Editing System Based on Multi-Turn Dialogue [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/34661)
+  - **ACM MM**
+    - ***Position-LoRA:*** Enhanced Relation Customization through Structural Prior in Initial Latent Noise [[Paper]](https://dl.acm.org/doi/abs/10.1145/3746027.3754543)
+    - ***LoCo:*** Training-Free Layout-to-Image Synthesis with Localized Constraints [[Paper]](https://dl.acm.org/doi/abs/10.1145/3746027.3754905)
+    - ***AnyStyleDiffusion:*** Flexible Style Transfer with Consistent Content Adaptation Across Diffusion Models [[Paper]](https://dl.acm.org/doi/abs/10.1145/3746027.3754942)
+    - ***PLATO:*** Generating Objects from Part Lists via Synthesized Layouts [[Paper]](https://dl.acm.org/doi/abs/10.1145/3746027.3755241)
+    - ***ObjCtrl:*** Object-based Control Relaxation for Conditional Text-to-Image Generation [[Paper]](https://dl.acm.org/doi/abs/10.1145/3746027.3755367)
+    - ***Omni²:*** Unifying Omnidirectional Image Generation and Editing in an Omni Model [[Paper]](https://dl.acm.org/doi/abs/10.1145/3746027.3755405) [[Code]](https://github.com/IntMeGroup/Omni2)
+    - Exploring Palette based Color Guidance in Diffusion Models [[Paper]](https://dl.acm.org/doi/abs/10.1145/3746027.3755527)
+    - ***ModuleTeam:*** Open-Set Multi-Conditional Image Generation with Training-Free Latent Mixture of Any Control Module [[Paper]](https://dl.acm.org/doi/abs/10.1145/3746027.3755686)
 
 - <span id="conditional-year-2024">**Year 2024**</span>
   - **CVPR**
@@ -818,6 +851,9 @@ Recent news of this GitHub repo are listed as follows.
     - ***MagicNaming:*** Consistent Identity Generation by Finding a “Name Space” in T2I Diffusion Models [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33133)
     - ***MultiBooth:*** Towards Generating All Your Concepts in an Image from Text [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33187)
     - Harmonizing Visual and Textual Embeddings for Zero-Shot Text-to-Image Customization [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/34264)
+  - **ACM MM**
+    - ***Interact-Custom:*** Customized Human Object Interaction Image Generation [[Paper]](https://dl.acm.org/doi/abs/10.1145/3746027.3754911)
+    - ***DRC:*** Enhancing Personalized Image Generation via Disentangled Representation Composition [[Paper]](https://dl.acm.org/doi/abs/10.1145/3746027.3755051)
 - <span id="personalized-year-2024">**Year 2024**</span>
   - **CVPR**
     - Cross Initialization for Personalized Text-to-Image Generation [[Paper]](https://arxiv.org/pdf/2312.15905.pdf)
@@ -977,6 +1013,18 @@ Recent news of this GitHub repo are listed as follows.
     - ***CA-Edit:*** Causality-Aware Condition Adapter for High-Fidelity Local Facial Attribute Editing [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32928)
     - ***VersaFusion:*** A Versatile Diffusion-Based Framework for Fine-Grained Image Editing and Enhancement [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33023)
     - Textualize Visual Prompt for Image Editing via Diffusion Bridge [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/35483)
+  - **ACM MM**
+    - ***LMM4Edit:*** Benchmarking and Evaluating Multimodal Image Editing with LMMs [[Paper]](https://dl.acm.org/doi/abs/10.1145/3746027.3755294) [[Code]](https://github.com/IntMeGroup/LMM4Edit)
+    - ***SmartFreeEdit:*** Mask-Free Spatial-Aware Image Editing with Complex Instruction Understanding [[Paper]](https://dl.acm.org/doi/abs/10.1145/3746027.3755395) [[Code]](https://github.com/smileformylove/SmartFreeEdit)
+    - ***Focus Where It Matters:*** LLM-Guided Regional Identification for Instruction-based Image Editing [[Paper]](https://dl.acm.org/doi/abs/10.1145/3746027.3754711)
+    - ***SSAIM:*** Not All Self-Attentions Contain Effective Spatial Structure in Diffusion Models for Text-to-Image Editing [[Paper]](https://dl.acm.org/doi/abs/10.1145/3746027.3754904)
+    - ***EditMaster:*** Bridging Text instruction and Visual Example for Multimodal guided Image Editing [[Paper]](https://dl.acm.org/doi/abs/10.1145/3746027.3754926)
+    - ***DiffArtist:*** Towards Structure and Appearance Controllable Image Stylization [[Paper]](https://dl.acm.org/doi/abs/10.1145/3746027.3755010)
+    - ***CausalCtrl:*** Causality-Aware Control Framework for Text-Guided Visual Editing [[Paper]](https://dl.acm.org/doi/abs/10.1145/3746027.3755228)
+    - ***Prompt-Softbox-Prompt:*** A Free-Text Embedding Control for Image Editing [[Paper]](https://dl.acm.org/doi/abs/10.1145/3746027.3755429) [[Code]](https://github.com/yangyt46/PSP)
+    - ***FreeInsert:*** Personalized Object Insertion with Geometric and Style Control [[Paper]](https://dl.acm.org/doi/abs/10.1145/3746027.3755603)
+    - ***SAKR-Edit:*** Scene-Aware Knowledge Reasoning for Text-to-Image Editing [[Paper]](https://dl.acm.org/doi/abs/10.1145/3746027.3755679)
+    - ***MIGE:*** Mutually Enhanced Multimodal Instruction-Based Image Generation and Editing [[Paper]](https://dl.acm.org/doi/abs/10.1145/3746027.3755811) [[Code]](https://github.com/Eureka-Maggie/MIGE)
 
 - <span id="editing-year-2024">**Year 2024**</span>
   - **CVPR**
@@ -1059,6 +1107,8 @@ Recent news of this GitHub repo are listed as follows.
   - **AAAI**
     - ***HDLayout:*** Hierarchical and Directional Layout Planning for Arbitrary Shaped Visual Text Generation [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32307)
     - ***GlyphDraw2:*** Automatic Generation of Complex Glyph Posters with Diffusion Models and Large Language Models [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32636)
+  - **ACM MM**
+    - ***RealText:*** Realistic Text Image Generation based on Glyph and Scene Aware Inpainting [[Paper]](https://dl.acm.org/doi/abs/10.1145/3746027.3755613)
 - <span id="gentext-year-2024">**Year 2024**</span>
   - **arXiv**
     - ***AnyText:*** Multilingual Visual Text Generation And Editing [[Paper]](https://arxiv.org/pdf/2311.03054.pdf) [[Code]](https://github.com/tyxsspa/AnyText) [[Project]](https://anytext.pics/)
