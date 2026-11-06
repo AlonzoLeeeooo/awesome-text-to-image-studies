@@ -1014,6 +1014,9 @@ Recent news of this GitHub repo are listed as follows.
 
 <!-- omit in toc -->
 ## Text-Guided Image Editing
+- <span id="editing-year-2026">**Year 2026**</span>
+  - **EMNLP**
+    - ***InfoEdit:*** Probing Global Layout Reasoning in Infographic Editing [[Paper]](https://arxiv.org/abs/2609.33286) [[Code]](https://github.com/InfoEdit/InfoEdit) [[Project]](https://infoedit.github.io)
 - <span id="editing-year-2025">**Year 2025**</span>
   - **CVPR**
     - ***FDS:*** Frequency-Aware Denoising Score for Text-Guided Latent Diffusion Image Editing [[Paper]](https://arxiv.org/pdf/2503.19191)
