@@ -140,6 +140,39 @@ Recent news of this GitHub repo are listed as follows.
 
 <!-- omit in toc -->
 ## Text-to-Image Generation
+- <span id="text-year-2026">**Year 2026**</span>
+  - **AAAI**
+    - ***Plot’n Polish:*** Zero-Shot Story Visualization and Disentangled Editing with Text-to-Image Diffusion Models [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/37147)
+    - ***DOS:*** Directional Object Separation in Text Embeddings for Multi-Object Image Generation [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/37235)
+    - ***FastFLUX:*** Pruning FLUX with Block-wise Replacement and Sandwich Training [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/37237)
+    - ***Sortblock:*** Similarity-Aware Feature Reuse for Diffusion Model [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/37276)
+    - ***SAGA:*** Learning Signal-Aligned Distributions for Improved Text-to-Image Generation [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/42426)
+    - ***EvalMuse-40K:*** A Fine-Grained Benchmark with Comprehensive Human Annotations for Text-to-Image Generation Model Alignment Evaluation [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/42458)
+    - Margin-Aware Preference Optimization for Aligning Diffusion Models Without Reference [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/42476)
+    - Rethinking Direct Preference Optimization in Diffusion Models [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/37480)
+    - Towards Spatially Consistent Image Generation: On Incorporating Intrinsic Scene Properties into Diffusion Models [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/37508)
+    - ***MoSs:*** Mixture of Scales for Efficient High-Resolution Autoregressive Image Generation [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/37611)
+    - ***SpecDiff:*** Accelerating Diffusion Model Inference with Self-Speculation [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/37771)
+    - ***Infinite-Story:*** A Training-Free Consistent Text-to-Image Generation [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/37776)
+    - ***SphereDiff:*** Tuning-free 360° Static and Dynamic Panorama Generation via Spherical Latent Representation [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/37779)
+    - ***UniAlignment:*** Semantic Alignment for Unified Image Generation, Understanding, Manipulation and Perception [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/37868)
+    - Mass Concept Erasure in Diffusion Models with Concept Hierarchy [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/37920)
+    - ***Self-NPO:*** Data-Free Diffusion Model Enhancement via Truncated Diffusion Fine-Tuning [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/37934)
+    - Unleashing the Potential of Large Language Models for Text-to-Image Generation Through Autoregressive Representation Alignment [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/38089)
+    - ***VisionReward:*** Fine-Grained Multi-Dimensional Human Preference Learning for Image and Video Generation [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/38107)
+    - ***LongT2IBench:*** A Benchmark for Evaluating Long Text-to-Image Generation with Graph-structured Annotations [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/38168)
+    - ***RealUHR:*** Harnessing Patch-Cascade Flows for Photorealistic Ultra-High-Resolution Synthesis [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/38211)
+    - ***Forecast Then Calibrate:*** Feature Caching as ODE for Efficient Diffusion Transformers [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/38349)
+    - Exploring Position Encoding Mechanism in Diffusion U-Net for Training-free High-resolution Image Generation [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/38366)
+    - ***LookFlow:*** Training-Free and Efficient High-Resolution Image Synthesis via Dynamic Lookahead Guidance Flow [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/38388)
+    - Mechanistic Dissection of Cross-Attention Subspaces in Text-to-Image Diffusion Models [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/39046)
+    - ***ProCache:*** Constraint-Aware Feature Caching with Selective Computation for Diffusion Transformer Acceleration [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/39069)
+    - ***HierarchicalPrune:*** Position-Aware Compression for Large-Scale Diffusion Models [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/39433)
+    - Annealed Relaxation of Speculative Decoding for Faster Autoregressive Image Generation [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/39489)
+    - What Makes a Good Generated Image? Investigating Human and Multimodal LLM Image Preference Alignment [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/39666)
+    - Head-Aware KV Cache Compression for Efficient Visual Autoregressive Modeling [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/39686)
+    - ***FUSE:*** Fine-Grained and Semantic-Aware Learning for Unified Image Understanding and Generation [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/40064)
+    - ***Talk2Image:*** A Multi-Agent System for Multi-Turn Image Generation and Editing [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/40519)
 - <span id="text-year-2025">**Year 2025**</span>
   - **CVPR**
     - ***PreciseCam:*** Precise Camera Control for Text-to-Image Generation [[Paper]](https://arxiv.org/apdf/2501.12910) [[Project]](https://graphics.unizar.es/projects/PreciseCam2024/) [[Code]](https://github.com/edurnebernal/PreciseCam)
@@ -669,6 +702,20 @@ Recent news of this GitHub repo are listed as follows.
 
 <!-- omit in toc -->
 ## Conditional Text-to-Image Generation
+- <span id="conditional-year-2026">**Year 2026**</span>
+  - **AAAI**
+    - ***RelaCtrl:*** Relevance-Guided Efficient Control for Diffusion Transformers [[Paper]](https://arxiv.org/abs/2502.14377)
+    - Multivariate Diffusion Transformer with Decoupled Attention for High-Fidelity Mask-Text Collaborative Facial Generation [[Paper]](https://arxiv.org/abs/2511.12631)
+    - ***RefAdGen:*** High-Fidelity Advertising Image Generation [[Paper]](https://arxiv.org/abs/2508.11695)
+    - ***LAMIC:*** Layout-Aware Multi-Image Composition via Scalability of Multimodal Diffusion Transformer [[Paper]](https://arxiv.org/abs/2508.00477)
+    - ***DEIG:*** Detail-Enhanced Instance Generation with Fine-Grained Semantic Control [[Paper]](https://arxiv.org/abs/2602.18282)
+    - ***Laytrol:*** Preserving Pretrained Knowledge in Layout Control for Multimodal Diffusion Transformers [[Paper]](https://arxiv.org/abs/2511.07934)
+    - ***FreLay:*** Frequency-aware Energy Function for Training-free Layout-to-Image Generation [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/37522)
+    - Accelerating Controllable Generation via Hybrid-grained Cache [[Paper]](https://arxiv.org/abs/2511.11031)
+    - Text-guided Controllable Diffusion for Realistic Camouflage Images Generation [[Paper]](https://arxiv.org/abs/2511.20218)
+    - ***Any2RSI:*** Controllable Remote Sensing Text-to-Image Generation via Any Control and Enriched Description [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/38283)
+    - ***EchoGen:*** Cycle-Consistent Learning for Unified Layout-Image Generation and Understanding [[Paper]](https://arxiv.org/abs/2603.18001)
+    - ***DivControl:*** Knowledge Diversion for Controllable Image Generation [[Paper]](https://arxiv.org/abs/2507.23620)
 - <span id="conditional-year-2025">**Year 2025**</span>
   - **CVPR**
     - Training-free Dense-Aligned Diffusion Guidance for Modular Conditional Image Synthesis [[Paper]](https://arxiv.org/pdf/2504.01515) [[Code]](https://github.com/ZixuanWang0525/DADG)
@@ -869,6 +916,15 @@ Recent news of this GitHub repo are listed as follows.
 
 <!-- omit in toc -->
 ## Personalized Text-to-Image Generation
+- <span id="personalized-year-2026">**Year 2026**</span>
+  - **AAAI**
+    - Personalize Anything for Free with Diffusion Transformer [[Paper]](https://arxiv.org/abs/2503.12590)
+    - ***FocusDPO:*** Dynamic Preference Optimization for Multi-Subject Personalized Image Generation via Adaptive Focus [[Paper]](https://arxiv.org/abs/2509.01181)
+    - ***MM-R1:*** Unleashing the Power of Unified Multimodal Large Language Models for Personalized Image Generation [[Paper]](https://arxiv.org/abs/2508.11433)
+    - ***TARA:*** Token-Aware LoRA for Composable Personalization in Diffusion Models [[Paper]](https://arxiv.org/abs/2508.08812)
+    - ***T-LoRA:*** Single Image Diffusion Model Customization Without Overfitting [[Paper]](https://arxiv.org/abs/2507.05964)
+    - ***IdentityStory:*** Taming Your Identity-Preserving Generator for Human-Centric Story Generation [[Paper]](https://arxiv.org/abs/2512.23519)
+    - ***Adversarial Perturbation Shield:*** Preventing Concept Bleed-through in Continual Learning of Personalized Generative Models [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/39438)
 - <span id="personalized-year-2025">**Year 2025**</span>
   - **CVPR**
     - ***SerialGen:*** Personalized Image Generation by First Standardization Then Personalization [[Paper]](https://arxiv.org/pdf/2412.01485) [[Project]](https://serialgen.github.io/)
@@ -1014,6 +1070,18 @@ Recent news of this GitHub repo are listed as follows.
 
 <!-- omit in toc -->
 ## Text-Guided Image Editing
+- <span id="editing-year-2026">**Year 2026**</span>
+  - **AAAI**
+    - ***MCIE:*** Multimodal LLM-Driven Complex Instruction Image Editing with Spatial Guidance [[Paper]](https://arxiv.org/abs/2602.07993)
+    - ***LayerEdit:*** Disentangled Multi-Object Editing via Conflict-Aware Multi-Layer Learning [[Paper]](https://arxiv.org/abs/2511.08251)
+    - ***X2Edit:*** Revisiting Arbitrary-Instruction Image Editing Through Self-Constructed Data and Task-Aware Representation Learning [[Paper]](https://arxiv.org/abs/2508.07607)
+    - ***TweezeEdit:*** Consistent and Efficient Image Editing with Path Regularization [[Paper]](https://arxiv.org/abs/2508.10498)
+    - ***Insert Anything:*** Image Insertion via In-Context Editing in DiT [[Paper]](https://arxiv.org/abs/2504.15009)
+    - Object Fusion via Diffusion Time-step for Customized Image Editing with Single Example [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/37869)
+    - ***FIA-Edit:*** Frequency-Interactive Attention for Efficient and High-Fidelity Inversion-Free Text-Guided Image Editing [[Paper]](https://arxiv.org/abs/2511.12151)
+    - ***Beyond Simple Edits:*** X-Planner for Complex Instruction-Based Image Editing [[Paper]](https://arxiv.org/abs/2507.05259)
+    - ***SE360:*** Semantic Edit in 360° Panoramas via Hierarchical Data Construction [[Paper]](https://arxiv.org/abs/2512.19943)
+    - ***DragNeXt:*** Rethinking Drag-Based Image Editing [[Paper]](https://arxiv.org/abs/2506.07611)
 - <span id="editing-year-2025">**Year 2025**</span>
   - **CVPR**
     - ***FDS:*** Frequency-Aware Denoising Score for Text-Guided Latent Diffusion Image Editing [[Paper]](https://arxiv.org/pdf/2503.19191)
@@ -1216,6 +1284,13 @@ Recent news of this GitHub repo are listed as follows.
 
 <!-- omit in toc -->
 ## Text Image Generation
+- <span id="gentext-year-2026">**Year 2026**</span>
+  - **AAAI**
+    - ***TripleFDS:*** Triple Feature Disentanglement and Synthesis for Scene Text Editing [[Paper]](https://arxiv.org/abs/2511.13399)
+    - ***AutoPP:*** Towards Automated Product Poster Generation and Optimization [[Paper]](https://arxiv.org/abs/2512.21921)
+    - ***ViType:*** High-Fidelity Visual Text Rendering via Glyph-Aware Multimodal Diffusion [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/42408)
+    - ***EasyText:*** Controllable Diffusion Transformer for Multilingual Text Rendering [[Paper]](https://arxiv.org/abs/2505.24417)
+    - ***UM-Text:*** A Unified Multimodal Model for Image Understanding and Visual Text Editing [[Paper]](https://arxiv.org/abs/2601.08321)
 - <span id="gentext-year-2025">**Year 2025**</span>
   - **ICCV**
     - ***TextMaster:*** A Unified Framework for Realistic Text Editing via Glyph-Style Dual-Control [[Paper]](https://arxiv.org/abs/2410.09879)
