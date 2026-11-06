@@ -49,6 +49,7 @@ Recent news of this GitHub repo are listed as follows.
     - [Year 2024](#personalized-year-2024)
     - [Year 2023](#personalized-year-2023)
   - [Text-Guided Image Editing](#text-guided-image-editing) 
+    - [Year 2026](#editing-year-2026)
     - [Year 2025](#editing-year-2025)
     - [Year 2024](#editing-year-2024)
     - [Year 2023](#editing-year-2023)
@@ -1082,6 +1083,8 @@ Recent news of this GitHub repo are listed as follows.
     - ***Beyond Simple Edits:*** X-Planner for Complex Instruction-Based Image Editing [[Paper]](https://arxiv.org/abs/2507.05259)
     - ***SE360:*** Semantic Edit in 360° Panoramas via Hierarchical Data Construction [[Paper]](https://arxiv.org/abs/2512.19943)
     - ***DragNeXt:*** Rethinking Drag-Based Image Editing [[Paper]](https://arxiv.org/abs/2506.07611)
+  - **EMNLP**
+    - ***InfoEdit:*** Probing Global Layout Reasoning in Infographic Editing [[Paper]](https://arxiv.org/abs/2609.33286) [[Code]](https://github.com/InfoEdit/InfoEdit) [[Project]](https://infoedit.github.io)
 - <span id="editing-year-2025">**Year 2025**</span>
   - **CVPR**
     - ***FDS:*** Frequency-Aware Denoising Score for Text-Guided Latent Diffusion Image Editing [[Paper]](https://arxiv.org/pdf/2503.19191)
