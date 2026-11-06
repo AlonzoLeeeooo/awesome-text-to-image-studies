@@ -49,6 +49,7 @@ Recent news of this GitHub repo are listed as follows.
     - [Year 2024](#personalized-year-2024)
     - [Year 2023](#personalized-year-2023)
   - [Text-Guided Image Editing](#text-guided-image-editing) 
+    - [Year 2026](#editing-year-2026)
     - [Year 2025](#editing-year-2025)
     - [Year 2024](#editing-year-2024)
     - [Year 2023](#editing-year-2023)
