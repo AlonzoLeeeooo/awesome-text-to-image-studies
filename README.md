@@ -106,6 +106,7 @@ Recent news of this GitHub repo are listed as follows.
 |Vega AI|2023|[link](https://www.vegaai.net/)|Vega AI is an online AI generation tool, which can be applied for *T2I generation, I2I generation, SR, T2V generation, I2V generation, etc.*|
 |Wujie AI|2022|[link](https://www.wujieai.com/)|The Chinese name is "无界AI", offering AIGC resources and online services|
 |Midjourney|2022|[link](https://www.midjourney.com/home)|Powerful close-sourced generation tool|
+|Imagera|-|[link](https://imagera.ai)|Multi-model AI image studio; saved Character IDs keep one face, product or place consistent across images, with image-to-video, voice and music in the same place (paid).|
 
 [<u><small><🎯Back to Top></small></u>](#contents)
 
