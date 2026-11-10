@@ -90,6 +90,7 @@ Recent news of this GitHub repo are listed as follows.
 
 |Name|Year|Website|Specialties|
 |-|-|-|-|
+|UberLLM|2026|[link](https://uberllm.dev/)|One API key for 70+ text-to-image and image-editing models (GPT Image, Nano Banana, Imagen 4, Seedream, FLUX.2, Ideogram, Qwen-Image and others) through an OpenAI-style `/v1/images/generations` endpoint; failed requests are not billed|
 |AI Art Generator|2025|[link](https://aiart-generator.art/)|AI art generation platform with resolution presets, style transfer, upscaling, and video creation.|
 |Nano Image Art|2025|[link](https://nanoimage.art/)|Create stunning AI images — powered by Google's Nano Banana Pro for next-gen quality, smart editing, and intelligent prompts.|
 |Fast Image AI|2025|[link](https://fastimage.ai/)|Fast Image AI instantly transforms your photos into stunning styles like Ghibli, Sketch, and Pixar. Effortlessly control image elements and create amazing effects with just one click.|
