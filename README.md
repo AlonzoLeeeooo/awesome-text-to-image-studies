@@ -391,6 +391,9 @@ Recent news of this GitHub repo are listed as follows.
     - ***You Don’t Need All That Attention:*** Surgical Memorization Mitigation in Text-to-Image Diffusion Models [[Paper]](https://raw.githubusercontent.com/mlresearch/v306/main/assets/zhao26as/zhao26as.pdf) [[Code]](https://github.com/kairanzhao/GUARD)
     - ***GASS:*** Geometry-Aware Spherical Sampling for Disentangled Diversity Enhancement in Text-to-Image Generation [[Paper]](https://raw.githubusercontent.com/mlresearch/v306/main/assets/zhu26ai/zhu26ai.pdf) [[Code]](https://github.com/L-YeZhu/GASS_T2I)
     - ***MAMBO-G:*** Magnitude-Aware Mitigation for Boosted Guidance [[Paper]](https://raw.githubusercontent.com/mlresearch/v306/main/assets/zhu26al/zhu26al.pdf)
+  - **SIGGRAPH**
+    - ***Composing People Together:*** Iterative Pose-Image Generation for Multi-Person Interaction Scenes [[Paper]](https://dl.acm.org/doi/10.1145/3799902.3811129)
+    - On-the-fly Repulsion in the Contextual Space for Rich Diversity in Diffusion Transformers [[Paper]](https://dl.acm.org/doi/10.1145/3799902.3811074)
   - **AAAI**
     - ***Plot’n Polish:*** Zero-Shot Story Visualization and Disentangled Editing with Text-to-Image Diffusion Models [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/37147)
     - ***DOS:*** Directional Object Separation in Text Embeddings for Multi-Object Image Generation [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/37235)
@@ -991,6 +994,11 @@ Recent news of this GitHub repo are listed as follows.
     - ***The Latent Color Subspace:*** Emergent Order in High-Dimensional Chaos [[Paper]](https://raw.githubusercontent.com/mlresearch/v306/main/assets/pach26a/pach26a.pdf) [[Code]](https://github.com/ExplainableML/LCS)
     - ***StyleDistillation:*** A New Insight of Image Style Enables Personalized Aesthetic Manipulation [[Paper]](https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26bi/wang26bi.pdf)
     - ***AnyCanvas:*** Potential Field Guidance for Training-Free Spatial Control in Text-to-Image Diffusion [[Paper]](https://raw.githubusercontent.com/mlresearch/v306/main/assets/xie26ab/xie26ab.pdf)
+  - **SIGGRAPH** 
+    - ***HumanFlow:*** Controllable Human Image Generation via Flow Matching [[Paper]](https://dl.acm.org/doi/10.1145/3811361) [[Project]](https://wenzhuofanfan.github.io/HumanFlow/)
+    - ***BFS:*** Back-to-Front Layered Image Synthesis via Knowledge Transfer [[Paper]](https://dl.acm.org/doi/10.1145/3799902.3811228) [[Code]](https://github.com/kkang831/BFS_Release) [[Project]](https://kkang831.github.io/bfs/)
+    - ***Colorful-Noise:*** Training-Free Low-Frequency Noise Manipulation for Color-Based Conditional Image Generation [[Paper]](https://dl.acm.org/doi/10.1145/3799902.3811104)
+    - ***Canvas-to-Image:*** Compositional Image Generation with Multimodal Controls [[Paper]](https://dl.acm.org/doi/10.1145/3799902.3811219) [[Project]](https://snap-research.github.io/canvas-to-image/)
   - **AAAI**
     - ***RelaCtrl:*** Relevance-Guided Efficient Control for Diffusion Transformers [[Paper]](https://arxiv.org/abs/2502.14377)
     - Multivariate Diffusion Transformer with Decoupled Attention for High-Fidelity Mask-Text Collaborative Facial Generation [[Paper]](https://arxiv.org/abs/2511.12631)
@@ -1262,6 +1270,9 @@ Recent news of this GitHub repo are listed as follows.
     - Personalized Image Generation via Human-in-the-loop Bayesian Optimization [[Paper]](https://raw.githubusercontent.com/mlresearch/v306/main/assets/rajagopalan26a/rajagopalan26a.pdf)
     - Boost the Identity-Preserving Embedding for Consistent Visual Generation [[Paper]](https://raw.githubusercontent.com/mlresearch/v306/main/assets/xia26i/xia26i.pdf)
     - ***UFO:*** Chain-of-Evaluation for Omni-Condition Alignment in Multi-Modal Image Generation [[Paper]](https://raw.githubusercontent.com/mlresearch/v306/main/assets/zhang26dk/zhang26dk.pdf) [[Code]](https://github.com/UFOTeamwork/UFO.git)
+  - **SIGGRAPH**
+    - ***GimmBO:*** Interactive Generative Image Model Merging via Bayesian Optimization [[Paper]](https://dl.acm.org/doi/10.1145/3811293) [[Code]](https://github.com/squidrice21/gimmbo) [[Project]](https://gimmbo-project.github.io/)
+    - ***ViewWeaver:*** Geometry-Grounded Generative Rendering for 3D-Aware Image Customization [[Paper]](https://dl.acm.org/doi/10.1145/3799902.3811059) [[Code]](https://github.com/liyaowei-stu/ViewWeaver)
   - **AAAI**
     - Personalize Anything for Free with Diffusion Transformer [[Paper]](https://arxiv.org/abs/2503.12590)
     - ***FocusDPO:*** Dynamic Preference Optimization for Multi-Subject Personalized Image Generation via Adaptive Focus [[Paper]](https://arxiv.org/abs/2509.01181)
@@ -1520,6 +1531,9 @@ Recent news of this GitHub repo are listed as follows.
     - Shifting the Breaking Point of Flow Matching for Multi-Instance Editing [[Paper]](https://raw.githubusercontent.com/mlresearch/v306/main/assets/zaccagnino26a/zaccagnino26a.pdf) [[Code]](https://github.com/Blowing-Up-Groundhogs/IDAttn)
     - Semantic Editing with Coupled Stochastic Differential Equations [[Paper]](https://raw.githubusercontent.com/mlresearch/v306/main/assets/zhang26fb/zhang26fb.pdf) [[Code]](https://github.com/Z-Jianxin/syncSDE-release#)
     - ***From Statics to Dynamics:*** Physics-Aware Image Editing with Latent Transition Priors [[Paper]](https://raw.githubusercontent.com/mlresearch/v306/main/assets/zhao26cf/zhao26cf.pdf) [[Code]](https://github.com/liangbingzhao/PhysicEdit)
+  - **SIGGRAPH**
+    - Continuous Control of Editing Models via Adaptive-Origin Guidance [[Paper]](https://dl.acm.org/doi/10.1145/3799902.3811077)
+    - ***HeadRouter:*** A Training-free Image Editing Framework for MM-DiTs by Adaptively Routing Attention Heads [[Paper]](https://dl.acm.org/doi/10.1145/3797956)
   - **AAAI**
     - ***MCIE:*** Multimodal LLM-Driven Complex Instruction Image Editing with Spatial Guidance [[Paper]](https://arxiv.org/abs/2602.07993)
     - ***LayerEdit:*** Disentangled Multi-Object Editing via Conflict-Aware Multi-Layer Learning [[Paper]](https://arxiv.org/abs/2511.08251)
