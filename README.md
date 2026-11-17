@@ -1906,6 +1906,8 @@ Recent news of this GitHub repo are listed as follows.
     - ***ViType:*** High-Fidelity Visual Text Rendering via Glyph-Aware Multimodal Diffusion [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/42408)
     - ***EasyText:*** Controllable Diffusion Transformer for Multilingual Text Rendering [[Paper]](https://arxiv.org/abs/2505.24417)
     - ***UM-Text:*** A Unified Multimodal Model for Image Understanding and Visual Text Editing [[Paper]](https://arxiv.org/abs/2601.08321)
+  - **ICANN**
+    - ***FontFusion:*** Enhancing Generative Text in Diffusion Models with Typographic Conditioning [[Paper]](https://arxiv.org/abs/2606.06066) [[Benchmark]](https://github.com/marianlupascu/fontfusion-benchmarks)
 - <span id="gentext-year-2025">**Year 2025**</span>
   - **ICCV**
     - ***TextMaster:*** A Unified Framework for Realistic Text Editing via Glyph-Style Dual-Control [[Paper]](https://arxiv.org/abs/2410.09879)
