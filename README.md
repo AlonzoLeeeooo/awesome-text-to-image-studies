@@ -460,6 +460,32 @@ Recent news of this GitHub repo are listed as follows.
     - ***You Don’t Need All That Attention:*** Surgical Memorization Mitigation in Text-to-Image Diffusion Models [[Paper]](https://raw.githubusercontent.com/mlresearch/v306/main/assets/zhao26as/zhao26as.pdf) [[Code]](https://github.com/kairanzhao/GUARD)
     - ***GASS:*** Geometry-Aware Spherical Sampling for Disentangled Diversity Enhancement in Text-to-Image Generation [[Paper]](https://raw.githubusercontent.com/mlresearch/v306/main/assets/zhu26ai/zhu26ai.pdf) [[Code]](https://github.com/L-YeZhu/GASS_T2I)
     - ***MAMBO-G:*** Magnitude-Aware Mitigation for Boosted Guidance [[Paper]](https://raw.githubusercontent.com/mlresearch/v306/main/assets/zhu26al/zhu26al.pdf)
+  - **ACM MM**
+    - ***PixARG:*** Pixel-Asynchronous Retrieval-Augmented Diffusion for Fast and Realistic Image Generation [[Paper]](https://arxiv.org/pdf/2610.14713)
+    - On the Limitations of Cross-Lingual Consistency in Multilingual Text-to-image Generation [[Paper]](https://arxiv.org/pdf/2608.11002)
+    - Interpreting Object-Dependent Concept Brittleness in Text-to-Image Diffusion Models [[Paper]](https://arxiv.org/pdf/2609.09909)
+    - Restoring Semantic Fidelity for Training-Free High-Resolution Image Generation in Diffusion Transformers [[Paper]](https://2026.acmmm.org/site/technical-programme.html#entry-session-58)
+    - Explore or Converge? Stage-Guided Per-Step Optimization for Diffusion Models [[Paper]](https://arxiv.org/pdf/2608.06768)
+    - Safeguarding Text-to-Image Generation via Inference-Time Prompt-Noise Optimization [[Paper]](https://arxiv.org/pdf/2412.03876)
+    - ***Semantic Steering for Controllable Generation:*** Tuning-Free Concept Erasure in Multimodal Diffusion Transformers [[Paper]](https://arxiv.org/pdf/2608.12829)
+    - ***EAR:*** Erasing Concepts from Unified Autoregressive Models [[Paper]](https://arxiv.org/pdf/2506.20151)
+    - ***PAST:*** Prompt-Adaptive Sampling Termination for Efficient Diffusion Model [[Paper]](https://arxiv.org/pdf/2608.06794)
+    - ***Step Back to Move Forward:*** Reflection-Aware Preference Optimization for Visual Generation [[Paper]](https://arxiv.org/pdf/2609.04282)
+    - Rare Concept Generation via Counterfactual Inference in Diffusion Models [[Paper]](https://arxiv.org/pdf/2607.14765)
+    - ***LinearV:*** Training-Free Value Space Arithmetic for Rectifying Prior Attribute Bias in Text-to-Image Diffusion Models [[Paper]](https://2026.acmmm.org/site/technical-programme.html#entry-session-52)
+    - ***Simile Understanding in Text-to-Image Models:*** An Evaluation Framework [[Paper]](https://arxiv.org/pdf/2608.04750)
+    - Open Multimodal Retrieval-Augmented Factual Image Generation [[Paper]](https://arxiv.org/pdf/2510.22521)
+    - ***HPSv3++:*** Scaling Reward Models Across the Full Spectrum of Diffusion Model Capabilities [[Paper]](https://arxiv.org/pdf/2606.14657)
+    - ***Diagnose-to-Generate:*** Eliminating Structural Distortions in Flow Models via Patch-Level Grounded Alignment [[Paper]](https://arxiv.org/pdf/2610.17882)
+    - Representation Steering via Null-space Alignment for Concept Unlearning in Diffusion Models [[Paper]](https://2026.acmmm.org/site/technical-programme.html#entry-session-85)
+    - ***Suit the Remedy to the Case:*** Precise Backdoor Elimination for Text-to-Image Diffusion Models via Model Editing [[Paper]](https://2026.acmmm.org/site/technical-programme.html#entry-session-85)
+    - ***GeoClean:*** Training-Free Concept Erasure in Rectified Flow via Posterior-Competition Stabilization [[Paper]](https://2026.acmmm.org/site/technical-programme.html#entry-session-58)
+    - ***CoT-RC:*** Self-Improving UMMs via CoT-based Reflecting and Correcting Intermediate Visual Representations [[Paper]](https://2026.acmmm.org/site/technical-programme.html#entry-session-234)
+    - ***Traj-MCPO:*** Trajectory-wise Marginal Consistent Policy Optimization [[Paper]](https://2026.acmmm.org/site/technical-programme.html#entry-session-40)
+    - ***SEPO:*** Self-Evolving Preference Optimization for Diffusion Alignment via Dynamic Rule Refinement [[Paper]](https://2026.acmmm.org/site/technical-programme.html#entry-session-58)
+    - ***SHARP:*** Spectrum-aware Highly-dynamic Adaptation for Resolution Promotion in Remote Sensing Synthesis [[Paper]](https://arxiv.org/pdf/2603.21783)
+    - Accelerating Masked Image Generation by Learning Controlled Latent Dynamics [[Paper]](https://arxiv.org/pdf/2602.23996)
+    - ***Erase but Preserve:*** Controllable Removal of Copyrighted Animation Characters via Optimized Semantic Anchors [[Paper]](https://arxiv.org/pdf/2608.12806)
   - **SIGGRAPH**
     - ***Composing People Together:*** Iterative Pose-Image Generation for Multi-Person Interaction Scenes [[Paper]](https://dl.acm.org/doi/10.1145/3799902.3811129)
     - On-the-fly Repulsion in the Contextual Space for Rich Diversity in Diffusion Transformers [[Paper]](https://dl.acm.org/doi/10.1145/3799902.3811074)
@@ -1094,6 +1120,19 @@ Recent news of this GitHub repo are listed as follows.
     - ***Any2RSI:*** Controllable Remote Sensing Text-to-Image Generation via Any Control and Enriched Description [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/38283)
     - ***EchoGen:*** Cycle-Consistent Learning for Unified Layout-Image Generation and Understanding [[Paper]](https://arxiv.org/abs/2603.18001)
     - ***DivControl:*** Knowledge Diversion for Controllable Image Generation [[Paper]](https://arxiv.org/abs/2507.23620)
+  - **ACM MM**
+    - ***StructGen:*** Disambiguating Multi-Reference Image Generation via Structured Context Modeling [[Paper]](https://arxiv.org/pdf/2607.15619)
+    - ***Bridging Language and Spherical Space:*** Object-Centric Control for Text-to-Panorama Generation [[Paper]](https://arxiv.org/pdf/2608.20691)
+    - Support-Aware Transmittance Refinement for Fine-Grained Occlusion Control in Image Generation [[Paper]](https://2026.acmmm.org/site/technical-programme.html#entry-session-234)
+    - ***AttriHuman:*** Controllable Human Image Generation with Spatial Alignment and Attribute Consistency [[Paper]](https://2026.acmmm.org/site/technical-programme.html#entry-session-52)
+    - ***PoseAdapter:*** Dual-Stream 2.5D Controllable Image Generation for Complex Multi-Object Scenes [[Paper]](https://arxiv.org/pdf/2608.15583)
+    - ***HyperUC:*** A Flow Matching Hypernetwork for Unified Conditional Generation [[Paper]](https://2026.acmmm.org/site/technical-programme.html#entry-session-80)
+    - ***FedTIS:*** Federated Text-to-Image Stylization via Topology-Guided Multi-Attribute Composition [[Paper]](https://2026.acmmm.org/site/technical-programme.html#entry-session-40)
+    - ***PriCo:*** Prior-Guided Bidirectional Branch Cooperation in ControlNet for Fine-Grained Pose Generation [[Paper]](https://2026.acmmm.org/site/technical-programme.html#entry-session-40)
+    - ***VersaVogue:*** Visual Expert Orchestration and Preference Alignment for Unified Fashion Synthesis [[Paper]](https://arxiv.org/pdf/2604.07210)
+    - ***CSGen:*** A Multi-Domain Curvilinear Structure Generation Model via Hierarchical Multimodal Diffusion [[Paper]](https://arxiv.org/pdf/2608.04655)
+    - ***PhysDiff:*** Physics-Inspired Diffusion Framework with Dense Captioning for Controllable X-ray Image Generation [[Paper]](https://2026.acmmm.org/site/technical-programme.html#entry-session-52)
+    - ***TRACE-Bench:*** Decomposing and Diagnosing Multi-Reference Image Generation [[Paper]](https://arxiv.org/pdf/2608.16765)
 - <span id="conditional-year-2025">**Year 2025**</span>
   - **CVPR**
     - Training-free Dense-Aligned Diffusion Guidance for Modular Conditional Image Synthesis [[Paper]](https://arxiv.org/pdf/2504.01515) [[Code]](https://github.com/ZixuanWang0525/DADG)
@@ -1376,6 +1415,11 @@ Recent news of this GitHub repo are listed as follows.
     - ***T-LoRA:*** Single Image Diffusion Model Customization Without Overfitting [[Paper]](https://arxiv.org/abs/2507.05964)
     - ***IdentityStory:*** Taming Your Identity-Preserving Generator for Human-Centric Story Generation [[Paper]](https://arxiv.org/abs/2512.23519)
     - ***Adversarial Perturbation Shield:*** Preventing Concept Bleed-through in Continual Learning of Personalized Generative Models [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/39438)
+  - **ACM MM**
+    - ***MultiCompose:*** Multi-Concept Personalized Composition with Per-Subject Attribute Binding [[Paper]](https://arxiv.org/pdf/2608.03708)
+    - ***BeyondFacial:*** Identity-Preserving Personalized Generation Beyond Facial Close-ups [[Paper]](https://arxiv.org/pdf/2511.11989)
+    - ***LoRAMix:*** Global-to-Local Multi-LoRA Conciliation for Test-Time Text-to-Image Generation [[Paper]](https://2026.acmmm.org/site/technical-programme.html#entry-session-80)
+    - ***FineForge:*** Dual-Driven Reinforcement Learning for Fine-Grained Detail Generation in Diffusion Models [[Paper]](https://2026.acmmm.org/site/technical-programme.html#entry-session-40)
 - <span id="personalized-year-2025">**Year 2025**</span>
   - **CVPR**
     - ***SerialGen:*** Personalized Image Generation by First Standardization Then Personalization [[Paper]](https://arxiv.org/pdf/2412.01485) [[Project]](https://serialgen.github.io/)
@@ -1675,6 +1719,20 @@ Recent news of this GitHub repo are listed as follows.
     - ***Beyond Simple Edits:*** X-Planner for Complex Instruction-Based Image Editing [[Paper]](https://arxiv.org/abs/2507.05259)
     - ***SE360:*** Semantic Edit in 360° Panoramas via Hierarchical Data Construction [[Paper]](https://arxiv.org/abs/2512.19943)
     - ***DragNeXt:*** Rethinking Drag-Based Image Editing [[Paper]](https://arxiv.org/abs/2506.07611)
+  - **ACM MM**
+    - Diffusion Image Editing via Asynchronous Token Decoding [[Paper]](https://arxiv.org/pdf/2608.09322)
+    - ***SREdit:*** A Self-Rewarding Framework with Intrinsically Aligned Critic for Image Editing [[Paper]](https://2026.acmmm.org/site/technical-programme.html#entry-session-75)
+    - ***Rethinking Where to Edit:*** Task-Aware Localization for Instruction-Based Image Editing [[Paper]](https://arxiv.org/pdf/2604.20258)
+    - ***StraightEdit:*** Efficient Low-Step Inversion-Free Text-Guided Image Editing [[Paper]](https://2026.acmmm.org/site/technical-programme.html#entry-session-75)
+    - ***LayerEdit:*** Towards End-to-End Context-Aware Layer Editing [[Paper]](https://2026.acmmm.org/site/technical-programme.html#entry-session-75)
+    - ***SVIE:*** Stitching Video Priors for Physics-Aware Image Editing [[Paper]](https://2026.acmmm.org/site/technical-programme.html#entry-session-75)
+    - Training-Free Image Editing with Visual Context Integration and Concept Alignment [[Paper]](https://arxiv.org/pdf/2604.04487)
+    - ***PhyEdit:*** Towards Real-World Object Manipulation via Physically-Grounded Image Editing [[Paper]](https://arxiv.org/pdf/2604.07230)
+    - ***AmodalEdit:*** Advancing Instruction-Based Image Editing via Amodal Scene Layout Perception [[Paper]](https://2026.acmmm.org/site/technical-programme.html#entry-session-85)
+    - ***DARS:*** Dual-Level Credit Assignment RL with Structured Reasoning for Instruction-Based Image Editing [[Paper]](https://arxiv.org/pdf/2608.20161)
+    - Disentangling Instruction Influence in Diffusion Transformers for Parallel Multi-Instruction-Guided Image Editing [[Paper]](https://arxiv.org/pdf/2504.04784)
+    - ***SI-Edit:*** Toward Sketch-Instruction Guided Local Image Editing with Pixel-Level Precision [[Paper]](https://arxiv.org/pdf/2608.09097)
+    - ***Dual Inversion for Text-to-Image Diffusion Models:*** From Both Prompt and Noise Perspectives [[Paper]](https://arxiv.org/pdf/2607.26735)
   - **EMNLP**
     - ***InfoEdit:*** Probing Global Layout Reasoning in Infographic Editing [[Paper]](https://arxiv.org/abs/2609.33286) [[Code]](https://github.com/InfoEdit/InfoEdit) [[Project]](https://infoedit.github.io)
 - <span id="editing-year-2025">**Year 2025**</span>
@@ -1906,6 +1964,8 @@ Recent news of this GitHub repo are listed as follows.
     - ***ViType:*** High-Fidelity Visual Text Rendering via Glyph-Aware Multimodal Diffusion [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/42408)
     - ***EasyText:*** Controllable Diffusion Transformer for Multilingual Text Rendering [[Paper]](https://arxiv.org/abs/2505.24417)
     - ***UM-Text:*** A Unified Multimodal Model for Image Understanding and Visual Text Editing [[Paper]](https://arxiv.org/abs/2601.08321)
+  - **ACM MM**
+    - ***TIQA:*** Human-Aligned Perceptual Text Quality Assessment in Generated Images [[Paper]](https://arxiv.org/pdf/2603.07119)
 - <span id="gentext-year-2025">**Year 2025**</span>
   - **ICCV**
     - ***TextMaster:*** A Unified Framework for Realistic Text Editing via Glyph-Style Dual-Control [[Paper]](https://arxiv.org/abs/2410.09879)
