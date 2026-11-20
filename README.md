@@ -1879,6 +1879,8 @@ Recent news of this GitHub repo are listed as follows.
     - ***Dual Inversion for Text-to-Image Diffusion Models:*** From Both Prompt and Noise Perspectives [[Paper]](https://arxiv.org/pdf/2607.26735)
   - **EMNLP**
     - ***InfoEdit:*** Probing Global Layout Reasoning in Infographic Editing [[Paper]](https://arxiv.org/abs/2609.33286) [[Code]](https://github.com/InfoEdit/InfoEdit) [[Project]](https://infoedit.github.io)
+  - **WACV**
+    - ***Optimal Transport for Rectified Flow Image Editing:*** Unifying Inversion-Based and Direct Methods [[Paper]](https://openaccess.thecvf.com/content/WACV2026/html/Lupascu_Optimal_Transport_for_Rectified_Flow_Image_Editing_Unifying_Inversion-Based_and_WACV_2026_paper.html) [[Code]](https://github.com/marianlupascu/OT-RF) [[Demo]](https://huggingface.co/spaces/maryanlup/OT-RF)
 - <span id="editing-year-2025">**Year 2025**</span>
   - **CVPR**
     - ***FDS:*** Frequency-Aware Denoising Score for Text-Guided Latent Diffusion Image Editing [[Paper]](https://arxiv.org/pdf/2503.19191)
